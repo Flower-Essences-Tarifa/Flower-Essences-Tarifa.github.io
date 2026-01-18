@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/796e69ae18b2784c.js"],""]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"yUcuKMy46sTvcHbBC7uy_","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"800px","margin":"0 auto","padding":"2rem"},"children":[["$","$L2",null,{"href":"/","children":"back"}],["$","h1",null,{"children":"Cartas Flores de Bach - Sebastian - Inglés"}],["$","div",null,{"style":{"color":"#666","marginBottom":"1rem"},"children":[["$","span",null,{"children":["SKU: ",""]}]," |",["$","span",null,{"children":[" Price: ","60"]}]]}],["$","hr",null,{}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":""},"className":"prose"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/796e69ae18b2784c.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[1509,["/_next/static/chunks/1ac0ef624187a6cb.js"],"default"]
+3:I[5500,["/_next/static/chunks/1ac0ef624187a6cb.js"],"Image"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"F8qih4eliQIKrzyOctO3J","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"800px","margin":"0 auto","padding":"2rem"},"children":[["$","$L2",null,{}],["$","h1",null,{"children":["Cartas Flores de Bach - Sebastian - Inglés"," (IMAGE NAME: ","",")"]}],["$","$L3",null,{"src":"/wordpressImages/","alt":"Cartas Flores de Bach - Sebastian - Inglés","width":500,"height":300}],["$","div",null,{"style":{"color":"#666","marginBottom":"1rem"},"children":[["$","span",null,{"children":["SKU: ",""]}]," |",["$","span",null,{"children":[" Price: ","60"]}]]}],["$","hr",null,{}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":""},"className":"prose"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1ac0ef624187a6cb.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
