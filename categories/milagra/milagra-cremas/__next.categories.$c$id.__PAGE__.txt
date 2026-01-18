@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7f27f9630a007744.js"],""]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"RpAJC317SMmyAkSDcxheg","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"padding":"20px"},"children":[["$","div",null,{"style":{"marginBottom":"10px","color":"#666"},"children":[["$","$L2",null,{"href":"/","children":"Home"}],[["$","span","0",{"children":[" > ",["$","$L2",null,{"href":"/categories/milagra","children":"Milagra"}]]}],["$","span","1",{"children":[" > ",["$","$L2",null,{"href":"/categories/milagra/milagra-cremas","children":"Milagra Cremas"}]]}]]]}],["$","h1",null,{"children":"Milagra Cremas"}],["$","ul",null,{"children":false}],["$","p",null,{"children":[2," Product(s)"]}],["$","ul",null,{"children":[["$","div","product560",{"children":["$","$L2",null,{"href":"/products/560","children":"Lindeva Crema 30ml MI"}]}],["$","div","product563",{"children":["$","$L2",null,{"href":"/products/563","children":"RQ Crema 30ml MI"}]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/7f27f9630a007744.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
