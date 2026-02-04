@@ -2,5 +2,127 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"JlCQ9boEtjotCb0u4oUg0","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Almond - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Almond - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/almond-1099-almond.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Almond - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/almond-1099-almond.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T8f7,# Almond – Esencia Floral de California  
+*Prunus dulcis · Almendra de California*
+
+## Descripción general
+La **esencia floral de Almond**, elaborada a partir del **almendro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **claridad mental**, la **apertura a nuevas experiencias** y la **adaptabilidad emocional**.
+
+## Energía y cualidad emocional
+Almond se utiliza especialmente para personas que:
+- Se sienten **cansadas o sobrecargadas mentalmente**  
+- Tienen dificultad para **adaptarse a cambios o transiciones**  
+- Experimentan **falta de concentración o confusión emocional**  
+
+A nivel energético, Almond ayuda a **renovar la mente**, estimular la **claridad interior** y abrir la **capacidad de aprender y adaptarse con facilidad**.
+
+## Beneficios energéticos de la esencia floral Almond
+- Favorece la **claridad mental y emocional**  
+- Aumenta la **capacidad de concentración y enfoque**  
+- Apoya la **adaptabilidad frente a cambios y transiciones**  
+- Alivia la sensación de **agotamiento o bloqueo mental**  
+- Estimula la **apertura y receptividad a nuevas experiencias**  
+
+Es ideal para **estudiantes, profesionales, personas en procesos de cambio o quienes buscan claridad y equilibrio emocional**.
+
+## La planta y su simbolismo
+El almendro es un árbol **de floración temprana**, con flores blancas o rosadas que anuncian la llegada de la primavera. Su energía simboliza **renacimiento, frescura y apertura**, reflejando el mensaje de la esencia floral: **claridad, renovación y disposición a crecer**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Almond se utiliza para:
+- Superar **agotamiento mental y emocional**  
+- Apoyar la **claridad en decisiones y proyectos**  
+- Facilitar la **adaptación a nuevos entornos o situaciones**  
+- Estimular la **apertura interior y receptividad**  
+
+Puede combinarse con otras esencias para **incrementar la concentración, la claridad emocional y la estabilidad mental**.
+
+## Palabras clave SEO
+almond flower essence, esencia floral almond, almendra de california, flower essences de california, esencias florales californianas, claridad mental, adaptación emocional, apertura interior
+6:T8f7,# Almond – Esencia Floral de California  
+*Prunus dulcis · Almendra de California*
+
+## Descripción general
+La **esencia floral de Almond**, elaborada a partir del **almendro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **claridad mental**, la **apertura a nuevas experiencias** y la **adaptabilidad emocional**.
+
+## Energía y cualidad emocional
+Almond se utiliza especialmente para personas que:
+- Se sienten **cansadas o sobrecargadas mentalmente**  
+- Tienen dificultad para **adaptarse a cambios o transiciones**  
+- Experimentan **falta de concentración o confusión emocional**  
+
+A nivel energético, Almond ayuda a **renovar la mente**, estimular la **claridad interior** y abrir la **capacidad de aprender y adaptarse con facilidad**.
+
+## Beneficios energéticos de la esencia floral Almond
+- Favorece la **claridad mental y emocional**  
+- Aumenta la **capacidad de concentración y enfoque**  
+- Apoya la **adaptabilidad frente a cambios y transiciones**  
+- Alivia la sensación de **agotamiento o bloqueo mental**  
+- Estimula la **apertura y receptividad a nuevas experiencias**  
+
+Es ideal para **estudiantes, profesionales, personas en procesos de cambio o quienes buscan claridad y equilibrio emocional**.
+
+## La planta y su simbolismo
+El almendro es un árbol **de floración temprana**, con flores blancas o rosadas que anuncian la llegada de la primavera. Su energía simboliza **renacimiento, frescura y apertura**, reflejando el mensaje de la esencia floral: **claridad, renovación y disposición a crecer**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Almond se utiliza para:
+- Superar **agotamiento mental y emocional**  
+- Apoyar la **claridad en decisiones y proyectos**  
+- Facilitar la **adaptación a nuevos entornos o situaciones**  
+- Estimular la **apertura interior y receptividad**  
+
+Puede combinarse con otras esencias para **incrementar la concentración, la claridad emocional y la estabilidad mental**.
+
+## Palabras clave SEO
+almond flower essence, esencia floral almond, almendra de california, flower essences de california, esencias florales californianas, claridad mental, adaptación emocional, apertura interior
+0:{"buildId":"206HkKCNffxT_XOlg7ghV","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Almond FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Almond FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/almond-1099-almond.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Almond FES - Flower Essences Tarifa"}]
+12:T8f7,# Almond – Esencia Floral de California  
+*Prunus dulcis · Almendra de California*
+
+## Descripción general
+La **esencia floral de Almond**, elaborada a partir del **almendro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **claridad mental**, la **apertura a nuevas experiencias** y la **adaptabilidad emocional**.
+
+## Energía y cualidad emocional
+Almond se utiliza especialmente para personas que:
+- Se sienten **cansadas o sobrecargadas mentalmente**  
+- Tienen dificultad para **adaptarse a cambios o transiciones**  
+- Experimentan **falta de concentración o confusión emocional**  
+
+A nivel energético, Almond ayuda a **renovar la mente**, estimular la **claridad interior** y abrir la **capacidad de aprender y adaptarse con facilidad**.
+
+## Beneficios energéticos de la esencia floral Almond
+- Favorece la **claridad mental y emocional**  
+- Aumenta la **capacidad de concentración y enfoque**  
+- Apoya la **adaptabilidad frente a cambios y transiciones**  
+- Alivia la sensación de **agotamiento o bloqueo mental**  
+- Estimula la **apertura y receptividad a nuevas experiencias**  
+
+Es ideal para **estudiantes, profesionales, personas en procesos de cambio o quienes buscan claridad y equilibrio emocional**.
+
+## La planta y su simbolismo
+El almendro es un árbol **de floración temprana**, con flores blancas o rosadas que anuncian la llegada de la primavera. Su energía simboliza **renacimiento, frescura y apertura**, reflejando el mensaje de la esencia floral: **claridad, renovación y disposición a crecer**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Almond se utiliza para:
+- Superar **agotamiento mental y emocional**  
+- Apoyar la **claridad en decisiones y proyectos**  
+- Facilitar la **adaptación a nuevos entornos o situaciones**  
+- Estimular la **apertura interior y receptividad**  
+
+Puede combinarse con otras esencias para **incrementar la concentración, la claridad emocional y la estabilidad mental**.
+
+## Palabras clave SEO
+almond flower essence, esencia floral almond, almendra de california, flower essences de california, esencias florales californianas, claridad mental, adaptación emocional, apertura interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/almond-1099-almond.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
