@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[60125,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js"],"BasketContextProvider"]
+2:I[60125,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js"],"BasketContextProvider"]
 3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
 4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-5:I[22016,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js"],""]
+5:I[22016,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js"],""]
 b:I[68027,[],"default"]
 :HL["/_next/static/chunks/ff15cd71db05855b.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"me_rWLbDyop9GL2FhqEWG","c":["","products","california-wild-rose-fes-1131"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","california-wild-rose-fes-1131","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ff15cd71db05855b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b1e1dae359e7f48d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/c0bc282bdc5a99e1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Phone:"}]," ",["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}]," or ",["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+0:{"P":null,"b":"Ne3b-VnJ-oXNq8750UK_d","c":["","products","california-wild-rose-fes-1131"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","california-wild-rose-fes-1131","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ff15cd71db05855b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b1e1dae359e7f48d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/05f3486fbb647760.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Phone:"}]," ",["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}]," or ",["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
 d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
 10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
@@ -17,10 +17,169 @@ e:"$Sreact.suspense"
 8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
 a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L13"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-14:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-15:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-c:["$","$L14",null,{"superior":{"Tipo":"variable","Nombre":"California Wild Rose FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/california-wild-rose-fes-1131-california-wild-rose.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1131,"SKU":"Calwil","slug":"california-wild-rose-fes-1131"},"children":["$","$L15",null,{}]}]
+14:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+15:Tc3c,<h1>California Wild Rose – Esencia Floral de California</h1>
+<p><em>Rosa californica · Rosa silvestre de California</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de California Wild Rose</strong>, elaborada a partir de la <strong>Rosa silvestre de California</strong>, está asociada con el <strong>entusiasmo por la vida</strong>, la <strong>motivación interior</strong> y la capacidad de <strong>participar activamente en la propia experiencia vital</strong>. Es una esencia clave para recuperar el <strong>sentido de propósito y vitalidad emocional</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>California Wild Rose está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>apáticas, resignadas o desmotivadas</strong></li>
+<li>Han perdido el <strong>interés o la ilusión por la vida</strong></li>
+<li>Funcionan desde la <strong>inercia o la aceptación pasiva</strong></li>
+<li>Tienen dificultad para <strong>conectarse con el entusiasmo y la alegría</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>reavivar la chispa interior</strong>, promoviendo una actitud más <strong>activa, comprometida y viva</strong> frente a la vida.</p>
+<h2>Beneficios energéticos de la esencia floral California Wild Rose</h2>
+<ul>
+<li>Reactiva el <strong>entusiasmo y la motivación vital</strong></li>
+<li>Ayuda a salir de la <strong>apatía y la resignación emocional</strong></li>
+<li>Favorece la <strong>participación consciente en la vida</strong></li>
+<li>Estimula la <strong>alegría, el compromiso y la vitalidad emocional</strong></li>
+<li>Apoya la <strong>recuperación del sentido de propósito personal</strong></li>
+</ul>
+<p>Es especialmente útil en momentos de <strong>estancamiento emocional</strong>, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Rosa silvestre de California crece con <strong>fuerza y naturalidad</strong>, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la <strong>capacidad de florecer plenamente</strong>, incluso en condiciones difíciles, y representa el <strong>despertar del entusiasmo y la implicación vital</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, California Wild Rose se utiliza para:</p>
+<ul>
+<li>Superar estados de <strong>apatía emocional o desmotivación</strong></li>
+<li>Reactivar la <strong>energía vital y el interés por la vida</strong></li>
+<li>Favorecer la <strong>presencia activa y consciente</strong></li>
+<li>Acompañar procesos de <strong>renovación personal y emocional</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias para <strong>potenciar la alegría, la motivación y el compromiso vital</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior</p>c:["$","$L14",null,{"superior":{"Tipo":"variable","Nombre":"California Wild Rose FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$15","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/california-wild-rose-fes-1131-california-wild-rose.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1131,"SKU":"Calwil","slug":"california-wild-rose-fes-1131"},"children":"$L16"}]
+17:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+16:["$","$L17",null,{}]
 11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
 f:null
-13:[["$","title","0",{"children":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L16","10",{}]]
+18:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+19:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+13:[["$","title","0",{"children":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$18"}],["$","meta","2",{"property":"og:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$19"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]
+25:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+1a:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}]
+1b:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","6",{"name":"twitter:title","content":"California Wild Rose FES - Flower Essences Tarifa"}]
+24:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+1d:["$","meta","7",{"name":"twitter:description","content":"$24"}]
+1e:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}]
+1f:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+20:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+21:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+22:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+23:["$","$L25","13",{}]

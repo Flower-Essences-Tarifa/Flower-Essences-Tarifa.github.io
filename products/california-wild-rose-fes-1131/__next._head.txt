@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+6:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+0:{"buildId":"Ne3b-VnJ-oXNq8750UK_d","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"California Wild Rose FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"California Wild Rose FES - Flower Essences Tarifa"}]
+12:Ta16,# California Wild Rose – Esencia Floral de California  
+*Rosa californica · Rosa silvestre de California*
+
+## Descripción general
+La **esencia floral de California Wild Rose**, elaborada a partir de la **Rosa silvestre de California**, está asociada con el **entusiasmo por la vida**, la **motivación interior** y la capacidad de **participar activamente en la propia experiencia vital**. Es una esencia clave para recuperar el **sentido de propósito y vitalidad emocional**.
+
+## Energía y cualidad emocional
+California Wild Rose está indicada para personas que:
+- Se sienten **apáticas, resignadas o desmotivadas**  
+- Han perdido el **interés o la ilusión por la vida**  
+- Funcionan desde la **inercia o la aceptación pasiva**  
+- Tienen dificultad para **conectarse con el entusiasmo y la alegría**  
+
+A nivel energético, esta esencia ayuda a **reavivar la chispa interior**, promoviendo una actitud más **activa, comprometida y viva** frente a la vida.
+
+## Beneficios energéticos de la esencia floral California Wild Rose
+- Reactiva el **entusiasmo y la motivación vital**  
+- Ayuda a salir de la **apatía y la resignación emocional**  
+- Favorece la **participación consciente en la vida**  
+- Estimula la **alegría, el compromiso y la vitalidad emocional**  
+- Apoya la **recuperación del sentido de propósito personal**  
+
+Es especialmente útil en momentos de **estancamiento emocional**, rutinas prolongadas o cuando la vida parece vivirse “en piloto automático”.
+
+## La planta y su simbolismo
+La Rosa silvestre de California crece con **fuerza y naturalidad**, adaptándose a su entorno sin perder su belleza ni vitalidad. Simboliza la **capacidad de florecer plenamente**, incluso en condiciones difíciles, y representa el **despertar del entusiasmo y la implicación vital**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, California Wild Rose se utiliza para:
+- Superar estados de **apatía emocional o desmotivación**  
+- Reactivar la **energía vital y el interés por la vida**  
+- Favorecer la **presencia activa y consciente**  
+- Acompañar procesos de **renovación personal y emocional**  
+
+Puede combinarse con otras esencias para **potenciar la alegría, la motivación y el compromiso vital**.
+
+## Palabras clave SEO
+california wild rose flower essence, esencia floral california wild rose, rosa silvestre de california esencia floral, flower essences de california, esencias florales californianas, entusiasmo por la vida, motivación emocional, vitalidad interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131-california-wild-rose.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

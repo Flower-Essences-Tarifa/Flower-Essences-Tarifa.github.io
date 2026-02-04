@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calendula FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Calendula FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/calendula-fes-1128-calendula.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Calendula FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/calendula-fes-1128-calendula.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T969,# Calendula – Esencia Floral de California  
+*Calendula officinalis · Caléndula*
+
+## Descripción general
+La **esencia floral de Calendula**, elaborada a partir de la **Caléndula**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **integración emocional**, la **armonía en la comunicación interna** y la capacidad de **unir aspectos fragmentados del ser**.
+
+## Energía y cualidad emocional
+Calendula está indicada para personas que:
+- Se sienten **divididas o desconectadas internamente**  
+- Experimentan conflictos entre **pensamientos, emociones y acciones**  
+- Tienen dificultad para **integrar experiencias emocionales intensas**  
+- Necesitan apoyo para lograr **coherencia y equilibrio interior**  
+
+A nivel energético, esta esencia ayuda a **armonizar emociones y pensamientos**, facilitando una **sensación de unidad y coherencia personal**.
+
+## Beneficios energéticos de la esencia floral Calendula
+- Promueve la **integración emocional y mental**  
+- Ayuda a **resolver conflictos internos**  
+- Favorece la **coherencia entre mente, emoción y acción**  
+- Apoya la **armonía emocional y la claridad interior**  
+- Facilita la **comunicación interna y el equilibrio personal**  
+
+Es especialmente útil para **personas sensibles, terapeutas y quienes trabajan en procesos de sanación emocional y autoconocimiento**.
+
+## La planta y su simbolismo
+La Caléndula es una flor **cálida y luminosa**, de tonos naranja y amarillo, símbolo de **integración, vitalidad y armonía**. Su energía refleja la capacidad de **unir lo que estaba separado**, recordando que la sanación ocurre cuando todas las partes del ser se alinean.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Calendula se utiliza para:
+- Integrar **emociones complejas o contradictorias**  
+- Apoyar procesos de **sanación emocional profunda**  
+- Favorecer la **coherencia interna y estabilidad emocional**  
+- Facilitar la **expresión equilibrada de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la integración emocional y el bienestar interior**.
+
+## Palabras clave SEO
+calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior
+6:T969,# Calendula – Esencia Floral de California  
+*Calendula officinalis · Caléndula*
+
+## Descripción general
+La **esencia floral de Calendula**, elaborada a partir de la **Caléndula**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **integración emocional**, la **armonía en la comunicación interna** y la capacidad de **unir aspectos fragmentados del ser**.
+
+## Energía y cualidad emocional
+Calendula está indicada para personas que:
+- Se sienten **divididas o desconectadas internamente**  
+- Experimentan conflictos entre **pensamientos, emociones y acciones**  
+- Tienen dificultad para **integrar experiencias emocionales intensas**  
+- Necesitan apoyo para lograr **coherencia y equilibrio interior**  
+
+A nivel energético, esta esencia ayuda a **armonizar emociones y pensamientos**, facilitando una **sensación de unidad y coherencia personal**.
+
+## Beneficios energéticos de la esencia floral Calendula
+- Promueve la **integración emocional y mental**  
+- Ayuda a **resolver conflictos internos**  
+- Favorece la **coherencia entre mente, emoción y acción**  
+- Apoya la **armonía emocional y la claridad interior**  
+- Facilita la **comunicación interna y el equilibrio personal**  
+
+Es especialmente útil para **personas sensibles, terapeutas y quienes trabajan en procesos de sanación emocional y autoconocimiento**.
+
+## La planta y su simbolismo
+La Caléndula es una flor **cálida y luminosa**, de tonos naranja y amarillo, símbolo de **integración, vitalidad y armonía**. Su energía refleja la capacidad de **unir lo que estaba separado**, recordando que la sanación ocurre cuando todas las partes del ser se alinean.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Calendula se utiliza para:
+- Integrar **emociones complejas o contradictorias**  
+- Apoyar procesos de **sanación emocional profunda**  
+- Favorecer la **coherencia interna y estabilidad emocional**  
+- Facilitar la **expresión equilibrada de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la integración emocional y el bienestar interior**.
+
+## Palabras clave SEO
+calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior
+0:{"buildId":"Ne3b-VnJ-oXNq8750UK_d","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calendula FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Calendula FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/calendula-fes-1128-calendula.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Calendula FES - Flower Essences Tarifa"}]
+12:T969,# Calendula – Esencia Floral de California  
+*Calendula officinalis · Caléndula*
+
+## Descripción general
+La **esencia floral de Calendula**, elaborada a partir de la **Caléndula**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con la **integración emocional**, la **armonía en la comunicación interna** y la capacidad de **unir aspectos fragmentados del ser**.
+
+## Energía y cualidad emocional
+Calendula está indicada para personas que:
+- Se sienten **divididas o desconectadas internamente**  
+- Experimentan conflictos entre **pensamientos, emociones y acciones**  
+- Tienen dificultad para **integrar experiencias emocionales intensas**  
+- Necesitan apoyo para lograr **coherencia y equilibrio interior**  
+
+A nivel energético, esta esencia ayuda a **armonizar emociones y pensamientos**, facilitando una **sensación de unidad y coherencia personal**.
+
+## Beneficios energéticos de la esencia floral Calendula
+- Promueve la **integración emocional y mental**  
+- Ayuda a **resolver conflictos internos**  
+- Favorece la **coherencia entre mente, emoción y acción**  
+- Apoya la **armonía emocional y la claridad interior**  
+- Facilita la **comunicación interna y el equilibrio personal**  
+
+Es especialmente útil para **personas sensibles, terapeutas y quienes trabajan en procesos de sanación emocional y autoconocimiento**.
+
+## La planta y su simbolismo
+La Caléndula es una flor **cálida y luminosa**, de tonos naranja y amarillo, símbolo de **integración, vitalidad y armonía**. Su energía refleja la capacidad de **unir lo que estaba separado**, recordando que la sanación ocurre cuando todas las partes del ser se alinean.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Calendula se utiliza para:
+- Integrar **emociones complejas o contradictorias**  
+- Apoyar procesos de **sanación emocional profunda**  
+- Favorecer la **coherencia interna y estabilidad emocional**  
+- Facilitar la **expresión equilibrada de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la integración emocional y el bienestar interior**.
+
+## Palabras clave SEO
+calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/calendula-fes-1128-calendula.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

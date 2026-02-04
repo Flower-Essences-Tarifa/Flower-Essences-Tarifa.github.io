@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Buttercup FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Buttercup FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/buttercup-fes-1127-buttercup.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Buttercup FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/buttercup-fes-1127-buttercup.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T8e0,# Buttercup – Esencia Floral de California  
+*Ranunculus californicus · Botón de Oro de California*
+
+## Descripción general
+La **esencia floral de Buttercup**, elaborada a partir del **Botón de Oro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con el **reconocimiento del propio valor**, la **autoestima** y la capacidad de **brillar y expresarse con confianza**.
+
+## Energía y cualidad emocional
+Buttercup está indicada para personas que:
+- Se sienten **inferiores o poco valoradas**  
+- Dudan de su **talento o capacidad personal**  
+- Tienden a **ocultarse o minimizarse** frente a los demás  
+- Necesitan reforzar su **confianza y presencia personal**  
+
+A nivel energético, esta esencia ayuda a **reconocer y aceptar la propia luz**, permitiendo que la persona **se exprese con naturalidad y seguridad**.
+
+## Beneficios energéticos de la esencia floral Buttercup
+- Fortalece la **autoestima y el amor propio**  
+- Ayuda a **superar sentimientos de inferioridad**  
+- Promueve la **confianza y expresión auténtica**  
+- Apoya el **reconocimiento del propio potencial**  
+- Favorece una **presencia personal clara y segura**  
+
+Es especialmente útil para **personas tímidas, sensibles, artistas y quienes desean ganar seguridad y visibilidad personal**.
+
+## La planta y su simbolismo
+El Botón de Oro es una flor **brillante y luminosa**, que destaca incluso entre la vegetación circundante. Su simbolismo refleja la **capacidad de brillar con luz propia**, recordando que **el valor personal no necesita comparación ni validación externa**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Buttercup se utiliza para:
+- Reforzar la **confianza y autoestima**  
+- Superar la **inseguridad personal**  
+- Apoyar procesos de **autoexpresión y visibilidad**  
+- Favorecer el **reconocimiento del talento propio**  
+
+Puede combinarse con otras esencias para **potenciar la seguridad emocional y el desarrollo personal**.
+
+## Palabras clave SEO
+buttercup flower essence, esencia floral buttercup, botón de oro de california, flower essences de california, esencias florales californianas, autoestima, confianza personal, valor interior
+6:T8e0,# Buttercup – Esencia Floral de California  
+*Ranunculus californicus · Botón de Oro de California*
+
+## Descripción general
+La **esencia floral de Buttercup**, elaborada a partir del **Botón de Oro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con el **reconocimiento del propio valor**, la **autoestima** y la capacidad de **brillar y expresarse con confianza**.
+
+## Energía y cualidad emocional
+Buttercup está indicada para personas que:
+- Se sienten **inferiores o poco valoradas**  
+- Dudan de su **talento o capacidad personal**  
+- Tienden a **ocultarse o minimizarse** frente a los demás  
+- Necesitan reforzar su **confianza y presencia personal**  
+
+A nivel energético, esta esencia ayuda a **reconocer y aceptar la propia luz**, permitiendo que la persona **se exprese con naturalidad y seguridad**.
+
+## Beneficios energéticos de la esencia floral Buttercup
+- Fortalece la **autoestima y el amor propio**  
+- Ayuda a **superar sentimientos de inferioridad**  
+- Promueve la **confianza y expresión auténtica**  
+- Apoya el **reconocimiento del propio potencial**  
+- Favorece una **presencia personal clara y segura**  
+
+Es especialmente útil para **personas tímidas, sensibles, artistas y quienes desean ganar seguridad y visibilidad personal**.
+
+## La planta y su simbolismo
+El Botón de Oro es una flor **brillante y luminosa**, que destaca incluso entre la vegetación circundante. Su simbolismo refleja la **capacidad de brillar con luz propia**, recordando que **el valor personal no necesita comparación ni validación externa**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Buttercup se utiliza para:
+- Reforzar la **confianza y autoestima**  
+- Superar la **inseguridad personal**  
+- Apoyar procesos de **autoexpresión y visibilidad**  
+- Favorecer el **reconocimiento del talento propio**  
+
+Puede combinarse con otras esencias para **potenciar la seguridad emocional y el desarrollo personal**.
+
+## Palabras clave SEO
+buttercup flower essence, esencia floral buttercup, botón de oro de california, flower essences de california, esencias florales californianas, autoestima, confianza personal, valor interior
+0:{"buildId":"Ne3b-VnJ-oXNq8750UK_d","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Buttercup FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Buttercup FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/buttercup-fes-1127-buttercup.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Buttercup FES - Flower Essences Tarifa"}]
+12:T8e0,# Buttercup – Esencia Floral de California  
+*Ranunculus californicus · Botón de Oro de California*
+
+## Descripción general
+La **esencia floral de Buttercup**, elaborada a partir del **Botón de Oro de California**, forma parte del sistema de **Flower Essences de California**. Esta esencia está asociada con el **reconocimiento del propio valor**, la **autoestima** y la capacidad de **brillar y expresarse con confianza**.
+
+## Energía y cualidad emocional
+Buttercup está indicada para personas que:
+- Se sienten **inferiores o poco valoradas**  
+- Dudan de su **talento o capacidad personal**  
+- Tienden a **ocultarse o minimizarse** frente a los demás  
+- Necesitan reforzar su **confianza y presencia personal**  
+
+A nivel energético, esta esencia ayuda a **reconocer y aceptar la propia luz**, permitiendo que la persona **se exprese con naturalidad y seguridad**.
+
+## Beneficios energéticos de la esencia floral Buttercup
+- Fortalece la **autoestima y el amor propio**  
+- Ayuda a **superar sentimientos de inferioridad**  
+- Promueve la **confianza y expresión auténtica**  
+- Apoya el **reconocimiento del propio potencial**  
+- Favorece una **presencia personal clara y segura**  
+
+Es especialmente útil para **personas tímidas, sensibles, artistas y quienes desean ganar seguridad y visibilidad personal**.
+
+## La planta y su simbolismo
+El Botón de Oro es una flor **brillante y luminosa**, que destaca incluso entre la vegetación circundante. Su simbolismo refleja la **capacidad de brillar con luz propia**, recordando que **el valor personal no necesita comparación ni validación externa**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Buttercup se utiliza para:
+- Reforzar la **confianza y autoestima**  
+- Superar la **inseguridad personal**  
+- Apoyar procesos de **autoexpresión y visibilidad**  
+- Favorecer el **reconocimiento del talento propio**  
+
+Puede combinarse con otras esencias para **potenciar la seguridad emocional y el desarrollo personal**.
+
+## Palabras clave SEO
+buttercup flower essence, esencia floral buttercup, botón de oro de california, flower essences de california, esencias florales californianas, autoestima, confianza personal, valor interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/buttercup-fes-1127-buttercup.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

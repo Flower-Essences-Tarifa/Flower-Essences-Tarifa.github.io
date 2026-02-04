@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"California Poppy FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/california-poppy-fes-1130-california-poppy.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1130,"SKU":"Calpop","slug":"california-poppy-fes-1130"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tbde,<h1>California Poppy – Esencia Floral de California</h1>
+<p><em>Eschscholzia californica · Amapola de California</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de California Poppy</strong>, elaborada a partir de la <strong>Amapola de California</strong>, es una de las esencias más emblemáticas dentro del sistema de <strong>Flower Essences de California</strong>. Esta esencia se asocia con la <strong>relajación profunda</strong>, la <strong>confianza interior</strong> y la capacidad de <strong>soltarse con seguridad</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>California Poppy está indicada para personas que:</p>
+<ul>
+<li>Tienen dificultad para <strong>relajarse o soltar el control</strong></li>
+<li>Experimentan <strong>tensión interna o inquietud emocional</strong></li>
+<li>Se sienten inseguras ante el <strong>descanso, el sueño o la quietud</strong></li>
+<li>Necesitan apoyo para <strong>confiar en los procesos naturales de la vida</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>disolver tensiones</strong>, promoviendo una <strong>sensación de calma, seguridad y bienestar interior</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral California Poppy</h2>
+<ul>
+<li>Favorece la <strong>relajación profunda y la calma interior</strong></li>
+<li>Ayuda a <strong>soltar el control y la rigidez emocional</strong></li>
+<li>Promueve la <strong>confianza y la sensación de seguridad interna</strong></li>
+<li>Apoya el <strong>descanso consciente y la quietud emocional</strong></li>
+<li>Facilita la <strong>apertura a estados de paz y serenidad</strong></li>
+</ul>
+<p>Es especialmente útil para <strong>personas sensibles, niños, y quienes atraviesan periodos de estrés, inquietud o dificultad para relajarse</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Amapola de California es una flor <strong>delicada y luminosa</strong>, que se abre al sol y se cierra suavemente al anochecer. Su simbolismo refleja la <strong>confianza natural</strong>, la <strong>capacidad de abrirse y cerrarse con seguridad</strong>, y el arte de <strong>soltarse sin miedo</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, California Poppy se utiliza para:</p>
+<ul>
+<li>Reducir <strong>tensión y nerviosismo</strong></li>
+<li>Apoyar procesos de <strong>relajación y descanso profundo</strong></li>
+<li>Favorecer la <strong>confianza emocional y seguridad interna</strong></li>
+<li>Acompañar prácticas de <strong>calma, meditación y equilibrio emocional</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias para <strong>potenciar la serenidad, el descanso y la estabilidad emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>california poppy flower essence, esencia floral california poppy, amapola de california esencia floral, flower essences de california, esencias florales californianas, relajación profunda, confianza interior, calma emocional</p>0:{"buildId":"Ne3b-VnJ-oXNq8750UK_d","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"California Poppy FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/california-poppy-fes-1130-california-poppy.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1130,"SKU":"Calpop","slug":"california-poppy-fes-1130"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

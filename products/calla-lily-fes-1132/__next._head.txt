@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calla Lily FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Calla Lily FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/calla-lily-fes-1132-calla-lily.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Calla Lily FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/calla-lily-fes-1132-calla-lily.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta1e,# Calla Lily – Esencia Floral de California  
+*Zantedeschia aethiopica · Cala · Lirio de agua*
+
+## Descripción general
+La **esencia floral de Calla Lily**, dentro del sistema de **Flower Essences de California (FES)**, está profundamente relacionada con la **integración entre espiritualidad y vida cotidiana**, así como con la **sanación de la sexualidad y la identidad corporal**. Es una esencia que apoya la vivencia del cuerpo como un **templo sagrado**, libre de culpa o separación.
+
+## Energía y cualidad emocional
+Calla Lily está indicada para personas que:
+- Sienten **conflicto entre lo espiritual y lo físico**
+- Experimentan **vergüenza, culpa o represión corporal**
+- Han vivido la espiritualidad como algo separado del cuerpo
+- Tienen dificultad para **habitar plenamente su identidad y expresión personal**
+
+A nivel energético, esta esencia ayuda a **unificar cuerpo, alma y espíritu**, favoreciendo una experiencia de **integridad, pureza y coherencia interior**.
+
+## Beneficios energéticos de la esencia floral Calla Lily
+- Promueve la **integración de la espiritualidad en la vida diaria**
+- Ayuda a sanar la **relación con el cuerpo y la sexualidad**
+- Favorece la **aceptación de la identidad personal**
+- Disuelve sentimientos de **culpa, vergüenza o separación**
+- Apoya una vivencia del cuerpo como **expresión del espíritu**
+
+Es especialmente útil en procesos de **sanación emocional profunda**, desarrollo espiritual encarnado y reconciliación con la propia naturaleza física.
+
+## La planta y su simbolismo
+La Calla Lily destaca por su **forma pura, elegante y envolvente**, emergiendo desde el agua y la tierra hacia la luz. Simboliza la **unión de lo sagrado y lo terrenal**, recordando que la espiritualidad puede expresarse plenamente a través del cuerpo y la experiencia humana.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Calla Lily se utiliza para:
+- Integrar **cuerpo y espíritu** en el camino espiritual
+- Sanar conflictos relacionados con **sexualidad e identidad**
+- Acompañar procesos de **autoaceptación profunda**
+- Favorecer la **encarnación consciente de valores espirituales**
+
+Puede combinarse con otras esencias florales para apoyar procesos de **integración, pureza emocional y coherencia interior**.
+
+## Palabras clave SEO
+calla lily flower essence, esencia floral calla lily, fes california flower essences, esencias florales de california, integración cuerpo espíritu, sanación de la sexualidad, identidad corporal, espiritualidad encarnada
+6:Ta1e,# Calla Lily – Esencia Floral de California  
+*Zantedeschia aethiopica · Cala · Lirio de agua*
+
+## Descripción general
+La **esencia floral de Calla Lily**, dentro del sistema de **Flower Essences de California (FES)**, está profundamente relacionada con la **integración entre espiritualidad y vida cotidiana**, así como con la **sanación de la sexualidad y la identidad corporal**. Es una esencia que apoya la vivencia del cuerpo como un **templo sagrado**, libre de culpa o separación.
+
+## Energía y cualidad emocional
+Calla Lily está indicada para personas que:
+- Sienten **conflicto entre lo espiritual y lo físico**
+- Experimentan **vergüenza, culpa o represión corporal**
+- Han vivido la espiritualidad como algo separado del cuerpo
+- Tienen dificultad para **habitar plenamente su identidad y expresión personal**
+
+A nivel energético, esta esencia ayuda a **unificar cuerpo, alma y espíritu**, favoreciendo una experiencia de **integridad, pureza y coherencia interior**.
+
+## Beneficios energéticos de la esencia floral Calla Lily
+- Promueve la **integración de la espiritualidad en la vida diaria**
+- Ayuda a sanar la **relación con el cuerpo y la sexualidad**
+- Favorece la **aceptación de la identidad personal**
+- Disuelve sentimientos de **culpa, vergüenza o separación**
+- Apoya una vivencia del cuerpo como **expresión del espíritu**
+
+Es especialmente útil en procesos de **sanación emocional profunda**, desarrollo espiritual encarnado y reconciliación con la propia naturaleza física.
+
+## La planta y su simbolismo
+La Calla Lily destaca por su **forma pura, elegante y envolvente**, emergiendo desde el agua y la tierra hacia la luz. Simboliza la **unión de lo sagrado y lo terrenal**, recordando que la espiritualidad puede expresarse plenamente a través del cuerpo y la experiencia humana.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Calla Lily se utiliza para:
+- Integrar **cuerpo y espíritu** en el camino espiritual
+- Sanar conflictos relacionados con **sexualidad e identidad**
+- Acompañar procesos de **autoaceptación profunda**
+- Favorecer la **encarnación consciente de valores espirituales**
+
+Puede combinarse con otras esencias florales para apoyar procesos de **integración, pureza emocional y coherencia interior**.
+
+## Palabras clave SEO
+calla lily flower essence, esencia floral calla lily, fes california flower essences, esencias florales de california, integración cuerpo espíritu, sanación de la sexualidad, identidad corporal, espiritualidad encarnada
+0:{"buildId":"Ne3b-VnJ-oXNq8750UK_d","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calla Lily FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Calla Lily FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/calla-lily-fes-1132-calla-lily.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Calla Lily FES - Flower Essences Tarifa"}]
+12:Ta1e,# Calla Lily – Esencia Floral de California  
+*Zantedeschia aethiopica · Cala · Lirio de agua*
+
+## Descripción general
+La **esencia floral de Calla Lily**, dentro del sistema de **Flower Essences de California (FES)**, está profundamente relacionada con la **integración entre espiritualidad y vida cotidiana**, así como con la **sanación de la sexualidad y la identidad corporal**. Es una esencia que apoya la vivencia del cuerpo como un **templo sagrado**, libre de culpa o separación.
+
+## Energía y cualidad emocional
+Calla Lily está indicada para personas que:
+- Sienten **conflicto entre lo espiritual y lo físico**
+- Experimentan **vergüenza, culpa o represión corporal**
+- Han vivido la espiritualidad como algo separado del cuerpo
+- Tienen dificultad para **habitar plenamente su identidad y expresión personal**
+
+A nivel energético, esta esencia ayuda a **unificar cuerpo, alma y espíritu**, favoreciendo una experiencia de **integridad, pureza y coherencia interior**.
+
+## Beneficios energéticos de la esencia floral Calla Lily
+- Promueve la **integración de la espiritualidad en la vida diaria**
+- Ayuda a sanar la **relación con el cuerpo y la sexualidad**
+- Favorece la **aceptación de la identidad personal**
+- Disuelve sentimientos de **culpa, vergüenza o separación**
+- Apoya una vivencia del cuerpo como **expresión del espíritu**
+
+Es especialmente útil en procesos de **sanación emocional profunda**, desarrollo espiritual encarnado y reconciliación con la propia naturaleza física.
+
+## La planta y su simbolismo
+La Calla Lily destaca por su **forma pura, elegante y envolvente**, emergiendo desde el agua y la tierra hacia la luz. Simboliza la **unión de lo sagrado y lo terrenal**, recordando que la espiritualidad puede expresarse plenamente a través del cuerpo y la experiencia humana.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Calla Lily se utiliza para:
+- Integrar **cuerpo y espíritu** en el camino espiritual
+- Sanar conflictos relacionados con **sexualidad e identidad**
+- Acompañar procesos de **autoaceptación profunda**
+- Favorecer la **encarnación consciente de valores espirituales**
+
+Puede combinarse con otras esencias florales para apoyar procesos de **integración, pureza emocional y coherencia interior**.
+
+## Palabras clave SEO
+calla lily flower essence, esencia floral calla lily, fes california flower essences, esencias florales de california, integración cuerpo espíritu, sanación de la sexualidad, identidad corporal, espiritualidad encarnada
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/calla-lily-fes-1132-calla-lily.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
