@@ -2,12 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-c:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"hn_CQIT1hA03cRwfJci1x","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","2",{"property":"og:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","7",{"name":"twitter:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],"$L5","$L6","$L7","$L8","$L9","$La"]}]}]}],"$Lb"]}],"loading":null,"isPartial":false}
-5:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
-6:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-7:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-8:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-9:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-a:["$","$Lc","13",{}]
-b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+6:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Black Cohosh FES - Flower Essences Tarifa"}]
+12:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"hn_CQIT1hA03cRwfJci1x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"ID":227,"Tipo":"variable","SKU":"Babbe","Nombre":"Baby Blue Eyes FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"<h3>La descripción del Dr. Bach</h3>\r\n\\nTemores vagos y desconocidos, para los que no se puede dar ninguna explicación, ni razón. Sin embargo, el paciente puede estar aterrorizado de que algo terrible vaya a suceder, sin saber qué. Estos miedos vagos e inexplicables pueden acecharle de noche o de día. Los que lo padecen a menudo tienen miedo de contar sus preocupaciones a los demás.\r\n\\n\r\n\\n– <i>Los Doce Curadores y Otros Remedios</i>","Descripción":"<p>Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br><br>\r<br><br>La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche.</p>","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Precio normal":9.2,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"],"Posición":0,"Meta: _eael_post_view_count":1,"slug":"baby-blue-eyes-fes-227"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tb27,<h1>Baby Blue Eyes – Esencia Floral de California</h1>
+<p><em>Nemophila menziesii · Ojitos Azules de California</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Baby Blue Eyes</strong>, elaborada a partir de la flor silvestre <strong>Ojitos Azules de California</strong>, es parte del sistema de <strong>Flower Essences de California</strong>. Esta esencia se asocia con la <strong>tranquilidad emocional</strong>, la <strong>perspectiva optimista</strong> y la <strong>capacidad de ver la vida con claridad y ligereza</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Baby Blue Eyes se utiliza para personas que:</p>
+<ul>
+<li>Se sienten <strong>estresadas o abrumadas por situaciones cotidianas</strong></li>
+<li>Tienden a <strong>preocuparse demasiado por el futuro</strong></li>
+<li>Necesitan <strong>recuperar la alegría y la ligereza en la vida</strong></li>
+<li>Desean <strong>mirar sus problemas con una perspectiva más clara y positiva</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>recuperar calma, alegría y una actitud abierta ante la vida</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Baby Blue Eyes</h2>
+<ul>
+<li>Favorece la <strong>tranquilidad emocional y la paz interior</strong></li>
+<li>Ayuda a <strong>superar la preocupación y la ansiedad</strong></li>
+<li>Promueve una <strong>perspectiva positiva y optimista</strong></li>
+<li>Facilita la <strong>claridad mental y emocional</strong></li>
+<li>Refuerza la <strong>ligereza y disfrute de la vida cotidiana</strong></li>
+</ul>
+<p>Es ideal para <strong>personas que buscan equilibrio emocional, claridad mental y renovación del optimismo natural</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>Los Ojitos Azules son flores <strong>pequeñas y delicadas</strong>, de un azul intenso y pétalos suaves. Su energía simboliza <strong>tranquilidad, inocencia y claridad</strong>, recordando que <strong>la serenidad y la alegría se cultivan desde la perspectiva que adoptamos ante la vida</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, Baby Blue Eyes se utiliza para:</p>
+<ul>
+<li>Recuperar <strong>calma y serenidad emocional</strong></li>
+<li>Liberar <strong>preocupaciones y tensiones</strong></li>
+<li>Aumentar la <strong>claridad y enfoque mental</strong></li>
+<li>Fomentar la <strong>alegría, optimismo y ligereza</strong></li>
+</ul>
+<p>Se puede combinar con otras esencias para <strong>equilibrar emociones y potenciar la visión positiva de la vida</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>baby blue eyes flower essence, esencia floral baby blue eyes, ojitos azules de california, flower essences de california, esencias florales californianas, tranquilidad emocional, optimismo, claridad mental</p>0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"ID":227,"Tipo":"variable","SKU":"Babbe","Nombre":"Baby Blue Eyes FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"<h3>La descripción del Dr. Bach</h3>\r\n\\nTemores vagos y desconocidos, para los que no se puede dar ninguna explicación, ni razón. Sin embargo, el paciente puede estar aterrorizado de que algo terrible vaya a suceder, sin saber qué. Estos miedos vagos e inexplicables pueden acecharle de noche o de día. Los que lo padecen a menudo tienen miedo de contar sus preocupaciones a los demás.\r\n\\n\r\n\\n– <i>Los Doce Curadores y Otros Remedios</i>","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Precio normal":9.2,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"],"Posición":0,"Meta: _eael_post_view_count":1,"slug":"baby-blue-eyes-fes-227"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

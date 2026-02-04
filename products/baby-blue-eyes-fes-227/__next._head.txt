@@ -2,12 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-c:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"hn_CQIT1hA03cRwfJci1x","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Baby Blue Eyes FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","2",{"property":"og:title","content":"Baby Blue Eyes FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Baby Blue Eyes FES - Flower Essences Tarifa"}],["$","meta","7",{"name":"twitter:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],"$L5","$L6","$L7","$L8","$L9","$La"]}]}]}],"$Lb"]}],"loading":null,"isPartial":false}
-5:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"}]
-6:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-7:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-8:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-9:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-a:["$","$Lc","13",{}]
-b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T90e,# Baby Blue Eyes – Esencia Floral de California  
+*Nemophila menziesii · Ojitos Azules de California*
+
+## Descripción general
+La **esencia floral de Baby Blue Eyes**, elaborada a partir de la flor silvestre **Ojitos Azules de California**, es parte del sistema de **Flower Essences de California**. Esta esencia se asocia con la **tranquilidad emocional**, la **perspectiva optimista** y la **capacidad de ver la vida con claridad y ligereza**.
+
+## Energía y cualidad emocional
+Baby Blue Eyes se utiliza para personas que:
+- Se sienten **estresadas o abrumadas por situaciones cotidianas**  
+- Tienden a **preocuparse demasiado por el futuro**  
+- Necesitan **recuperar la alegría y la ligereza en la vida**  
+- Desean **mirar sus problemas con una perspectiva más clara y positiva**  
+
+A nivel energético, esta esencia ayuda a **recuperar calma, alegría y una actitud abierta ante la vida**.
+
+## Beneficios energéticos de la esencia floral Baby Blue Eyes
+- Favorece la **tranquilidad emocional y la paz interior**  
+- Ayuda a **superar la preocupación y la ansiedad**  
+- Promueve una **perspectiva positiva y optimista**  
+- Facilita la **claridad mental y emocional**  
+- Refuerza la **ligereza y disfrute de la vida cotidiana**  
+
+Es ideal para **personas que buscan equilibrio emocional, claridad mental y renovación del optimismo natural**.
+
+## La planta y su simbolismo
+Los Ojitos Azules son flores **pequeñas y delicadas**, de un azul intenso y pétalos suaves. Su energía simboliza **tranquilidad, inocencia y claridad**, recordando que **la serenidad y la alegría se cultivan desde la perspectiva que adoptamos ante la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Baby Blue Eyes se utiliza para:
+- Recuperar **calma y serenidad emocional**  
+- Liberar **preocupaciones y tensiones**  
+- Aumentar la **claridad y enfoque mental**  
+- Fomentar la **alegría, optimismo y ligereza**  
+
+Se puede combinar con otras esencias para **equilibrar emociones y potenciar la visión positiva de la vida**.
+
+## Palabras clave SEO
+baby blue eyes flower essence, esencia floral baby blue eyes, ojitos azules de california, flower essences de california, esencias florales californianas, tranquilidad emocional, optimismo, claridad mental
+6:T90e,# Baby Blue Eyes – Esencia Floral de California  
+*Nemophila menziesii · Ojitos Azules de California*
+
+## Descripción general
+La **esencia floral de Baby Blue Eyes**, elaborada a partir de la flor silvestre **Ojitos Azules de California**, es parte del sistema de **Flower Essences de California**. Esta esencia se asocia con la **tranquilidad emocional**, la **perspectiva optimista** y la **capacidad de ver la vida con claridad y ligereza**.
+
+## Energía y cualidad emocional
+Baby Blue Eyes se utiliza para personas que:
+- Se sienten **estresadas o abrumadas por situaciones cotidianas**  
+- Tienden a **preocuparse demasiado por el futuro**  
+- Necesitan **recuperar la alegría y la ligereza en la vida**  
+- Desean **mirar sus problemas con una perspectiva más clara y positiva**  
+
+A nivel energético, esta esencia ayuda a **recuperar calma, alegría y una actitud abierta ante la vida**.
+
+## Beneficios energéticos de la esencia floral Baby Blue Eyes
+- Favorece la **tranquilidad emocional y la paz interior**  
+- Ayuda a **superar la preocupación y la ansiedad**  
+- Promueve una **perspectiva positiva y optimista**  
+- Facilita la **claridad mental y emocional**  
+- Refuerza la **ligereza y disfrute de la vida cotidiana**  
+
+Es ideal para **personas que buscan equilibrio emocional, claridad mental y renovación del optimismo natural**.
+
+## La planta y su simbolismo
+Los Ojitos Azules son flores **pequeñas y delicadas**, de un azul intenso y pétalos suaves. Su energía simboliza **tranquilidad, inocencia y claridad**, recordando que **la serenidad y la alegría se cultivan desde la perspectiva que adoptamos ante la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Baby Blue Eyes se utiliza para:
+- Recuperar **calma y serenidad emocional**  
+- Liberar **preocupaciones y tensiones**  
+- Aumentar la **claridad y enfoque mental**  
+- Fomentar la **alegría, optimismo y ligereza**  
+
+Se puede combinar con otras esencias para **equilibrar emociones y potenciar la visión positiva de la vida**.
+
+## Palabras clave SEO
+baby blue eyes flower essence, esencia floral baby blue eyes, ojitos azules de california, flower essences de california, esencias florales californianas, tranquilidad emocional, optimismo, claridad mental
+0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Baby Blue Eyes FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Baby Blue Eyes FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Baby Blue Eyes FES - Flower Essences Tarifa"}]
+12:T90e,# Baby Blue Eyes – Esencia Floral de California  
+*Nemophila menziesii · Ojitos Azules de California*
+
+## Descripción general
+La **esencia floral de Baby Blue Eyes**, elaborada a partir de la flor silvestre **Ojitos Azules de California**, es parte del sistema de **Flower Essences de California**. Esta esencia se asocia con la **tranquilidad emocional**, la **perspectiva optimista** y la **capacidad de ver la vida con claridad y ligereza**.
+
+## Energía y cualidad emocional
+Baby Blue Eyes se utiliza para personas que:
+- Se sienten **estresadas o abrumadas por situaciones cotidianas**  
+- Tienden a **preocuparse demasiado por el futuro**  
+- Necesitan **recuperar la alegría y la ligereza en la vida**  
+- Desean **mirar sus problemas con una perspectiva más clara y positiva**  
+
+A nivel energético, esta esencia ayuda a **recuperar calma, alegría y una actitud abierta ante la vida**.
+
+## Beneficios energéticos de la esencia floral Baby Blue Eyes
+- Favorece la **tranquilidad emocional y la paz interior**  
+- Ayuda a **superar la preocupación y la ansiedad**  
+- Promueve una **perspectiva positiva y optimista**  
+- Facilita la **claridad mental y emocional**  
+- Refuerza la **ligereza y disfrute de la vida cotidiana**  
+
+Es ideal para **personas que buscan equilibrio emocional, claridad mental y renovación del optimismo natural**.
+
+## La planta y su simbolismo
+Los Ojitos Azules son flores **pequeñas y delicadas**, de un azul intenso y pétalos suaves. Su energía simboliza **tranquilidad, inocencia y claridad**, recordando que **la serenidad y la alegría se cultivan desde la perspectiva que adoptamos ante la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Baby Blue Eyes se utiliza para:
+- Recuperar **calma y serenidad emocional**  
+- Liberar **preocupaciones y tensiones**  
+- Aumentar la **claridad y enfoque mental**  
+- Fomentar la **alegría, optimismo y ligereza**  
+
+Se puede combinar con otras esencias para **equilibrar emociones y potenciar la visión positiva de la vida**.
+
+## Palabras clave SEO
+baby blue eyes flower essence, esencia floral baby blue eyes, ojitos azules de california, flower essences de california, esencias florales californianas, tranquilidad emocional, optimismo, claridad mental
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[60125,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js"],"BasketContextProvider"]
+2:I[60125,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js"],"BasketContextProvider"]
 3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
 4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-5:I[22016,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js"],""]
+5:I[22016,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js"],""]
 b:I[68027,[],"default"]
-:HL["/_next/static/chunks/527c2ffd6e0e387b.css","style"]
+:HL["/_next/static/chunks/ff15cd71db05855b.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"hn_CQIT1hA03cRwfJci1x","c":["","products","black-cohosh-fes-229"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","black-cohosh-fes-229","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/527c2ffd6e0e387b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b1e1dae359e7f48d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/6487da33917d0af7.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Phone:"}]," ",["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}]," or ",["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+0:{"P":null,"b":"me_rWLbDyop9GL2FhqEWG","c":["","products","black-cohosh-fes-229"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","black-cohosh-fes-229","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ff15cd71db05855b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/b1e1dae359e7f48d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/c0bc282bdc5a99e1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"Phone:"}]," ",["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}]," or ",["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}],["$","p",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
 d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
 10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
@@ -17,16 +17,169 @@ e:"$Sreact.suspense"
 8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
 a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L13"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-14:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-15:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-c:["$","$L14",null,{"superior":{"ID":229,"Tipo":"variable","SKU":"Blaco","Nombre":"Black Cohosh FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"<h3>La descripción del Dr. Bach</h3>\r\n\\nTemores vagos y desconocidos, para los que no se puede dar ninguna explicación, ni razón. Sin embargo, el paciente puede estar aterrorizado de que algo terrible vaya a suceder, sin saber qué. Estos miedos vagos e inexplicables pueden acecharle de noche o de día. Los que lo padecen a menudo tienen miedo de contar sus preocupaciones a los demás.\r\n\\n\r\n\\n– <i>Los Doce Curadores y Otros Remedios</i>","Descripción":"<p>Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br><br>\r<br><br>La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche.</p>","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Precio normal":9.2,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/black-cohosh-fes-229-black-cohosh.jpg"],"Posición":0,"slug":"black-cohosh-fes-229"},"children":["$","$L15",null,{}]}]
+14:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+15:Tbff,<h1>Black Cohosh – Esencia Floral de California</h1>
+<p><em>Actaea racemosa · Cohosh Negro</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Black Cohosh</strong>, preparada a partir del <strong>Cohosh Negro</strong>, se utiliza dentro del sistema de <strong>Flower Essences de California</strong> para trabajar temas relacionados con la <strong>liberación de tensiones profundas</strong>, la <strong>expresión emocional</strong> y el <strong>equilibrio de energías intensas</strong>, especialmente aquellas vinculadas al ámbito femenino y relacional.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Black Cohosh está indicada para personas que:</p>
+<ul>
+<li>Experimentan <strong>tensión emocional acumulada</strong></li>
+<li>Reprimen sentimientos intensos o difíciles de expresar</li>
+<li>Viven emociones que se manifiestan de forma <strong>abrupta o desbordada</strong></li>
+<li>Necesitan <strong>liberar patrones emocionales antiguos</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>suavizar la intensidad emocional</strong>, favoreciendo una <strong>expresión más fluida y consciente de los sentimientos</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Black Cohosh</h2>
+<ul>
+<li>Facilita la <strong>liberación emocional profunda</strong></li>
+<li>Ayuda a <strong>canalizar emociones intensas de forma equilibrada</strong></li>
+<li>Promueve la <strong>expresión emocional consciente y saludable</strong></li>
+<li>Apoya el <strong>equilibrio interno en momentos de cambio o crisis</strong></li>
+<li>Favorece la <strong>reconexión con el cuerpo y las emociones</strong></li>
+</ul>
+<p>Es especialmente útil para <strong>personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Cohosh Negro es una planta de <strong>porte alto y flores alargadas</strong>, con una presencia fuerte y magnética. Su simbolismo está ligado a la <strong>transformación, la liberación y el movimiento de energías estancadas</strong>, reflejando la capacidad de <strong>sacar a la superficie lo que necesita ser expresado y liberado</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, Black Cohosh se utiliza para:</p>
+<ul>
+<li>Liberar <strong>tensión emocional reprimida</strong></li>
+<li>Apoyar procesos de <strong>transformación personal</strong></li>
+<li>Equilibrar emociones en <strong>etapas de cambio vital</strong></li>
+<li>Facilitar la <strong>expresión auténtica de sentimientos</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias para <strong>potenciar la estabilidad emocional, la conciencia corporal y la integración emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno</p>c:["$","$L14",null,{"superior":{"ID":229,"Tipo":"variable","SKU":"Blaco","Nombre":"Black Cohosh FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"<h3>La descripción del Dr. Bach</h3>\r\n\\nTemores vagos y desconocidos, para los que no se puede dar ninguna explicación, ni razón. Sin embargo, el paciente puede estar aterrorizado de que algo terrible vaya a suceder, sin saber qué. Estos miedos vagos e inexplicables pueden acecharle de noche o de día. Los que lo padecen a menudo tienen miedo de contar sus preocupaciones a los demás.\r\n\\n\r\n\\n– <i>Los Doce Curadores y Otros Remedios</i>","Descripción":"$15","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Precio normal":9.2,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/black-cohosh-fes-229-black-cohosh.jpg"],"Posición":0,"slug":"black-cohosh-fes-229"},"children":"$L16"}]
+17:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+16:["$","$L17",null,{}]
 11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 f:null
-13:[["$","title","0",{"children":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","2",{"property":"og:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","7",{"name":"twitter:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],"$L16","$L17","$L18","$L19","$L1a","$L1b"]
-1c:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-16:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
-17:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-18:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-19:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-1a:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-1b:["$","$L1c","13",{}]
+18:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+19:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+13:[["$","title","0",{"children":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$18"}],["$","meta","2",{"property":"og:title","content":"Black Cohosh FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$19"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]
+25:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+1a:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
+1b:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+1c:["$","meta","6",{"name":"twitter:title","content":"Black Cohosh FES - Flower Essences Tarifa"}]
+24:T9e6,# Black Cohosh – Esencia Floral de California  
+*Actaea racemosa · Cohosh Negro*
+
+## Descripción general
+La **esencia floral de Black Cohosh**, preparada a partir del **Cohosh Negro**, se utiliza dentro del sistema de **Flower Essences de California** para trabajar temas relacionados con la **liberación de tensiones profundas**, la **expresión emocional** y el **equilibrio de energías intensas**, especialmente aquellas vinculadas al ámbito femenino y relacional.
+
+## Energía y cualidad emocional
+Black Cohosh está indicada para personas que:
+- Experimentan **tensión emocional acumulada**  
+- Reprimen sentimientos intensos o difíciles de expresar  
+- Viven emociones que se manifiestan de forma **abrupta o desbordada**  
+- Necesitan **liberar patrones emocionales antiguos**  
+
+A nivel energético, esta esencia ayuda a **suavizar la intensidad emocional**, favoreciendo una **expresión más fluida y consciente de los sentimientos**.
+
+## Beneficios energéticos de la esencia floral Black Cohosh
+- Facilita la **liberación emocional profunda**  
+- Ayuda a **canalizar emociones intensas de forma equilibrada**  
+- Promueve la **expresión emocional consciente y saludable**  
+- Apoya el **equilibrio interno en momentos de cambio o crisis**  
+- Favorece la **reconexión con el cuerpo y las emociones**  
+
+Es especialmente útil para **personas sensibles, terapeutas, y quienes atraviesan procesos emocionales intensos o transformaciones personales**.
+
+## La planta y su simbolismo
+El Cohosh Negro es una planta de **porte alto y flores alargadas**, con una presencia fuerte y magnética. Su simbolismo está ligado a la **transformación, la liberación y el movimiento de energías estancadas**, reflejando la capacidad de **sacar a la superficie lo que necesita ser expresado y liberado**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Black Cohosh se utiliza para:
+- Liberar **tensión emocional reprimida**  
+- Apoyar procesos de **transformación personal**  
+- Equilibrar emociones en **etapas de cambio vital**  
+- Facilitar la **expresión auténtica de sentimientos**  
+
+Puede combinarse con otras esencias para **potenciar la estabilidad emocional, la conciencia corporal y la integración emocional**.
+
+## Palabras clave SEO
+black cohosh flower essence, esencia floral black cohosh, cohosh negro esencia floral, flower essences de california, esencias florales californianas, liberación emocional, expresión emocional, equilibrio interno
+1d:["$","meta","7",{"name":"twitter:description","content":"$24"}]
+1e:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/black-cohosh-fes-229-black-cohosh.jpg"}]
+1f:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+20:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+21:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+22:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+23:["$","$L25","13",{}]

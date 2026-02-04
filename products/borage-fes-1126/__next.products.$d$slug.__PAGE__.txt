@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/6487da33917d0af7.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"hn_CQIT1hA03cRwfJci1x","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Borage FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/borage-fes-1126-borage.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1126,"SKU":"Borfes","slug":"borage-fes-1126"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/c0bc282bdc5a99e1.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tae7,<h1>Borage – Esencia Floral de California</h1>
+<p><em>Borago officinalis · Borraja</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Borage</strong>, elaborada a partir de la <strong>Borraja</strong>, forma parte del sistema de <strong>Flower Essences de California</strong> y está asociada con el <strong>coraje emocional</strong>, la <strong>renovación del ánimo</strong> y la capacidad de <strong>afrontar la vida con valentía y optimismo</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Borage se utiliza para personas que:</p>
+<ul>
+<li>Se sienten <strong>desanimadas o abatidas emocionalmente</strong></li>
+<li>Experimentan <strong>tristeza profunda o falta de entusiasmo</strong></li>
+<li>Han perdido la <strong>alegría o el valor para seguir adelante</strong></li>
+<li>Necesitan apoyo para <strong>recuperar la fortaleza emocional</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>transformar la tristeza en valentía</strong>, restaurando la <strong>confianza y el ánimo positivo</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Borage</h2>
+<ul>
+<li>Fortalece el <strong>coraje emocional</strong></li>
+<li>Ayuda a superar la <strong>tristeza y el desánimo</strong></li>
+<li>Promueve una <strong>actitud positiva y esperanzadora</strong></li>
+<li>Apoya la <strong>recuperación tras momentos difíciles</strong></li>
+<li>Favorece la <strong>estabilidad emocional y la resiliencia</strong></li>
+</ul>
+<p>Es ideal para <strong>personas sensibles, cuidadores, terapeutas y quienes atraviesan situaciones de duelo, cansancio emocional o pérdida de motivación</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Borraja es una planta de flores <strong>azul intenso en forma de estrella</strong>, símbolo tradicional de <strong>valor y fortaleza</strong>. Su energía refleja la capacidad de <strong>mantener el corazón abierto incluso en tiempos difíciles</strong>, recordando que el coraje surge desde el interior.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, Borage se utiliza para:</p>
+<ul>
+<li>Superar <strong>tristeza emocional y abatimiento</strong></li>
+<li>Fortalecer el <strong>ánimo y la valentía interior</strong></li>
+<li>Apoyar procesos de <strong>duelo o pérdida</strong></li>
+<li>Recuperar la <strong>confianza emocional y el optimismo</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias para <strong>potenciar la resiliencia emocional y el equilibrio afectivo</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>borage flower essence, esencia floral borage, borraja esencia floral, flower essences de california, esencias florales californianas, coraje emocional, optimismo, resiliencia emocional</p>0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Borage FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/borage-fes-1126-borage.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1126,"SKU":"Borfes","slug":"borage-fes-1126"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"hn_CQIT1hA03cRwfJci1x","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Borage FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Borage FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/borage-fes-1126-borage.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Borage FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/borage-fes-1126-borage.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T8c1,# Borage – Esencia Floral de California  
+*Borago officinalis · Borraja*
+
+## Descripción general
+La **esencia floral de Borage**, elaborada a partir de la **Borraja**, forma parte del sistema de **Flower Essences de California** y está asociada con el **coraje emocional**, la **renovación del ánimo** y la capacidad de **afrontar la vida con valentía y optimismo**.
+
+## Energía y cualidad emocional
+Borage se utiliza para personas que:
+- Se sienten **desanimadas o abatidas emocionalmente**  
+- Experimentan **tristeza profunda o falta de entusiasmo**  
+- Han perdido la **alegría o el valor para seguir adelante**  
+- Necesitan apoyo para **recuperar la fortaleza emocional**  
+
+A nivel energético, esta esencia ayuda a **transformar la tristeza en valentía**, restaurando la **confianza y el ánimo positivo**.
+
+## Beneficios energéticos de la esencia floral Borage
+- Fortalece el **coraje emocional**  
+- Ayuda a superar la **tristeza y el desánimo**  
+- Promueve una **actitud positiva y esperanzadora**  
+- Apoya la **recuperación tras momentos difíciles**  
+- Favorece la **estabilidad emocional y la resiliencia**  
+
+Es ideal para **personas sensibles, cuidadores, terapeutas y quienes atraviesan situaciones de duelo, cansancio emocional o pérdida de motivación**.
+
+## La planta y su simbolismo
+La Borraja es una planta de flores **azul intenso en forma de estrella**, símbolo tradicional de **valor y fortaleza**. Su energía refleja la capacidad de **mantener el corazón abierto incluso en tiempos difíciles**, recordando que el coraje surge desde el interior.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Borage se utiliza para:
+- Superar **tristeza emocional y abatimiento**  
+- Fortalecer el **ánimo y la valentía interior**  
+- Apoyar procesos de **duelo o pérdida**  
+- Recuperar la **confianza emocional y el optimismo**  
+
+Puede combinarse con otras esencias para **potenciar la resiliencia emocional y el equilibrio afectivo**.
+
+## Palabras clave SEO
+borage flower essence, esencia floral borage, borraja esencia floral, flower essences de california, esencias florales californianas, coraje emocional, optimismo, resiliencia emocional
+6:T8c1,# Borage – Esencia Floral de California  
+*Borago officinalis · Borraja*
+
+## Descripción general
+La **esencia floral de Borage**, elaborada a partir de la **Borraja**, forma parte del sistema de **Flower Essences de California** y está asociada con el **coraje emocional**, la **renovación del ánimo** y la capacidad de **afrontar la vida con valentía y optimismo**.
+
+## Energía y cualidad emocional
+Borage se utiliza para personas que:
+- Se sienten **desanimadas o abatidas emocionalmente**  
+- Experimentan **tristeza profunda o falta de entusiasmo**  
+- Han perdido la **alegría o el valor para seguir adelante**  
+- Necesitan apoyo para **recuperar la fortaleza emocional**  
+
+A nivel energético, esta esencia ayuda a **transformar la tristeza en valentía**, restaurando la **confianza y el ánimo positivo**.
+
+## Beneficios energéticos de la esencia floral Borage
+- Fortalece el **coraje emocional**  
+- Ayuda a superar la **tristeza y el desánimo**  
+- Promueve una **actitud positiva y esperanzadora**  
+- Apoya la **recuperación tras momentos difíciles**  
+- Favorece la **estabilidad emocional y la resiliencia**  
+
+Es ideal para **personas sensibles, cuidadores, terapeutas y quienes atraviesan situaciones de duelo, cansancio emocional o pérdida de motivación**.
+
+## La planta y su simbolismo
+La Borraja es una planta de flores **azul intenso en forma de estrella**, símbolo tradicional de **valor y fortaleza**. Su energía refleja la capacidad de **mantener el corazón abierto incluso en tiempos difíciles**, recordando que el coraje surge desde el interior.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Borage se utiliza para:
+- Superar **tristeza emocional y abatimiento**  
+- Fortalecer el **ánimo y la valentía interior**  
+- Apoyar procesos de **duelo o pérdida**  
+- Recuperar la **confianza emocional y el optimismo**  
+
+Puede combinarse con otras esencias para **potenciar la resiliencia emocional y el equilibrio afectivo**.
+
+## Palabras clave SEO
+borage flower essence, esencia floral borage, borraja esencia floral, flower essences de california, esencias florales californianas, coraje emocional, optimismo, resiliencia emocional
+0:{"buildId":"me_rWLbDyop9GL2FhqEWG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Borage FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Borage FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/borage-fes-1126-borage.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Borage FES - Flower Essences Tarifa"}]
+12:T8c1,# Borage – Esencia Floral de California  
+*Borago officinalis · Borraja*
+
+## Descripción general
+La **esencia floral de Borage**, elaborada a partir de la **Borraja**, forma parte del sistema de **Flower Essences de California** y está asociada con el **coraje emocional**, la **renovación del ánimo** y la capacidad de **afrontar la vida con valentía y optimismo**.
+
+## Energía y cualidad emocional
+Borage se utiliza para personas que:
+- Se sienten **desanimadas o abatidas emocionalmente**  
+- Experimentan **tristeza profunda o falta de entusiasmo**  
+- Han perdido la **alegría o el valor para seguir adelante**  
+- Necesitan apoyo para **recuperar la fortaleza emocional**  
+
+A nivel energético, esta esencia ayuda a **transformar la tristeza en valentía**, restaurando la **confianza y el ánimo positivo**.
+
+## Beneficios energéticos de la esencia floral Borage
+- Fortalece el **coraje emocional**  
+- Ayuda a superar la **tristeza y el desánimo**  
+- Promueve una **actitud positiva y esperanzadora**  
+- Apoya la **recuperación tras momentos difíciles**  
+- Favorece la **estabilidad emocional y la resiliencia**  
+
+Es ideal para **personas sensibles, cuidadores, terapeutas y quienes atraviesan situaciones de duelo, cansancio emocional o pérdida de motivación**.
+
+## La planta y su simbolismo
+La Borraja es una planta de flores **azul intenso en forma de estrella**, símbolo tradicional de **valor y fortaleza**. Su energía refleja la capacidad de **mantener el corazón abierto incluso en tiempos difíciles**, recordando que el coraje surge desde el interior.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Borage se utiliza para:
+- Superar **tristeza emocional y abatimiento**  
+- Fortalecer el **ánimo y la valentía interior**  
+- Apoyar procesos de **duelo o pérdida**  
+- Recuperar la **confianza emocional y el optimismo**  
+
+Puede combinarse con otras esencias para **potenciar la resiliencia emocional y el equilibrio afectivo**.
+
+## Palabras clave SEO
+borage flower essence, esencia floral borage, borraja esencia floral, flower essences de california, esencias florales californianas, coraje emocional, optimismo, resiliencia emocional
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/borage-fes-1126-borage.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
