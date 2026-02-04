@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"RYy7mD4GlP1UroUTjs6Yr","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aloe Vera FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Aloe Vera FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/aloe-vera-fes-221-aloe-vera.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Aloe Vera FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/aloe-vera-fes-221-aloe-vera.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T94b,# Aloe Vera – Esencia Floral de California  
+*Aloe vera · Aloe de California*
+
+## Descripción general
+La **esencia floral de Aloe Vera**, elaborada a partir del **Aloe de California**, es una de las esencias más apreciadas en el sistema de **Flower Essences de California**. Se asocia con la **sanación emocional**, la **regeneración energética** y la **capacidad de renovarse tras experiencias difíciles**.
+
+## Energía y cualidad emocional
+Aloe Vera es especialmente útil para personas que:
+- Se sienten **agotadas o emocionalmente drenadas**  
+- Necesitan **recuperación tras conflictos o traumas**  
+- Buscan **equilibrio y calma interior**  
+- Desean **fortalecer su resiliencia emocional**  
+
+Esta esencia ayuda a **renovar la energía personal**, promoviendo la **sanación profunda y la armonía interior**.
+
+## Beneficios energéticos de la esencia floral Aloe Vera
+- Favorece la **recuperación emocional y energética**  
+- Calma la **tensión y el estrés**  
+- Apoya la **resiliencia y la fortaleza interior**  
+- Promueve la **armonía y equilibrio emocional**  
+- Facilita la **regeneración y revitalización del espíritu**  
+
+Es ideal para **personas que atraviesan procesos de cambio, estrés prolongado o recuperación emocional**, así como para quienes buscan **armonizar mente, cuerpo y espíritu**.
+
+## La planta y su simbolismo
+El Aloe Vera es una planta **suculenta resistente**, conocida por su **capacidad de regeneración y propiedades curativas**. Sus hojas carnosas y su gel interno simbolizan la **protección, la sanación y la energía restauradora**, reflejando el mensaje de la esencia floral: **renovarse y fortalecerse desde dentro**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Aloe Vera se utiliza para:
+- Sanación y **equilibrio emocional**  
+- Recuperación de **agotamiento físico o emocional**  
+- Apoyo en procesos de **estrés y tensión prolongada**  
+- Fortalecimiento de la **resiliencia y energía vital**  
+
+Puede combinarse con otras esencias florales para **potenciar la regeneración emocional y el bienestar integral**.
+
+## Palabras clave SEO
+aloe vera flower essence, esencia floral aloe vera, aloe de california, flower essences de california, esencias florales californianas, sanación emocional, regeneración energética, resiliencia interior
+6:T94b,# Aloe Vera – Esencia Floral de California  
+*Aloe vera · Aloe de California*
+
+## Descripción general
+La **esencia floral de Aloe Vera**, elaborada a partir del **Aloe de California**, es una de las esencias más apreciadas en el sistema de **Flower Essences de California**. Se asocia con la **sanación emocional**, la **regeneración energética** y la **capacidad de renovarse tras experiencias difíciles**.
+
+## Energía y cualidad emocional
+Aloe Vera es especialmente útil para personas que:
+- Se sienten **agotadas o emocionalmente drenadas**  
+- Necesitan **recuperación tras conflictos o traumas**  
+- Buscan **equilibrio y calma interior**  
+- Desean **fortalecer su resiliencia emocional**  
+
+Esta esencia ayuda a **renovar la energía personal**, promoviendo la **sanación profunda y la armonía interior**.
+
+## Beneficios energéticos de la esencia floral Aloe Vera
+- Favorece la **recuperación emocional y energética**  
+- Calma la **tensión y el estrés**  
+- Apoya la **resiliencia y la fortaleza interior**  
+- Promueve la **armonía y equilibrio emocional**  
+- Facilita la **regeneración y revitalización del espíritu**  
+
+Es ideal para **personas que atraviesan procesos de cambio, estrés prolongado o recuperación emocional**, así como para quienes buscan **armonizar mente, cuerpo y espíritu**.
+
+## La planta y su simbolismo
+El Aloe Vera es una planta **suculenta resistente**, conocida por su **capacidad de regeneración y propiedades curativas**. Sus hojas carnosas y su gel interno simbolizan la **protección, la sanación y la energía restauradora**, reflejando el mensaje de la esencia floral: **renovarse y fortalecerse desde dentro**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Aloe Vera se utiliza para:
+- Sanación y **equilibrio emocional**  
+- Recuperación de **agotamiento físico o emocional**  
+- Apoyo en procesos de **estrés y tensión prolongada**  
+- Fortalecimiento de la **resiliencia y energía vital**  
+
+Puede combinarse con otras esencias florales para **potenciar la regeneración emocional y el bienestar integral**.
+
+## Palabras clave SEO
+aloe vera flower essence, esencia floral aloe vera, aloe de california, flower essences de california, esencias florales californianas, sanación emocional, regeneración energética, resiliencia interior
+0:{"buildId":"JlCQ9boEtjotCb0u4oUg0","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Aloe Vera FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Aloe Vera FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/aloe-vera-fes-221-aloe-vera.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Aloe Vera FES - Flower Essences Tarifa"}]
+12:T94b,# Aloe Vera – Esencia Floral de California  
+*Aloe vera · Aloe de California*
+
+## Descripción general
+La **esencia floral de Aloe Vera**, elaborada a partir del **Aloe de California**, es una de las esencias más apreciadas en el sistema de **Flower Essences de California**. Se asocia con la **sanación emocional**, la **regeneración energética** y la **capacidad de renovarse tras experiencias difíciles**.
+
+## Energía y cualidad emocional
+Aloe Vera es especialmente útil para personas que:
+- Se sienten **agotadas o emocionalmente drenadas**  
+- Necesitan **recuperación tras conflictos o traumas**  
+- Buscan **equilibrio y calma interior**  
+- Desean **fortalecer su resiliencia emocional**  
+
+Esta esencia ayuda a **renovar la energía personal**, promoviendo la **sanación profunda y la armonía interior**.
+
+## Beneficios energéticos de la esencia floral Aloe Vera
+- Favorece la **recuperación emocional y energética**  
+- Calma la **tensión y el estrés**  
+- Apoya la **resiliencia y la fortaleza interior**  
+- Promueve la **armonía y equilibrio emocional**  
+- Facilita la **regeneración y revitalización del espíritu**  
+
+Es ideal para **personas que atraviesan procesos de cambio, estrés prolongado o recuperación emocional**, así como para quienes buscan **armonizar mente, cuerpo y espíritu**.
+
+## La planta y su simbolismo
+El Aloe Vera es una planta **suculenta resistente**, conocida por su **capacidad de regeneración y propiedades curativas**. Sus hojas carnosas y su gel interno simbolizan la **protección, la sanación y la energía restauradora**, reflejando el mensaje de la esencia floral: **renovarse y fortalecerse desde dentro**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Aloe Vera se utiliza para:
+- Sanación y **equilibrio emocional**  
+- Recuperación de **agotamiento físico o emocional**  
+- Apoyo en procesos de **estrés y tensión prolongada**  
+- Fortalecimiento de la **resiliencia y energía vital**  
+
+Puede combinarse con otras esencias florales para **potenciar la regeneración emocional y el bienestar integral**.
+
+## Palabras clave SEO
+aloe vera flower essence, esencia floral aloe vera, aloe de california, flower essences de california, esencias florales californianas, sanación emocional, regeneración energética, resiliencia interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/aloe-vera-fes-221-aloe-vera.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
