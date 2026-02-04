@@ -2,12 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-c:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"EuFMwAzqgy25JQxzecV5n","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Arnica FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","2",{"property":"og:title","content":"Arnica FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/arnica-fes-226-arnica.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Arnica FES - Flower Essences Tarifa"}],["$","meta","7",{"name":"twitter:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],"$L5","$L6","$L7","$L8","$L9","$La"]}]}]}],"$Lb"]}],"loading":null,"isPartial":false}
-5:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/arnica-fes-226-arnica.jpg"}]
-6:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-7:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-8:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-9:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-a:["$","$Lc","13",{}]
-b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T916,# Arnica – Esencia Floral de California  
+*Arnica montana · Arnica de California*
+
+## Descripción general
+La **esencia floral de Arnica**, elaborada a partir de la **Arnica de California**, es una de las esencias más valoradas en el sistema de **Flower Essences de California**. Esta esencia se relaciona con la **recuperación emocional**, la **resiliencia** y la **capacidad de sanar experiencias difíciles**.
+
+## Energía y cualidad emocional
+Arnica se utiliza especialmente para personas que han pasado por **traumas, choques emocionales o agotamiento**. La esencia ayuda a transformar:
+- Sensación de impacto o choque emocional  
+- Estrés acumulado  
+- Temor a enfrentar nuevas experiencias  
+- Dificultad para reponerse tras situaciones difíciles  
+
+A nivel energético, Arnica favorece la **reconexión con la fuerza interior** y la **capacidad de avanzar con valentía**.
+
+## Beneficios energéticos de la esencia floral Arnica
+- Ayuda a **recuperarse de impactos emocionales**  
+- Favorece la **resiliencia y fortaleza interior**  
+- Alivia la sensación de **agotamiento o sobrecarga**  
+- Promueve **valentía y seguridad** frente a nuevas situaciones  
+- Apoya la **sanación emocional profunda**  
+
+Es ideal para **personas que trabajan en entornos estresantes, deportistas, cuidadores o quienes atraviesan procesos de cambio o recuperación emocional**.
+
+## La planta y su simbolismo
+La Arnica es una planta de **flor amarilla brillante**, resistente y adaptable, que crece en áreas abiertas y soleadas. Su energía refleja **protección, recuperación y vitalidad**, simbolizando la **capacidad de recuperarse y florecer incluso tras dificultades**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Arnica se utiliza para:
+- Recuperación tras **traumas o golpes emocionales**  
+- Apoyo en **procesos de estrés y agotamiento**  
+- Fortalecer la **resiliencia y estabilidad emocional**  
+- Potenciar la **confianza y valentía interna**  
+
+Puede combinarse con otras esencias para **sanación integral y equilibrio emocional**.
+
+## Palabras clave SEO
+arnica flower essence, esencia floral arnica, arnica de california, flower essences de california, esencias florales californianas, resiliencia emocional, sanación emocional, fuerza interior
+6:T916,# Arnica – Esencia Floral de California  
+*Arnica montana · Arnica de California*
+
+## Descripción general
+La **esencia floral de Arnica**, elaborada a partir de la **Arnica de California**, es una de las esencias más valoradas en el sistema de **Flower Essences de California**. Esta esencia se relaciona con la **recuperación emocional**, la **resiliencia** y la **capacidad de sanar experiencias difíciles**.
+
+## Energía y cualidad emocional
+Arnica se utiliza especialmente para personas que han pasado por **traumas, choques emocionales o agotamiento**. La esencia ayuda a transformar:
+- Sensación de impacto o choque emocional  
+- Estrés acumulado  
+- Temor a enfrentar nuevas experiencias  
+- Dificultad para reponerse tras situaciones difíciles  
+
+A nivel energético, Arnica favorece la **reconexión con la fuerza interior** y la **capacidad de avanzar con valentía**.
+
+## Beneficios energéticos de la esencia floral Arnica
+- Ayuda a **recuperarse de impactos emocionales**  
+- Favorece la **resiliencia y fortaleza interior**  
+- Alivia la sensación de **agotamiento o sobrecarga**  
+- Promueve **valentía y seguridad** frente a nuevas situaciones  
+- Apoya la **sanación emocional profunda**  
+
+Es ideal para **personas que trabajan en entornos estresantes, deportistas, cuidadores o quienes atraviesan procesos de cambio o recuperación emocional**.
+
+## La planta y su simbolismo
+La Arnica es una planta de **flor amarilla brillante**, resistente y adaptable, que crece en áreas abiertas y soleadas. Su energía refleja **protección, recuperación y vitalidad**, simbolizando la **capacidad de recuperarse y florecer incluso tras dificultades**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Arnica se utiliza para:
+- Recuperación tras **traumas o golpes emocionales**  
+- Apoyo en **procesos de estrés y agotamiento**  
+- Fortalecer la **resiliencia y estabilidad emocional**  
+- Potenciar la **confianza y valentía interna**  
+
+Puede combinarse con otras esencias para **sanación integral y equilibrio emocional**.
+
+## Palabras clave SEO
+arnica flower essence, esencia floral arnica, arnica de california, flower essences de california, esencias florales californianas, resiliencia emocional, sanación emocional, fuerza interior
+0:{"buildId":"RYy7mD4GlP1UroUTjs6Yr","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Arnica FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Arnica FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/arnica-fes-226-arnica.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Arnica FES - Flower Essences Tarifa"}]
+12:T916,# Arnica – Esencia Floral de California  
+*Arnica montana · Arnica de California*
+
+## Descripción general
+La **esencia floral de Arnica**, elaborada a partir de la **Arnica de California**, es una de las esencias más valoradas en el sistema de **Flower Essences de California**. Esta esencia se relaciona con la **recuperación emocional**, la **resiliencia** y la **capacidad de sanar experiencias difíciles**.
+
+## Energía y cualidad emocional
+Arnica se utiliza especialmente para personas que han pasado por **traumas, choques emocionales o agotamiento**. La esencia ayuda a transformar:
+- Sensación de impacto o choque emocional  
+- Estrés acumulado  
+- Temor a enfrentar nuevas experiencias  
+- Dificultad para reponerse tras situaciones difíciles  
+
+A nivel energético, Arnica favorece la **reconexión con la fuerza interior** y la **capacidad de avanzar con valentía**.
+
+## Beneficios energéticos de la esencia floral Arnica
+- Ayuda a **recuperarse de impactos emocionales**  
+- Favorece la **resiliencia y fortaleza interior**  
+- Alivia la sensación de **agotamiento o sobrecarga**  
+- Promueve **valentía y seguridad** frente a nuevas situaciones  
+- Apoya la **sanación emocional profunda**  
+
+Es ideal para **personas que trabajan en entornos estresantes, deportistas, cuidadores o quienes atraviesan procesos de cambio o recuperación emocional**.
+
+## La planta y su simbolismo
+La Arnica es una planta de **flor amarilla brillante**, resistente y adaptable, que crece en áreas abiertas y soleadas. Su energía refleja **protección, recuperación y vitalidad**, simbolizando la **capacidad de recuperarse y florecer incluso tras dificultades**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Arnica se utiliza para:
+- Recuperación tras **traumas o golpes emocionales**  
+- Apoyo en **procesos de estrés y agotamiento**  
+- Fortalecer la **resiliencia y estabilidad emocional**  
+- Potenciar la **confianza y valentía interna**  
+
+Puede combinarse con otras esencias para **sanación integral y equilibrio emocional**.
+
+## Palabras clave SEO
+arnica flower essence, esencia floral arnica, arnica de california, flower essences de california, esencias florales californianas, resiliencia emocional, sanación emocional, fuerza interior
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/arnica-fes-226-arnica.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

@@ -1,7 +1,51 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/8b84089a3f3ee475.js","/_next/static/chunks/a560308635f41f25.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/8b84089a3f3ee475.js","/_next/static/chunks/a560308635f41f25.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"EuFMwAzqgy25JQxzecV5n","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Blackberry FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/blackberry-fes-1124-blackberry.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1124,"SKU":"Blafes","slug":"blackberry-fes-1124"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/a560308635f41f25.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/a779b556d44dc1b6.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/a779b556d44dc1b6.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tb6b,<h1>Blackberry – Esencia Floral de California</h1>
+<p><em>Zarzamora · Rubus ursinus</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Blackberry</strong>, elaborada a partir de la <strong>zarzamora silvestre de California</strong>, es una de las esencias más representativas del sistema de <strong>Flower Essences de California</strong>. Esta planta está asociada simbólicamente con la <strong>manifestación del potencial</strong>, la <strong>creatividad práctica</strong> y la capacidad de <strong>llevar las ideas a la acción</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>La esencia floral <strong>Blackberry</strong> se relaciona con personas que tienen muchas ideas, proyectos o inspiración, pero que pueden sentirse <strong>dispersas</strong>, bloqueadas o incapaces de concretar. A nivel energético, ayuda a transformar la <strong>creatividad latente</strong> en resultados tangibles.</p>
+<p><strong>Temas emocionales asociados:</strong></p>
+<ul>
+<li>Falta de enfoque</li>
+<li>Dificultad para materializar proyectos</li>
+<li>Sensación de ideas no realizadas</li>
+<li>Bloqueo creativo</li>
+<li>Procrastinación</li>
+</ul>
+<h2>Beneficios energéticos de la esencia floral Blackberry</h2>
+<p>La esencia floral de zarzamora favorece:</p>
+<ul>
+<li>Claridad mental</li>
+<li>Enfoque y organización</li>
+<li>Capacidad de acción</li>
+<li>Integración entre pensamiento y acción</li>
+<li>Confianza en el propio potencial creativo</li>
+</ul>
+<p>Es especialmente útil para <strong>artistas, emprendedores, terapeutas y personas creativas</strong> que desean dar forma concreta a sus ideas.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La zarzamora es una planta vigorosa, de crecimiento rápido y expansivo, que produce una gran cantidad de frutos cuando sus condiciones son adecuadas. Este patrón natural refleja su mensaje energético:</p>
+<blockquote>
+<p>la creatividad necesita estructura, dirección y compromiso para dar frutos.</p>
+</blockquote>
+<p>Las flores blancas y delicadas contrastan con la fuerza de sus espinas y tallos, simbolizando la unión entre <strong>sensibilidad interior</strong> y <strong>acción en el mundo físico</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>Esencias Florales de California</strong>, Blackberry se utiliza como apoyo en procesos de:</p>
+<ul>
+<li>Desarrollo personal</li>
+<li>Bloqueos creativos</li>
+<li>Proyectos profesionales</li>
+<li>Transiciones vitales</li>
+<li>Alineación entre visión y realidad</li>
+</ul>
+<p>Puede combinarse con otras esencias florales para potenciar procesos de <strong>enraizamiento, motivación y enfoque</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>blackberry flower essence, esencia floral blackberry, zarzamora esencia floral, flower essences de california, esencias florales californianas, Rubus ursinus, bloqueo creativo, manifestación creativa</p>0:{"buildId":"RYy7mD4GlP1UroUTjs6Yr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Blackberry FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/blackberry-fes-1124-blackberry.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1124,"SKU":"Blafes","slug":"blackberry-fes-1124"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

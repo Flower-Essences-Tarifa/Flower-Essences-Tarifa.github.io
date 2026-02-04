@@ -2,12 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-c:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"EuFMwAzqgy25JQxzecV5n","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Angelica FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","2",{"property":"og:title","content":"Angelica FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/angelica-fes-225-angelica.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"Angelica FES - Flower Essences Tarifa"}],["$","meta","7",{"name":"twitter:description","content":"Es la flor para los miedos vagos, desconocidos y sin causa aparente. Por un lado el miedo de Aspen puede llegar a ser tan sólo un presentimiento, una inquietante ansiedad de que algo desagradable o espantoso vaya a suceder y por el otro lado puede llegar a ser un terror real con síntomas físicos, como la piel de gallina. En este caso Rock Rose podría ser también de utilidad.\r<br /><br />\r<br /><br />La gente piensa a veces de Aspen como un miedo que se siente sólo por la noche, ya que las sensaciones de miedo sin razón parecen extrañas. Y por supuesto si usted estuviera en una habitación obscura sintiendo miedo de algo, pero sin saber de qué, entonces sería Aspen el remedio a tomar. Pero cuando de hecho se tiene miedo a la oscuridad el remedio aconsejado por el Dr. Bach sería Mimulus puesto que la causa del miedo (la oscuridad) puede ser nombrada, mientras que los miedos sin nombre o causa de Aspen pueden ocurrir igualmente a plena luz del día o de la noche."}],"$L5","$L6","$L7","$L8","$L9","$La"]}]}]}],"$Lb"]}],"loading":null,"isPartial":false}
-5:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/angelica-fes-225-angelica.jpg"}]
-6:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-7:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-8:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-9:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-a:["$","$Lc","13",{}]
-b:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T937,# Angelica – Esencia Floral de California  
+*Angelica californica · Angelica de California*
+
+## Descripción general
+La **esencia floral de Angelica**, elaborada a partir de la **Angelica de California**, es conocida dentro del sistema de **Flower Essences de California** por su capacidad de **proteger, guiar y equilibrar la energía personal**. Esta esencia se asocia con la **claridad espiritual**, la **intuición y la conexión con la sabiduría interna**.
+
+## Energía y cualidad emocional
+Angelica se utiliza para personas que:
+- Buscan **protección emocional y espiritual**  
+- Se sienten **abrumadas por energías externas**  
+- Desean **fortalecer su intuición y percepción**  
+- Necesitan apoyo para **tomar decisiones con claridad y confianza**  
+
+A nivel energético, la esencia ayuda a **equilibrar la mente y el corazón**, promoviendo la **armonía interior y la paz mental**.
+
+## Beneficios energéticos de la esencia floral Angelica
+- Aumenta la **claridad mental y emocional**  
+- Favorece la **intuición y la percepción sutil**  
+- Brinda **protección frente a energías negativas**  
+- Promueve la **tranquilidad y el equilibrio interior**  
+- Apoya la **conexión con la guía interna y espiritual**  
+
+Es especialmente útil para **personas sensibles, terapeutas, meditadores y quienes atraviesan momentos de incertidumbre o cambio**.
+
+## La planta y su simbolismo
+La Angelica de California es una planta **alta y elegante**, con flores blancas o verdosas que crecen en umbelas. Simboliza la **protección, la claridad y la conexión con la energía superior**, actuando como un puente entre **mente, cuerpo y espíritu**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Angelica se emplea para:
+- Protección y fortalecimiento de la **energía personal**  
+- Apoyo en la **meditación y desarrollo espiritual**  
+- Claridad en la **toma de decisiones importantes**  
+- Equilibrio en **situaciones de estrés o confusión emocional**  
+
+Se puede combinar con otras esencias para **mayor armonía, enfoque y alineación espiritual**.
+
+## Palabras clave SEO
+angelica flower essence, esencia floral angelica, angelica de california, flower essences de california, esencias florales californianas, protección energética, claridad espiritual, intuición y guía interna
+6:T937,# Angelica – Esencia Floral de California  
+*Angelica californica · Angelica de California*
+
+## Descripción general
+La **esencia floral de Angelica**, elaborada a partir de la **Angelica de California**, es conocida dentro del sistema de **Flower Essences de California** por su capacidad de **proteger, guiar y equilibrar la energía personal**. Esta esencia se asocia con la **claridad espiritual**, la **intuición y la conexión con la sabiduría interna**.
+
+## Energía y cualidad emocional
+Angelica se utiliza para personas que:
+- Buscan **protección emocional y espiritual**  
+- Se sienten **abrumadas por energías externas**  
+- Desean **fortalecer su intuición y percepción**  
+- Necesitan apoyo para **tomar decisiones con claridad y confianza**  
+
+A nivel energético, la esencia ayuda a **equilibrar la mente y el corazón**, promoviendo la **armonía interior y la paz mental**.
+
+## Beneficios energéticos de la esencia floral Angelica
+- Aumenta la **claridad mental y emocional**  
+- Favorece la **intuición y la percepción sutil**  
+- Brinda **protección frente a energías negativas**  
+- Promueve la **tranquilidad y el equilibrio interior**  
+- Apoya la **conexión con la guía interna y espiritual**  
+
+Es especialmente útil para **personas sensibles, terapeutas, meditadores y quienes atraviesan momentos de incertidumbre o cambio**.
+
+## La planta y su simbolismo
+La Angelica de California es una planta **alta y elegante**, con flores blancas o verdosas que crecen en umbelas. Simboliza la **protección, la claridad y la conexión con la energía superior**, actuando como un puente entre **mente, cuerpo y espíritu**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Angelica se emplea para:
+- Protección y fortalecimiento de la **energía personal**  
+- Apoyo en la **meditación y desarrollo espiritual**  
+- Claridad en la **toma de decisiones importantes**  
+- Equilibrio en **situaciones de estrés o confusión emocional**  
+
+Se puede combinar con otras esencias para **mayor armonía, enfoque y alineación espiritual**.
+
+## Palabras clave SEO
+angelica flower essence, esencia floral angelica, angelica de california, flower essences de california, esencias florales californianas, protección energética, claridad espiritual, intuición y guía interna
+0:{"buildId":"RYy7mD4GlP1UroUTjs6Yr","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Angelica FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Angelica FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/angelica-fes-225-angelica.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Angelica FES - Flower Essences Tarifa"}]
+12:T937,# Angelica – Esencia Floral de California  
+*Angelica californica · Angelica de California*
+
+## Descripción general
+La **esencia floral de Angelica**, elaborada a partir de la **Angelica de California**, es conocida dentro del sistema de **Flower Essences de California** por su capacidad de **proteger, guiar y equilibrar la energía personal**. Esta esencia se asocia con la **claridad espiritual**, la **intuición y la conexión con la sabiduría interna**.
+
+## Energía y cualidad emocional
+Angelica se utiliza para personas que:
+- Buscan **protección emocional y espiritual**  
+- Se sienten **abrumadas por energías externas**  
+- Desean **fortalecer su intuición y percepción**  
+- Necesitan apoyo para **tomar decisiones con claridad y confianza**  
+
+A nivel energético, la esencia ayuda a **equilibrar la mente y el corazón**, promoviendo la **armonía interior y la paz mental**.
+
+## Beneficios energéticos de la esencia floral Angelica
+- Aumenta la **claridad mental y emocional**  
+- Favorece la **intuición y la percepción sutil**  
+- Brinda **protección frente a energías negativas**  
+- Promueve la **tranquilidad y el equilibrio interior**  
+- Apoya la **conexión con la guía interna y espiritual**  
+
+Es especialmente útil para **personas sensibles, terapeutas, meditadores y quienes atraviesan momentos de incertidumbre o cambio**.
+
+## La planta y su simbolismo
+La Angelica de California es una planta **alta y elegante**, con flores blancas o verdosas que crecen en umbelas. Simboliza la **protección, la claridad y la conexión con la energía superior**, actuando como un puente entre **mente, cuerpo y espíritu**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **Esencias Florales de California**, Angelica se emplea para:
+- Protección y fortalecimiento de la **energía personal**  
+- Apoyo en la **meditación y desarrollo espiritual**  
+- Claridad en la **toma de decisiones importantes**  
+- Equilibrio en **situaciones de estrés o confusión emocional**  
+
+Se puede combinar con otras esencias para **mayor armonía, enfoque y alineación espiritual**.
+
+## Palabras clave SEO
+angelica flower essence, esencia floral angelica, angelica de california, flower essences de california, esencias florales californianas, protección energética, claridad espiritual, intuición y guía interna
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/angelica-fes-225-angelica.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
