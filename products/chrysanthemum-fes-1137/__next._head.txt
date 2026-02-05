@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"YjwWVI0UHx6_1wjc_Qa99","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Chrysanthemum FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Chrysanthemum FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/chrysanthemum-fes-1137-chrysanthemum.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Chrysanthemum FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/chrysanthemum-fes-1137-chrysanthemum.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T9ad,# Chrysanthemum – Esencia Floral de California  
+*Chrysanthemum morifolium · Crisantemo*
+
+## Descripción general
+La **esencia floral de Chrysanthemum**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración de la conciencia superior en la vida cotidiana** y la capacidad de **unir el conocimiento espiritual con la acción práctica**. Es una esencia que favorece la **claridad mental y la presencia consciente**.
+
+## Energía y cualidad emocional
+Chrysanthemum está indicada para personas que:
+- Tienen una fuerte orientación **intelectual o espiritual**, pero dificultad para “aterrizar” sus ideas
+- Se sienten **desconectadas del cuerpo o de la vida práctica**
+- Experimentan **dispersión mental o exceso de pensamiento**
+- Buscan integrar **sabiduría y acción concreta**
+
+A nivel energético, esta esencia ayuda a **alinear mente, cuerpo y espíritu**, permitiendo que la inspiración espiritual se exprese de forma **práctica y equilibrada**.
+
+## Beneficios energéticos de la esencia floral Chrysanthemum
+- Facilita la **integración espiritual en la vida diaria**
+- Mejora la **claridad mental y la concentración**
+- Ayuda a equilibrar **pensamiento e intuición**
+- Favorece la **presencia consciente y el enfoque**
+- Apoya la expresión práctica de la **sabiduría interior**
+
+Es especialmente útil para personas con una vida mental muy activa o en procesos de **crecimiento espiritual que requieren enraizamiento**.
+
+## La planta y su simbolismo
+El crisantemo es una flor asociada tradicionalmente con la **longevidad, la sabiduría y la claridad**. Su estructura equilibrada simboliza la **armonía entre lo celestial y lo terrenal**, recordando la importancia de vivir la espiritualidad de forma encarnada.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chrysanthemum se utiliza para:
+- Integrar **conciencia espiritual y acción diaria**
+- Apoyar procesos de **claridad mental y enfoque**
+- Facilitar el **enraizamiento de ideas elevadas**
+- Favorecer la **presencia y coherencia interior**
+
+Puede combinarse con otras esencias florales para **potenciar el equilibrio entre mente, cuerpo y espíritu**.
+
+## Palabras clave SEO
+chrysanthemum flower essence, esencia floral chrysanthemum, crisantemo esencia floral, fes california flower essences, esencias florales de california, integración espiritual, claridad mental, conciencia práctica
+6:T9ad,# Chrysanthemum – Esencia Floral de California  
+*Chrysanthemum morifolium · Crisantemo*
+
+## Descripción general
+La **esencia floral de Chrysanthemum**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración de la conciencia superior en la vida cotidiana** y la capacidad de **unir el conocimiento espiritual con la acción práctica**. Es una esencia que favorece la **claridad mental y la presencia consciente**.
+
+## Energía y cualidad emocional
+Chrysanthemum está indicada para personas que:
+- Tienen una fuerte orientación **intelectual o espiritual**, pero dificultad para “aterrizar” sus ideas
+- Se sienten **desconectadas del cuerpo o de la vida práctica**
+- Experimentan **dispersión mental o exceso de pensamiento**
+- Buscan integrar **sabiduría y acción concreta**
+
+A nivel energético, esta esencia ayuda a **alinear mente, cuerpo y espíritu**, permitiendo que la inspiración espiritual se exprese de forma **práctica y equilibrada**.
+
+## Beneficios energéticos de la esencia floral Chrysanthemum
+- Facilita la **integración espiritual en la vida diaria**
+- Mejora la **claridad mental y la concentración**
+- Ayuda a equilibrar **pensamiento e intuición**
+- Favorece la **presencia consciente y el enfoque**
+- Apoya la expresión práctica de la **sabiduría interior**
+
+Es especialmente útil para personas con una vida mental muy activa o en procesos de **crecimiento espiritual que requieren enraizamiento**.
+
+## La planta y su simbolismo
+El crisantemo es una flor asociada tradicionalmente con la **longevidad, la sabiduría y la claridad**. Su estructura equilibrada simboliza la **armonía entre lo celestial y lo terrenal**, recordando la importancia de vivir la espiritualidad de forma encarnada.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chrysanthemum se utiliza para:
+- Integrar **conciencia espiritual y acción diaria**
+- Apoyar procesos de **claridad mental y enfoque**
+- Facilitar el **enraizamiento de ideas elevadas**
+- Favorecer la **presencia y coherencia interior**
+
+Puede combinarse con otras esencias florales para **potenciar el equilibrio entre mente, cuerpo y espíritu**.
+
+## Palabras clave SEO
+chrysanthemum flower essence, esencia floral chrysanthemum, crisantemo esencia floral, fes california flower essences, esencias florales de california, integración espiritual, claridad mental, conciencia práctica
+0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Chrysanthemum FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Chrysanthemum FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/chrysanthemum-fes-1137-chrysanthemum.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Chrysanthemum FES - Flower Essences Tarifa"}]
+12:T9ad,# Chrysanthemum – Esencia Floral de California  
+*Chrysanthemum morifolium · Crisantemo*
+
+## Descripción general
+La **esencia floral de Chrysanthemum**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración de la conciencia superior en la vida cotidiana** y la capacidad de **unir el conocimiento espiritual con la acción práctica**. Es una esencia que favorece la **claridad mental y la presencia consciente**.
+
+## Energía y cualidad emocional
+Chrysanthemum está indicada para personas que:
+- Tienen una fuerte orientación **intelectual o espiritual**, pero dificultad para “aterrizar” sus ideas
+- Se sienten **desconectadas del cuerpo o de la vida práctica**
+- Experimentan **dispersión mental o exceso de pensamiento**
+- Buscan integrar **sabiduría y acción concreta**
+
+A nivel energético, esta esencia ayuda a **alinear mente, cuerpo y espíritu**, permitiendo que la inspiración espiritual se exprese de forma **práctica y equilibrada**.
+
+## Beneficios energéticos de la esencia floral Chrysanthemum
+- Facilita la **integración espiritual en la vida diaria**
+- Mejora la **claridad mental y la concentración**
+- Ayuda a equilibrar **pensamiento e intuición**
+- Favorece la **presencia consciente y el enfoque**
+- Apoya la expresión práctica de la **sabiduría interior**
+
+Es especialmente útil para personas con una vida mental muy activa o en procesos de **crecimiento espiritual que requieren enraizamiento**.
+
+## La planta y su simbolismo
+El crisantemo es una flor asociada tradicionalmente con la **longevidad, la sabiduría y la claridad**. Su estructura equilibrada simboliza la **armonía entre lo celestial y lo terrenal**, recordando la importancia de vivir la espiritualidad de forma encarnada.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chrysanthemum se utiliza para:
+- Integrar **conciencia espiritual y acción diaria**
+- Apoyar procesos de **claridad mental y enfoque**
+- Facilitar el **enraizamiento de ideas elevadas**
+- Favorecer la **presencia y coherencia interior**
+
+Puede combinarse con otras esencias florales para **potenciar el equilibrio entre mente, cuerpo y espíritu**.
+
+## Palabras clave SEO
+chrysanthemum flower essence, esencia floral chrysanthemum, crisantemo esencia floral, fes california flower essences, esencias florales de california, integración espiritual, claridad mental, conciencia práctica
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/chrysanthemum-fes-1137-chrysanthemum.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

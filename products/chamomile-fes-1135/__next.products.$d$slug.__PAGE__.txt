@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"YjwWVI0UHx6_1wjc_Qa99","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Chamomile FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/chamomile-fes-1135-chamomile.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1135,"SKU":"Chafes","slug":"chamomile-fes-1135"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tace,<h1>Chamomile – Esencia Floral de California</h1>
+<p><em>Matricaria chamomilla · Manzanilla</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Chamomile</strong>, dentro del sistema de <strong>Flower Essences de California (FES)</strong>, está asociada con la <strong>calma emocional</strong>, la <strong>capacidad de relajarse</strong> y el <strong>equilibrio del sistema nervioso</strong>. Es una esencia especialmente indicada para personas sensibles o fácilmente sobreestimuladas.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Chamomile está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>nerviosas, inquietas o irritables</strong></li>
+<li>Experimentan <strong>tensión interna o sobrecarga emocional</strong></li>
+<li>Tienen dificultad para <strong>relajarse o descansar</strong></li>
+<li>Reaccionan de forma intensa ante estímulos externos</li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>suavizar la reactividad emocional</strong>, promoviendo un estado de <strong>tranquilidad, descanso y seguridad interior</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Chamomile</h2>
+<ul>
+<li>Calma la <strong>ansiedad y la irritabilidad</strong></li>
+<li>Favorece la <strong>relajación profunda</strong></li>
+<li>Ayuda a equilibrar el <strong>sistema nervioso</strong></li>
+<li>Reduce la <strong>hipersensibilidad emocional</strong></li>
+<li>Promueve una sensación de <strong>paz y bienestar interior</strong></li>
+</ul>
+<p>Es especialmente útil en situaciones de <strong>estrés, sobreestimulación, fatiga emocional o dificultad para dormir</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La manzanilla es una planta suave y aromática, tradicionalmente asociada con el <strong>consuelo y la calma</strong>. Su simbolismo refleja la <strong>capacidad de encontrar serenidad incluso en momentos de tensión</strong>, aportando descanso y suavidad al cuerpo y a la mente.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Chamomile se utiliza para:</p>
+<ul>
+<li>Calmar la <strong>agitación emocional</strong></li>
+<li>Apoyar procesos de <strong>relajación y descanso</strong></li>
+<li>Acompañar estados de <strong>estrés o ansiedad leve</strong></li>
+<li>Favorecer la <strong>estabilidad emocional en personas sensibles</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar la calma, el descanso y el equilibrio emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>chamomile flower essence, esencia floral chamomile, manzanilla esencia floral, fes california flower essences, esencias florales de california, calma emocional, sistema nervioso, relajación profunda</p>0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Chamomile FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/chamomile-fes-1135-chamomile.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1135,"SKU":"Chafes","slug":"chamomile-fes-1135"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

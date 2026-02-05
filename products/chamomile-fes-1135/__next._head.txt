@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"YjwWVI0UHx6_1wjc_Qa99","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Chamomile FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Chamomile FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/chamomile-fes-1135-chamomile.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Chamomile FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/chamomile-fes-1135-chamomile.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T8b5,# Chamomile – Esencia Floral de California  
+*Matricaria chamomilla · Manzanilla*
+
+## Descripción general
+La **esencia floral de Chamomile**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **calma emocional**, la **capacidad de relajarse** y el **equilibrio del sistema nervioso**. Es una esencia especialmente indicada para personas sensibles o fácilmente sobreestimuladas.
+
+## Energía y cualidad emocional
+Chamomile está indicada para personas que:
+- Se sienten **nerviosas, inquietas o irritables**
+- Experimentan **tensión interna o sobrecarga emocional**
+- Tienen dificultad para **relajarse o descansar**
+- Reaccionan de forma intensa ante estímulos externos
+
+A nivel energético, esta esencia ayuda a **suavizar la reactividad emocional**, promoviendo un estado de **tranquilidad, descanso y seguridad interior**.
+
+## Beneficios energéticos de la esencia floral Chamomile
+- Calma la **ansiedad y la irritabilidad**
+- Favorece la **relajación profunda**
+- Ayuda a equilibrar el **sistema nervioso**
+- Reduce la **hipersensibilidad emocional**
+- Promueve una sensación de **paz y bienestar interior**
+
+Es especialmente útil en situaciones de **estrés, sobreestimulación, fatiga emocional o dificultad para dormir**.
+
+## La planta y su simbolismo
+La manzanilla es una planta suave y aromática, tradicionalmente asociada con el **consuelo y la calma**. Su simbolismo refleja la **capacidad de encontrar serenidad incluso en momentos de tensión**, aportando descanso y suavidad al cuerpo y a la mente.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chamomile se utiliza para:
+- Calmar la **agitación emocional**
+- Apoyar procesos de **relajación y descanso**
+- Acompañar estados de **estrés o ansiedad leve**
+- Favorecer la **estabilidad emocional en personas sensibles**
+
+Puede combinarse con otras esencias florales para **potenciar la calma, el descanso y el equilibrio emocional**.
+
+## Palabras clave SEO
+chamomile flower essence, esencia floral chamomile, manzanilla esencia floral, fes california flower essences, esencias florales de california, calma emocional, sistema nervioso, relajación profunda
+6:T8b5,# Chamomile – Esencia Floral de California  
+*Matricaria chamomilla · Manzanilla*
+
+## Descripción general
+La **esencia floral de Chamomile**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **calma emocional**, la **capacidad de relajarse** y el **equilibrio del sistema nervioso**. Es una esencia especialmente indicada para personas sensibles o fácilmente sobreestimuladas.
+
+## Energía y cualidad emocional
+Chamomile está indicada para personas que:
+- Se sienten **nerviosas, inquietas o irritables**
+- Experimentan **tensión interna o sobrecarga emocional**
+- Tienen dificultad para **relajarse o descansar**
+- Reaccionan de forma intensa ante estímulos externos
+
+A nivel energético, esta esencia ayuda a **suavizar la reactividad emocional**, promoviendo un estado de **tranquilidad, descanso y seguridad interior**.
+
+## Beneficios energéticos de la esencia floral Chamomile
+- Calma la **ansiedad y la irritabilidad**
+- Favorece la **relajación profunda**
+- Ayuda a equilibrar el **sistema nervioso**
+- Reduce la **hipersensibilidad emocional**
+- Promueve una sensación de **paz y bienestar interior**
+
+Es especialmente útil en situaciones de **estrés, sobreestimulación, fatiga emocional o dificultad para dormir**.
+
+## La planta y su simbolismo
+La manzanilla es una planta suave y aromática, tradicionalmente asociada con el **consuelo y la calma**. Su simbolismo refleja la **capacidad de encontrar serenidad incluso en momentos de tensión**, aportando descanso y suavidad al cuerpo y a la mente.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chamomile se utiliza para:
+- Calmar la **agitación emocional**
+- Apoyar procesos de **relajación y descanso**
+- Acompañar estados de **estrés o ansiedad leve**
+- Favorecer la **estabilidad emocional en personas sensibles**
+
+Puede combinarse con otras esencias florales para **potenciar la calma, el descanso y el equilibrio emocional**.
+
+## Palabras clave SEO
+chamomile flower essence, esencia floral chamomile, manzanilla esencia floral, fes california flower essences, esencias florales de california, calma emocional, sistema nervioso, relajación profunda
+0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Chamomile FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Chamomile FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/chamomile-fes-1135-chamomile.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Chamomile FES - Flower Essences Tarifa"}]
+12:T8b5,# Chamomile – Esencia Floral de California  
+*Matricaria chamomilla · Manzanilla*
+
+## Descripción general
+La **esencia floral de Chamomile**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **calma emocional**, la **capacidad de relajarse** y el **equilibrio del sistema nervioso**. Es una esencia especialmente indicada para personas sensibles o fácilmente sobreestimuladas.
+
+## Energía y cualidad emocional
+Chamomile está indicada para personas que:
+- Se sienten **nerviosas, inquietas o irritables**
+- Experimentan **tensión interna o sobrecarga emocional**
+- Tienen dificultad para **relajarse o descansar**
+- Reaccionan de forma intensa ante estímulos externos
+
+A nivel energético, esta esencia ayuda a **suavizar la reactividad emocional**, promoviendo un estado de **tranquilidad, descanso y seguridad interior**.
+
+## Beneficios energéticos de la esencia floral Chamomile
+- Calma la **ansiedad y la irritabilidad**
+- Favorece la **relajación profunda**
+- Ayuda a equilibrar el **sistema nervioso**
+- Reduce la **hipersensibilidad emocional**
+- Promueve una sensación de **paz y bienestar interior**
+
+Es especialmente útil en situaciones de **estrés, sobreestimulación, fatiga emocional o dificultad para dormir**.
+
+## La planta y su simbolismo
+La manzanilla es una planta suave y aromática, tradicionalmente asociada con el **consuelo y la calma**. Su simbolismo refleja la **capacidad de encontrar serenidad incluso en momentos de tensión**, aportando descanso y suavidad al cuerpo y a la mente.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Chamomile se utiliza para:
+- Calmar la **agitación emocional**
+- Apoyar procesos de **relajación y descanso**
+- Acompañar estados de **estrés o ansiedad leve**
+- Favorecer la **estabilidad emocional en personas sensibles**
+
+Puede combinarse con otras esencias florales para **potenciar la calma, el descanso y el equilibrio emocional**.
+
+## Palabras clave SEO
+chamomile flower essence, esencia floral chamomile, manzanilla esencia floral, fes california flower essences, esencias florales de california, calma emocional, sistema nervioso, relajación profunda
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/chamomile-fes-1135-chamomile.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

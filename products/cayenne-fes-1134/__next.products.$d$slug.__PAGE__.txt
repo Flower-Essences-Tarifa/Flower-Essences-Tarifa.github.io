@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/05f3486fbb647760.js","/_next/static/chunks/15538307375a09c2.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"YjwWVI0UHx6_1wjc_Qa99","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Cayenne FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/cayenne-fes-1134-cayenne.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1134,"SKU":"Cayfes","slug":"cayenne-fes-1134"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/15538307375a09c2.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tac2,<h1>Cayenne – Esencia Floral de California</h1>
+<p><em>Capsicum annuum · Pimienta de Cayena</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Cayenne</strong>, dentro del sistema de <strong>Flower Essences de California (FES)</strong>, está relacionada con la <strong>activación del fuego interior</strong>, la <strong>valentía emocional</strong> y la capacidad de <strong>avanzar con decisión</strong>. Es una esencia que estimula el <strong>coraje, la iniciativa y la energía transformadora</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Cayenne está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>paralizadas por el miedo o la duda</strong></li>
+<li>Evitan el conflicto o la acción necesaria</li>
+<li>Experimentan <strong>bloqueo energético o falta de impulso</strong></li>
+<li>Necesitan <strong>valor para dar un paso decisivo</strong></li>
+</ul>
+<p>A nivel energético, esta esencia actúa como un <strong>catalizador</strong>, ayudando a romper la inercia y a <strong>movilizar la voluntad con claridad y fuerza</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Cayenne</h2>
+<ul>
+<li>Estimula el <strong>coraje y la determinación</strong></li>
+<li>Ayuda a superar <strong>miedos paralizantes</strong></li>
+<li>Activa la <strong>energía de acción consciente</strong></li>
+<li>Favorece la <strong>toma de decisiones firmes</strong></li>
+<li>Apoya procesos de <strong>transformación y empoderamiento personal</strong></li>
+</ul>
+<p>Es especialmente útil en momentos de <strong>estancamiento</strong>, cuando es necesario <strong>actuar con valentía y presencia</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La pimienta de Cayena es conocida por su <strong>intensidad y calor</strong>, simbolizando el <strong>fuego vital</strong> que despierta y moviliza. Representa la capacidad de <strong>encender la fuerza interior</strong>, impulsando la acción clara y decidida.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Cayenne se utiliza para:</p>
+<ul>
+<li>Activar la <strong>voluntad y el coraje</strong></li>
+<li>Superar la <strong>inmovilidad emocional</strong></li>
+<li>Apoyar procesos de <strong>empoderamiento personal</strong></li>
+<li>Favorecer la <strong>acción alineada con la verdad interior</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar la energía, la claridad y la fuerza de voluntad</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>cayenne flower essence, esencia floral cayenne, capsicum annuum esencia floral, fes california flower essences, esencias florales de california, coraje emocional, fuego interior, energía de acción</p>0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Cayenne FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/cayenne-fes-1134-cayenne.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1134,"SKU":"Cayfes","slug":"cayenne-fes-1134"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
