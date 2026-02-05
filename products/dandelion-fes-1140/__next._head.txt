@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dandelion FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Dandelion FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/dandelion-fes-1140-dandelion.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Dandelion FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/dandelion-fes-1140-dandelion.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T958,# Dandelion – Esencia Floral de California  
+*Taraxacum officinale · Diente de león*
+
+## Descripción general
+La **esencia floral de Dandelion**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **liberación de la tensión física y emocional**, especialmente la acumulada en el cuerpo. Es una esencia que apoya la **relajación profunda**, la **flexibilidad interior** y la capacidad de **soltar el control excesivo**.
+
+## Energía y cualidad emocional
+Dandelion está indicada para personas que:
+- Acumulan **tensión en el cuerpo**, especialmente en músculos y mandíbula
+- Son muy **autoexigentes o perfeccionistas**
+- Tienen dificultad para **relajarse y descansar**
+- Mantienen emociones contenidas que se expresan como rigidez física
+
+A nivel energético, esta esencia ayuda a **liberar la tensión almacenada**, permitiendo que la energía vital fluya con **mayor suavidad y equilibrio**.
+
+## Beneficios energéticos de la esencia floral Dandelion
+- Ayuda a soltar la **tensión muscular y emocional**
+- Favorece la **relajación y la flexibilidad interior**
+- Reduce la **rigidez física asociada al estrés**
+- Apoya el equilibrio entre **esfuerzo y descanso**
+- Promueve una actitud más **fluida y adaptable**
+
+Es especialmente útil en situaciones de **estrés prolongado**, sobrecarga de responsabilidades o exigencia excesiva.
+
+## La planta y su simbolismo
+El diente de león es una planta resistente que crece con fuerza en casi cualquier entorno. Su simbolismo refleja la **capacidad de adaptarse, liberar y regenerarse**, enseñando la importancia de **soltar la rigidez y confiar en el flujo natural de la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Dandelion se utiliza para:
+- Liberar **tensión física y emocional acumulada**
+- Apoyar procesos de **relajación profunda**
+- Favorecer la **flexibilidad y el bienestar corporal**
+- Acompañar momentos de **alta exigencia o estrés**
+
+Puede combinarse con otras esencias florales para **potenciar la relajación, la liberación corporal y el equilibrio emocional**.
+
+## Palabras clave SEO
+dandelion flower essence, esencia floral dandelion, diente de león esencia floral, fes california flower essences, esencias florales de california, liberación de tensión, relajación corporal, flexibilidad emocional
+6:T958,# Dandelion – Esencia Floral de California  
+*Taraxacum officinale · Diente de león*
+
+## Descripción general
+La **esencia floral de Dandelion**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **liberación de la tensión física y emocional**, especialmente la acumulada en el cuerpo. Es una esencia que apoya la **relajación profunda**, la **flexibilidad interior** y la capacidad de **soltar el control excesivo**.
+
+## Energía y cualidad emocional
+Dandelion está indicada para personas que:
+- Acumulan **tensión en el cuerpo**, especialmente en músculos y mandíbula
+- Son muy **autoexigentes o perfeccionistas**
+- Tienen dificultad para **relajarse y descansar**
+- Mantienen emociones contenidas que se expresan como rigidez física
+
+A nivel energético, esta esencia ayuda a **liberar la tensión almacenada**, permitiendo que la energía vital fluya con **mayor suavidad y equilibrio**.
+
+## Beneficios energéticos de la esencia floral Dandelion
+- Ayuda a soltar la **tensión muscular y emocional**
+- Favorece la **relajación y la flexibilidad interior**
+- Reduce la **rigidez física asociada al estrés**
+- Apoya el equilibrio entre **esfuerzo y descanso**
+- Promueve una actitud más **fluida y adaptable**
+
+Es especialmente útil en situaciones de **estrés prolongado**, sobrecarga de responsabilidades o exigencia excesiva.
+
+## La planta y su simbolismo
+El diente de león es una planta resistente que crece con fuerza en casi cualquier entorno. Su simbolismo refleja la **capacidad de adaptarse, liberar y regenerarse**, enseñando la importancia de **soltar la rigidez y confiar en el flujo natural de la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Dandelion se utiliza para:
+- Liberar **tensión física y emocional acumulada**
+- Apoyar procesos de **relajación profunda**
+- Favorecer la **flexibilidad y el bienestar corporal**
+- Acompañar momentos de **alta exigencia o estrés**
+
+Puede combinarse con otras esencias florales para **potenciar la relajación, la liberación corporal y el equilibrio emocional**.
+
+## Palabras clave SEO
+dandelion flower essence, esencia floral dandelion, diente de león esencia floral, fes california flower essences, esencias florales de california, liberación de tensión, relajación corporal, flexibilidad emocional
+0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dandelion FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Dandelion FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/dandelion-fes-1140-dandelion.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Dandelion FES - Flower Essences Tarifa"}]
+12:T958,# Dandelion – Esencia Floral de California  
+*Taraxacum officinale · Diente de león*
+
+## Descripción general
+La **esencia floral de Dandelion**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **liberación de la tensión física y emocional**, especialmente la acumulada en el cuerpo. Es una esencia que apoya la **relajación profunda**, la **flexibilidad interior** y la capacidad de **soltar el control excesivo**.
+
+## Energía y cualidad emocional
+Dandelion está indicada para personas que:
+- Acumulan **tensión en el cuerpo**, especialmente en músculos y mandíbula
+- Son muy **autoexigentes o perfeccionistas**
+- Tienen dificultad para **relajarse y descansar**
+- Mantienen emociones contenidas que se expresan como rigidez física
+
+A nivel energético, esta esencia ayuda a **liberar la tensión almacenada**, permitiendo que la energía vital fluya con **mayor suavidad y equilibrio**.
+
+## Beneficios energéticos de la esencia floral Dandelion
+- Ayuda a soltar la **tensión muscular y emocional**
+- Favorece la **relajación y la flexibilidad interior**
+- Reduce la **rigidez física asociada al estrés**
+- Apoya el equilibrio entre **esfuerzo y descanso**
+- Promueve una actitud más **fluida y adaptable**
+
+Es especialmente útil en situaciones de **estrés prolongado**, sobrecarga de responsabilidades o exigencia excesiva.
+
+## La planta y su simbolismo
+El diente de león es una planta resistente que crece con fuerza en casi cualquier entorno. Su simbolismo refleja la **capacidad de adaptarse, liberar y regenerarse**, enseñando la importancia de **soltar la rigidez y confiar en el flujo natural de la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Dandelion se utiliza para:
+- Liberar **tensión física y emocional acumulada**
+- Apoyar procesos de **relajación profunda**
+- Favorecer la **flexibilidad y el bienestar corporal**
+- Acompañar momentos de **alta exigencia o estrés**
+
+Puede combinarse con otras esencias florales para **potenciar la relajación, la liberación corporal y el equilibrio emocional**.
+
+## Palabras clave SEO
+dandelion flower essence, esencia floral dandelion, diente de león esencia floral, fes california flower essences, esencias florales de california, liberación de tensión, relajación corporal, flexibilidad emocional
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/dandelion-fes-1140-dandelion.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

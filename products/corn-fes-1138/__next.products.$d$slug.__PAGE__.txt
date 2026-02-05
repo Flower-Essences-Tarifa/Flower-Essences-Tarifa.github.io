@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Corn FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/corn-fes-1138-corn.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1138,"SKU":"Corfes","slug":"corn-fes-1138"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tb58,<h1>Corn – Esencia Floral de California</h1>
+<p><em>Zea mays · Maíz</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Corn</strong>, dentro del sistema de <strong>Flower Essences de California (FES)</strong>, está asociada con la <strong>nutrición emocional</strong>, la <strong>sensación de apoyo interno</strong> y la capacidad de <strong>sentirse sostenido y cuidado</strong>. Es una esencia vinculada al arquetipo de la <strong>madre nutricia</strong> y al sentido profundo de <strong>seguridad y pertenencia</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Corn está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>emocionalmente vacías o desnutridas</strong></li>
+<li>Experimentan <strong>falta de apoyo o cuidado</strong></li>
+<li>Tienen dificultad para <strong>recibir amor y contención</strong></li>
+<li>Arrastran carencias relacionadas con la <strong>figura materna</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>restaurar la sensación de ser nutrido</strong>, promoviendo <strong>calidez emocional, seguridad y confianza básica</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Corn</h2>
+<ul>
+<li>Aporta <strong>nutrición y contención emocional</strong></li>
+<li>Refuerza la <strong>sensación de apoyo interno</strong></li>
+<li>Ayuda a sanar <strong>carencias afectivas tempranas</strong></li>
+<li>Favorece la <strong>confianza y la seguridad emocional</strong></li>
+<li>Promueve una relación más sana con el <strong>cuidado y la receptividad</strong></li>
+</ul>
+<p>Es especialmente útil en procesos de <strong>sanación emocional profunda</strong>, trabajo con el <strong>niño interior</strong> o momentos de vulnerabilidad emocional.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El maíz ha sido históricamente un símbolo de <strong>sustento, fertilidad y abundancia</strong>. Representa la <strong>energía nutritiva de la Tierra</strong> y la capacidad de <strong>sostener la vida</strong>, reflejando la importancia del cuidado y la alimentación emocional.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Corn se utiliza para:</p>
+<ul>
+<li>Apoyar la <strong>nutrición emocional y afectiva</strong></li>
+<li>Sanar heridas relacionadas con el <strong>cuidado y la protección</strong></li>
+<li>Favorecer la <strong>sensación de seguridad y pertenencia</strong></li>
+<li>Acompañar procesos de <strong>auto-cuidado profundo</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar la contención emocional y el sentido de apoyo interior</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>corn flower essence, esencia floral corn, zea mays esencia floral, fes california flower essences, esencias florales de california, nutrición emocional, apoyo interno, seguridad emocional</p>0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Corn FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/corn-fes-1138-corn.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1138,"SKU":"Corfes","slug":"corn-fes-1138"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

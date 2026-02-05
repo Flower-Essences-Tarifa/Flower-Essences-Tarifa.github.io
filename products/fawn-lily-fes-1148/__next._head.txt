@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fawn Lily FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Fawn Lily FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/fawn-lily-fes-1148-fawn-lily.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Fawn Lily FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/fawn-lily-fes-1148-fawn-lily.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T99b,# Fawn Lily – Esencia Floral de California  
+*Erythronium oregonum · Lirio Ciervo*
+
+## Descripción general
+La **esencia floral de Fawn Lily**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **inocencia, la vulnerabilidad y la sensibilidad emocional**, así como con la **capacidad de abrirse a la vida con confianza y delicadeza**. Es una esencia que fomenta la **sensibilidad consciente y la ternura hacia uno mismo y los demás**.
+
+## Energía y cualidad emocional
+Fawn Lily está indicada para personas que:
+- Son **muy sensibles o vulnerables emocionalmente**
+- Tienden a **protegerse demasiado** y evitar la apertura
+- Desean **recuperar la confianza y la ternura interna**
+- Buscan **conectarse con la suavidad y la delicadeza de la vida**
+
+A nivel energético, esta esencia ayuda a **activar la confianza en la propia sensibilidad**, promoviendo la **aceptación, la apertura y la armonía emocional**.
+
+## Beneficios energéticos de la esencia floral Fawn Lily
+- Favorece la **sensibilidad consciente y equilibrada**
+- Ayuda a **recuperar la confianza emocional**
+- Promueve la **apertura y la vulnerabilidad positiva**
+- Facilita la **armonía con uno mismo y los demás**
+- Despierta la **ternura y la delicadeza interior**
+
+Es especialmente útil para personas que desean **abrirse al mundo con suavidad y autenticidad**, manteniendo la fuerza interna.
+
+## La planta y su simbolismo
+El Lirio Ciervo florece de manera delicada y elegante, evocando la **inocencia, la pureza y la ternura**. Su simbolismo refleja la **capacidad de moverse por la vida con gracia y sensibilidad**, respetando los propios límites y la propia vulnerabilidad.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Fawn Lily se utiliza para:
+- Apoyar la **sensibilidad consciente y la ternura emocional**
+- Favorecer la **apertura y la confianza interna**
+- Facilitar la **armonía en relaciones y con uno mismo**
+- Acompañar procesos de **sanación de vulnerabilidad y delicadeza emocional**
+
+Puede combinarse con otras esencias florales para **potenciar la suavidad, la apertura y la confianza emocional**.
+
+## Palabras clave SEO
+fawn lily flower essence, esencia floral fawn lily, erythronium oregonum esencia floral, lirio ciervo esencia floral, fes california flower essences, esencias florales de california, sensibilidad emocional, ternura interior, apertura emocional
+6:T99b,# Fawn Lily – Esencia Floral de California  
+*Erythronium oregonum · Lirio Ciervo*
+
+## Descripción general
+La **esencia floral de Fawn Lily**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **inocencia, la vulnerabilidad y la sensibilidad emocional**, así como con la **capacidad de abrirse a la vida con confianza y delicadeza**. Es una esencia que fomenta la **sensibilidad consciente y la ternura hacia uno mismo y los demás**.
+
+## Energía y cualidad emocional
+Fawn Lily está indicada para personas que:
+- Son **muy sensibles o vulnerables emocionalmente**
+- Tienden a **protegerse demasiado** y evitar la apertura
+- Desean **recuperar la confianza y la ternura interna**
+- Buscan **conectarse con la suavidad y la delicadeza de la vida**
+
+A nivel energético, esta esencia ayuda a **activar la confianza en la propia sensibilidad**, promoviendo la **aceptación, la apertura y la armonía emocional**.
+
+## Beneficios energéticos de la esencia floral Fawn Lily
+- Favorece la **sensibilidad consciente y equilibrada**
+- Ayuda a **recuperar la confianza emocional**
+- Promueve la **apertura y la vulnerabilidad positiva**
+- Facilita la **armonía con uno mismo y los demás**
+- Despierta la **ternura y la delicadeza interior**
+
+Es especialmente útil para personas que desean **abrirse al mundo con suavidad y autenticidad**, manteniendo la fuerza interna.
+
+## La planta y su simbolismo
+El Lirio Ciervo florece de manera delicada y elegante, evocando la **inocencia, la pureza y la ternura**. Su simbolismo refleja la **capacidad de moverse por la vida con gracia y sensibilidad**, respetando los propios límites y la propia vulnerabilidad.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Fawn Lily se utiliza para:
+- Apoyar la **sensibilidad consciente y la ternura emocional**
+- Favorecer la **apertura y la confianza interna**
+- Facilitar la **armonía en relaciones y con uno mismo**
+- Acompañar procesos de **sanación de vulnerabilidad y delicadeza emocional**
+
+Puede combinarse con otras esencias florales para **potenciar la suavidad, la apertura y la confianza emocional**.
+
+## Palabras clave SEO
+fawn lily flower essence, esencia floral fawn lily, erythronium oregonum esencia floral, lirio ciervo esencia floral, fes california flower essences, esencias florales de california, sensibilidad emocional, ternura interior, apertura emocional
+0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Fawn Lily FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Fawn Lily FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/fawn-lily-fes-1148-fawn-lily.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Fawn Lily FES - Flower Essences Tarifa"}]
+12:T99b,# Fawn Lily – Esencia Floral de California  
+*Erythronium oregonum · Lirio Ciervo*
+
+## Descripción general
+La **esencia floral de Fawn Lily**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **inocencia, la vulnerabilidad y la sensibilidad emocional**, así como con la **capacidad de abrirse a la vida con confianza y delicadeza**. Es una esencia que fomenta la **sensibilidad consciente y la ternura hacia uno mismo y los demás**.
+
+## Energía y cualidad emocional
+Fawn Lily está indicada para personas que:
+- Son **muy sensibles o vulnerables emocionalmente**
+- Tienden a **protegerse demasiado** y evitar la apertura
+- Desean **recuperar la confianza y la ternura interna**
+- Buscan **conectarse con la suavidad y la delicadeza de la vida**
+
+A nivel energético, esta esencia ayuda a **activar la confianza en la propia sensibilidad**, promoviendo la **aceptación, la apertura y la armonía emocional**.
+
+## Beneficios energéticos de la esencia floral Fawn Lily
+- Favorece la **sensibilidad consciente y equilibrada**
+- Ayuda a **recuperar la confianza emocional**
+- Promueve la **apertura y la vulnerabilidad positiva**
+- Facilita la **armonía con uno mismo y los demás**
+- Despierta la **ternura y la delicadeza interior**
+
+Es especialmente útil para personas que desean **abrirse al mundo con suavidad y autenticidad**, manteniendo la fuerza interna.
+
+## La planta y su simbolismo
+El Lirio Ciervo florece de manera delicada y elegante, evocando la **inocencia, la pureza y la ternura**. Su simbolismo refleja la **capacidad de moverse por la vida con gracia y sensibilidad**, respetando los propios límites y la propia vulnerabilidad.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Fawn Lily se utiliza para:
+- Apoyar la **sensibilidad consciente y la ternura emocional**
+- Favorecer la **apertura y la confianza interna**
+- Facilitar la **armonía en relaciones y con uno mismo**
+- Acompañar procesos de **sanación de vulnerabilidad y delicadeza emocional**
+
+Puede combinarse con otras esencias florales para **potenciar la suavidad, la apertura y la confianza emocional**.
+
+## Palabras clave SEO
+fawn lily flower essence, esencia floral fawn lily, erythronium oregonum esencia floral, lirio ciervo esencia floral, fes california flower essences, esencias florales de california, sensibilidad emocional, ternura interior, apertura emocional
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/fawn-lily-fes-1148-fawn-lily.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

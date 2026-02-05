@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
-7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
 8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:Tb8e,<h1>Chaparral – Esencia Floral de California</h1>
@@ -37,7 +37,7 @@
 </ul>
 <p>Puede combinarse con otras esencias florales para <strong>potenciar procesos de transformación, claridad y liberación emocional</strong>.</p>
 <h2>Palabras clave SEO</h2>
-<p>chaparral flower essence, esencia floral chaparral, larrea tridentata esencia floral, fes california flower essences, esencias florales de california, purificación emocional, renovación interior, transformación personal</p>0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Chaparral FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/chaparral-fes-1136-chaparral.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1136,"SKU":"Chafes1","slug":"chaparral-fes-1136"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+<p>chaparral flower essence, esencia floral chaparral, larrea tridentata esencia floral, fes california flower essences, esencias florales de california, purificación emocional, renovación interior, transformación personal</p>0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Chaparral FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/chaparral-fes-1136-chaparral.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1136,"SKU":"Chafes1","slug":"chaparral-fes-1136"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","$L7",null,{}]
 5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]

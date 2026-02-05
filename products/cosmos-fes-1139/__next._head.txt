@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cosmos FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Cosmos FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/cosmos-fes-1139-cosmos.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Cosmos FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/cosmos-fes-1139-cosmos.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T8f1,# Cosmos – Esencia Floral de California  
+*Cosmos bipinnatus · Cosmos*
+
+## Descripción general
+La **esencia floral de Cosmos**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración interior**, la **armonía entre mente, emoción y acción**, y la capacidad de **expresarse con coherencia y fluidez**. Es una esencia que apoya la **organización interna y la claridad expresiva**.
+
+## Energía y cualidad emocional
+Cosmos está indicada para personas que:
+- Se sienten **dispersas o desorganizadas internamente**
+- Tienen muchas ideas pero dificultad para **expresarlas o concretarlas**
+- Experimentan **desorden entre pensamiento, emoción y acción**
+- Desean mayor **fluidez y coherencia personal**
+
+A nivel energético, esta esencia ayuda a **alinear las distintas capas del ser**, permitiendo que la expresión personal surja de forma **ordenada, clara y armoniosa**.
+
+## Beneficios energéticos de la esencia floral Cosmos
+- Favorece la **integración interior**
+- Mejora la **claridad y la expresión consciente**
+- Ayuda a organizar **ideas, emociones y acciones**
+- Promueve la **coherencia personal**
+- Apoya la **fluidez creativa y comunicativa**
+
+Es especialmente útil para personas creativas, comunicadores o en momentos de **reorganización personal y profesional**.
+
+## La planta y su simbolismo
+La flor de Cosmos destaca por su **simetría y ligereza**, simbolizando el **orden natural del universo**. Representa la **armonía, la claridad y el equilibrio**, reflejando la capacidad de vivir y expresarse en coherencia con el propio centro.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Cosmos se utiliza para:
+- Integrar **pensamiento, emoción y acción**
+- Favorecer la **expresión clara y organizada**
+- Apoyar procesos creativos y comunicativos
+- Promover la **armonía interior y el equilibrio personal**
+
+Puede combinarse con otras esencias florales para **potenciar la coherencia, la claridad y la expresión fluida**.
+
+## Palabras clave SEO
+cosmos flower essence, esencia floral cosmos, cosmos bipinnatus esencia floral, fes california flower essences, esencias florales de california, integración interior, expresión consciente, coherencia personal
+6:T8f1,# Cosmos – Esencia Floral de California  
+*Cosmos bipinnatus · Cosmos*
+
+## Descripción general
+La **esencia floral de Cosmos**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración interior**, la **armonía entre mente, emoción y acción**, y la capacidad de **expresarse con coherencia y fluidez**. Es una esencia que apoya la **organización interna y la claridad expresiva**.
+
+## Energía y cualidad emocional
+Cosmos está indicada para personas que:
+- Se sienten **dispersas o desorganizadas internamente**
+- Tienen muchas ideas pero dificultad para **expresarlas o concretarlas**
+- Experimentan **desorden entre pensamiento, emoción y acción**
+- Desean mayor **fluidez y coherencia personal**
+
+A nivel energético, esta esencia ayuda a **alinear las distintas capas del ser**, permitiendo que la expresión personal surja de forma **ordenada, clara y armoniosa**.
+
+## Beneficios energéticos de la esencia floral Cosmos
+- Favorece la **integración interior**
+- Mejora la **claridad y la expresión consciente**
+- Ayuda a organizar **ideas, emociones y acciones**
+- Promueve la **coherencia personal**
+- Apoya la **fluidez creativa y comunicativa**
+
+Es especialmente útil para personas creativas, comunicadores o en momentos de **reorganización personal y profesional**.
+
+## La planta y su simbolismo
+La flor de Cosmos destaca por su **simetría y ligereza**, simbolizando el **orden natural del universo**. Representa la **armonía, la claridad y el equilibrio**, reflejando la capacidad de vivir y expresarse en coherencia con el propio centro.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Cosmos se utiliza para:
+- Integrar **pensamiento, emoción y acción**
+- Favorecer la **expresión clara y organizada**
+- Apoyar procesos creativos y comunicativos
+- Promover la **armonía interior y el equilibrio personal**
+
+Puede combinarse con otras esencias florales para **potenciar la coherencia, la claridad y la expresión fluida**.
+
+## Palabras clave SEO
+cosmos flower essence, esencia floral cosmos, cosmos bipinnatus esencia floral, fes california flower essences, esencias florales de california, integración interior, expresión consciente, coherencia personal
+0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cosmos FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Cosmos FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/cosmos-fes-1139-cosmos.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Cosmos FES - Flower Essences Tarifa"}]
+12:T8f1,# Cosmos – Esencia Floral de California  
+*Cosmos bipinnatus · Cosmos*
+
+## Descripción general
+La **esencia floral de Cosmos**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **integración interior**, la **armonía entre mente, emoción y acción**, y la capacidad de **expresarse con coherencia y fluidez**. Es una esencia que apoya la **organización interna y la claridad expresiva**.
+
+## Energía y cualidad emocional
+Cosmos está indicada para personas que:
+- Se sienten **dispersas o desorganizadas internamente**
+- Tienen muchas ideas pero dificultad para **expresarlas o concretarlas**
+- Experimentan **desorden entre pensamiento, emoción y acción**
+- Desean mayor **fluidez y coherencia personal**
+
+A nivel energético, esta esencia ayuda a **alinear las distintas capas del ser**, permitiendo que la expresión personal surja de forma **ordenada, clara y armoniosa**.
+
+## Beneficios energéticos de la esencia floral Cosmos
+- Favorece la **integración interior**
+- Mejora la **claridad y la expresión consciente**
+- Ayuda a organizar **ideas, emociones y acciones**
+- Promueve la **coherencia personal**
+- Apoya la **fluidez creativa y comunicativa**
+
+Es especialmente útil para personas creativas, comunicadores o en momentos de **reorganización personal y profesional**.
+
+## La planta y su simbolismo
+La flor de Cosmos destaca por su **simetría y ligereza**, simbolizando el **orden natural del universo**. Representa la **armonía, la claridad y el equilibrio**, reflejando la capacidad de vivir y expresarse en coherencia con el propio centro.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Cosmos se utiliza para:
+- Integrar **pensamiento, emoción y acción**
+- Favorecer la **expresión clara y organizada**
+- Apoyar procesos creativos y comunicativos
+- Promover la **armonía interior y el equilibrio personal**
+
+Puede combinarse con otras esencias florales para **potenciar la coherencia, la claridad y la expresión fluida**.
+
+## Palabras clave SEO
+cosmos flower essence, esencia floral cosmos, cosmos bipinnatus esencia floral, fes california flower essences, esencias florales de california, integración interior, expresión consciente, coherencia personal
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/cosmos-fes-1139-cosmos.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

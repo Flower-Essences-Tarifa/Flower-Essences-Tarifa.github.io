@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Evening Primrose FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/evening-primrose-fes-1146-evening-primrose.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1146,"SKU":"Evepri","slug":"evening-primrose-fes-1146"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tc4e,<h1>Evening Primrose – Esencia Floral de California</h1>
+<p><em>Oenothera biennis · Onagra</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Evening Primrose</strong>, dentro del sistema de <strong>Flower Essences de California (FES)</strong>, está asociada con la <strong>apertura emocional</strong>, la <strong>sensibilidad hacia los demás</strong> y la capacidad de <strong>brindar cuidado y apoyo de manera equilibrada</strong>. Es una esencia que ayuda a <strong>integrar la sensibilidad con la fortaleza personal</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Evening Primrose está indicada para personas que:</p>
+<ul>
+<li>Son muy <strong>sensibles a las emociones ajenas</strong></li>
+<li>Tienen dificultad para <strong>poner límites sin perder calidez</strong></li>
+<li>Desean <strong>conectar con su capacidad de cuidado y empatía</strong></li>
+<li>Buscan <strong>equilibrar sensibilidad y fuerza interna</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>armonizar la apertura emocional con la protección interna</strong>, fomentando la <strong>confianza, la receptividad y la estabilidad emocional</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Evening Primrose</h2>
+<ul>
+<li>Favorece la <strong>apertura emocional y la empatía</strong></li>
+<li>Ayuda a establecer <strong>límites saludables sin perder calidez</strong></li>
+<li>Promueve la <strong>confianza y la estabilidad interior</strong></li>
+<li>Apoya la <strong>integración de sensibilidad y fuerza personal</strong></li>
+<li>Facilita la <strong>receptividad consciente y equilibrada</strong></li>
+</ul>
+<p>Es especialmente útil para personas que trabajan en <strong>relaciones de cuidado, sanación o enseñanza</strong>, o para quienes desean <strong>manejar la sensibilidad emocional de manera saludable</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Onagra florece al atardecer y simboliza la <strong>capacidad de abrirse suavemente al mundo mientras se mantiene protegida</strong>. Representa la <strong>receptividad equilibrada</strong>, la <strong>empatía consciente</strong> y la <strong>armonía entre cuidado y fortaleza interior</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Evening Primrose se utiliza para:</p>
+<ul>
+<li>Desarrollar <strong>empatía y apertura emocional</strong></li>
+<li>Apoyar la <strong>capacidad de cuidado sin auto-sacrificio</strong></li>
+<li>Favorecer la <strong>armonización entre sensibilidad y fortaleza</strong></li>
+<li>Acompañar procesos de <strong>receptividad consciente y equilibrio interno</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar la empatía equilibrada, la confianza y la estabilidad emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>evening primrose flower essence, esencia floral evening primrose, onagra esencia floral, oenothera biennis esencia floral, fes california flower essences, esencias florales de california, apertura emocional, empatía equilibrada, sensibilidad consciente</p>0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Evening Primrose FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/evening-primrose-fes-1146-evening-primrose.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1146,"SKU":"Evepri","slug":"evening-primrose-fes-1146"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

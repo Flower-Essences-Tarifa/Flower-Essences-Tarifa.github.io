@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Evening Primrose FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Evening Primrose FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/evening-primrose-fes-1146-evening-primrose.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Evening Primrose FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/evening-primrose-fes-1146-evening-primrose.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta08,# Evening Primrose – Esencia Floral de California  
+*Oenothera biennis · Onagra*
+
+## Descripción general
+La **esencia floral de Evening Primrose**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **apertura emocional**, la **sensibilidad hacia los demás** y la capacidad de **brindar cuidado y apoyo de manera equilibrada**. Es una esencia que ayuda a **integrar la sensibilidad con la fortaleza personal**.
+
+## Energía y cualidad emocional
+Evening Primrose está indicada para personas que:
+- Son muy **sensibles a las emociones ajenas**  
+- Tienen dificultad para **poner límites sin perder calidez**  
+- Desean **conectar con su capacidad de cuidado y empatía**  
+- Buscan **equilibrar sensibilidad y fuerza interna**
+
+A nivel energético, esta esencia ayuda a **armonizar la apertura emocional con la protección interna**, fomentando la **confianza, la receptividad y la estabilidad emocional**.
+
+## Beneficios energéticos de la esencia floral Evening Primrose
+- Favorece la **apertura emocional y la empatía**  
+- Ayuda a establecer **límites saludables sin perder calidez**  
+- Promueve la **confianza y la estabilidad interior**  
+- Apoya la **integración de sensibilidad y fuerza personal**  
+- Facilita la **receptividad consciente y equilibrada**
+
+Es especialmente útil para personas que trabajan en **relaciones de cuidado, sanación o enseñanza**, o para quienes desean **manejar la sensibilidad emocional de manera saludable**.
+
+## La planta y su simbolismo
+La Onagra florece al atardecer y simboliza la **capacidad de abrirse suavemente al mundo mientras se mantiene protegida**. Representa la **receptividad equilibrada**, la **empatía consciente** y la **armonía entre cuidado y fortaleza interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Evening Primrose se utiliza para:
+- Desarrollar **empatía y apertura emocional**  
+- Apoyar la **capacidad de cuidado sin auto-sacrificio**  
+- Favorecer la **armonización entre sensibilidad y fortaleza**  
+- Acompañar procesos de **receptividad consciente y equilibrio interno**
+
+Puede combinarse con otras esencias florales para **potenciar la empatía equilibrada, la confianza y la estabilidad emocional**.
+
+## Palabras clave SEO
+evening primrose flower essence, esencia floral evening primrose, onagra esencia floral, oenothera biennis esencia floral, fes california flower essences, esencias florales de california, apertura emocional, empatía equilibrada, sensibilidad consciente
+6:Ta08,# Evening Primrose – Esencia Floral de California  
+*Oenothera biennis · Onagra*
+
+## Descripción general
+La **esencia floral de Evening Primrose**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **apertura emocional**, la **sensibilidad hacia los demás** y la capacidad de **brindar cuidado y apoyo de manera equilibrada**. Es una esencia que ayuda a **integrar la sensibilidad con la fortaleza personal**.
+
+## Energía y cualidad emocional
+Evening Primrose está indicada para personas que:
+- Son muy **sensibles a las emociones ajenas**  
+- Tienen dificultad para **poner límites sin perder calidez**  
+- Desean **conectar con su capacidad de cuidado y empatía**  
+- Buscan **equilibrar sensibilidad y fuerza interna**
+
+A nivel energético, esta esencia ayuda a **armonizar la apertura emocional con la protección interna**, fomentando la **confianza, la receptividad y la estabilidad emocional**.
+
+## Beneficios energéticos de la esencia floral Evening Primrose
+- Favorece la **apertura emocional y la empatía**  
+- Ayuda a establecer **límites saludables sin perder calidez**  
+- Promueve la **confianza y la estabilidad interior**  
+- Apoya la **integración de sensibilidad y fuerza personal**  
+- Facilita la **receptividad consciente y equilibrada**
+
+Es especialmente útil para personas que trabajan en **relaciones de cuidado, sanación o enseñanza**, o para quienes desean **manejar la sensibilidad emocional de manera saludable**.
+
+## La planta y su simbolismo
+La Onagra florece al atardecer y simboliza la **capacidad de abrirse suavemente al mundo mientras se mantiene protegida**. Representa la **receptividad equilibrada**, la **empatía consciente** y la **armonía entre cuidado y fortaleza interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Evening Primrose se utiliza para:
+- Desarrollar **empatía y apertura emocional**  
+- Apoyar la **capacidad de cuidado sin auto-sacrificio**  
+- Favorecer la **armonización entre sensibilidad y fortaleza**  
+- Acompañar procesos de **receptividad consciente y equilibrio interno**
+
+Puede combinarse con otras esencias florales para **potenciar la empatía equilibrada, la confianza y la estabilidad emocional**.
+
+## Palabras clave SEO
+evening primrose flower essence, esencia floral evening primrose, onagra esencia floral, oenothera biennis esencia floral, fes california flower essences, esencias florales de california, apertura emocional, empatía equilibrada, sensibilidad consciente
+0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Evening Primrose FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Evening Primrose FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/evening-primrose-fes-1146-evening-primrose.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Evening Primrose FES - Flower Essences Tarifa"}]
+12:Ta08,# Evening Primrose – Esencia Floral de California  
+*Oenothera biennis · Onagra*
+
+## Descripción general
+La **esencia floral de Evening Primrose**, dentro del sistema de **Flower Essences de California (FES)**, está asociada con la **apertura emocional**, la **sensibilidad hacia los demás** y la capacidad de **brindar cuidado y apoyo de manera equilibrada**. Es una esencia que ayuda a **integrar la sensibilidad con la fortaleza personal**.
+
+## Energía y cualidad emocional
+Evening Primrose está indicada para personas que:
+- Son muy **sensibles a las emociones ajenas**  
+- Tienen dificultad para **poner límites sin perder calidez**  
+- Desean **conectar con su capacidad de cuidado y empatía**  
+- Buscan **equilibrar sensibilidad y fuerza interna**
+
+A nivel energético, esta esencia ayuda a **armonizar la apertura emocional con la protección interna**, fomentando la **confianza, la receptividad y la estabilidad emocional**.
+
+## Beneficios energéticos de la esencia floral Evening Primrose
+- Favorece la **apertura emocional y la empatía**  
+- Ayuda a establecer **límites saludables sin perder calidez**  
+- Promueve la **confianza y la estabilidad interior**  
+- Apoya la **integración de sensibilidad y fuerza personal**  
+- Facilita la **receptividad consciente y equilibrada**
+
+Es especialmente útil para personas que trabajan en **relaciones de cuidado, sanación o enseñanza**, o para quienes desean **manejar la sensibilidad emocional de manera saludable**.
+
+## La planta y su simbolismo
+La Onagra florece al atardecer y simboliza la **capacidad de abrirse suavemente al mundo mientras se mantiene protegida**. Representa la **receptividad equilibrada**, la **empatía consciente** y la **armonía entre cuidado y fortaleza interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Evening Primrose se utiliza para:
+- Desarrollar **empatía y apertura emocional**  
+- Apoyar la **capacidad de cuidado sin auto-sacrificio**  
+- Favorecer la **armonización entre sensibilidad y fortaleza**  
+- Acompañar procesos de **receptividad consciente y equilibrio interno**
+
+Puede combinarse con otras esencias florales para **potenciar la empatía equilibrada, la confianza y la estabilidad emocional**.
+
+## Palabras clave SEO
+evening primrose flower essence, esencia floral evening primrose, onagra esencia floral, oenothera biennis esencia floral, fes california flower essences, esencias florales de california, apertura emocional, empatía equilibrada, sensibilidad consciente
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/evening-primrose-fes-1146-evening-primrose.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]

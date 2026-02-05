@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/19e1ebe80f13e2cf.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"PXGDunlt5xxLXmwK0RJKf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Fawn Lily FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/fawn-lily-fes-1148-fawn-lily.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1148,"SKU":"Fawlil","slug":"fawn-lily-fes-1148"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/b1e1dae359e7f48d.js","/_next/static/chunks/fa0860f69b58f3fc.js","/_next/static/chunks/f05702129a190e68.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tbc1,<h1>Fawn Lily – Esencia Floral de California</h1>
+<p><em>Erythronium oregonum · Lirio Ciervo</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Fawn Lily</strong>, dentro del sistema de <strong>Flower Essences de California (FES)</strong>, está asociada con la <strong>inocencia, la vulnerabilidad y la sensibilidad emocional</strong>, así como con la <strong>capacidad de abrirse a la vida con confianza y delicadeza</strong>. Es una esencia que fomenta la <strong>sensibilidad consciente y la ternura hacia uno mismo y los demás</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Fawn Lily está indicada para personas que:</p>
+<ul>
+<li>Son <strong>muy sensibles o vulnerables emocionalmente</strong></li>
+<li>Tienden a <strong>protegerse demasiado</strong> y evitar la apertura</li>
+<li>Desean <strong>recuperar la confianza y la ternura interna</strong></li>
+<li>Buscan <strong>conectarse con la suavidad y la delicadeza de la vida</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>activar la confianza en la propia sensibilidad</strong>, promoviendo la <strong>aceptación, la apertura y la armonía emocional</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Fawn Lily</h2>
+<ul>
+<li>Favorece la <strong>sensibilidad consciente y equilibrada</strong></li>
+<li>Ayuda a <strong>recuperar la confianza emocional</strong></li>
+<li>Promueve la <strong>apertura y la vulnerabilidad positiva</strong></li>
+<li>Facilita la <strong>armonía con uno mismo y los demás</strong></li>
+<li>Despierta la <strong>ternura y la delicadeza interior</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>abrirse al mundo con suavidad y autenticidad</strong>, manteniendo la fuerza interna.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Lirio Ciervo florece de manera delicada y elegante, evocando la <strong>inocencia, la pureza y la ternura</strong>. Su simbolismo refleja la <strong>capacidad de moverse por la vida con gracia y sensibilidad</strong>, respetando los propios límites y la propia vulnerabilidad.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Fawn Lily se utiliza para:</p>
+<ul>
+<li>Apoyar la <strong>sensibilidad consciente y la ternura emocional</strong></li>
+<li>Favorecer la <strong>apertura y la confianza interna</strong></li>
+<li>Facilitar la <strong>armonía en relaciones y con uno mismo</strong></li>
+<li>Acompañar procesos de <strong>sanación de vulnerabilidad y delicadeza emocional</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar la suavidad, la apertura y la confianza emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>fawn lily flower essence, esencia floral fawn lily, erythronium oregonum esencia floral, lirio ciervo esencia floral, fes california flower essences, esencias florales de california, sensibilidad emocional, ternura interior, apertura emocional</p>0:{"buildId":"_zTJ3NlfybMWf2Oj0PpMZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Fawn Lily FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/fawn-lily-fes-1148-fawn-lily.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1148,"SKU":"Fawlil","slug":"fawn-lily-fes-1148"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/f05702129a190e68.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
