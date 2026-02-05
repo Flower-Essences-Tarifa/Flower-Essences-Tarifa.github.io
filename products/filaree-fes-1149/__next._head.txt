@@ -2,5 +2,130 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"TLvveRKRqXBjNe0x-RqdT","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Filaree FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Filaree FES - Flower Essences Tarifa"}],["$","meta","2",{"property":"og:image","content":"https://floweressencestarifa.org/products/filaree-fes-1149-filaree.jpg"}],["$","meta","3",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","4",{"name":"twitter:title","content":"Filaree FES - Flower Essences Tarifa"}],["$","meta","5",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/filaree-fes-1149-filaree.jpg"}],["$","link","6",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","9",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","10",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T919,# Filaree – Esencia Floral de California  
+*Erodium cicutarium*
+
+## Descripción general
+La **esencia floral de Filaree**, dentro del sistema de **FES California Flower Essences**, está relacionada con la **integración, la organización interna y la capacidad de unir lo disperso**. Es una esencia que apoya a personas con **pensamientos fragmentados o sensación de desorden interno**, ayudando a crear **coherencia y claridad emocional**.
+
+## Energía y cualidad emocional
+Filaree está indicada para personas que:
+- Se sienten **dispersas, desorganizadas o mentalmente fragmentadas**
+- Tienen dificultad para **integrar experiencias o emociones**
+- Viven con sensación de **confusión interna**
+- Buscan **orden, coherencia y alineación interior**
+
+A nivel energético, esta esencia favorece la **integración de cuerpo, mente y emociones**, ayudando a que las diferentes partes del ser trabajen en armonía.
+
+## Beneficios energéticos de la esencia floral Filaree
+- Promueve la **integración emocional y mental**
+- Ayuda a **ordenar pensamientos dispersos**
+- Favorece la **claridad y coherencia interna**
+- Apoya procesos de **reorganización personal**
+- Facilita la **alineación entre intención y acción**
+
+Es especialmente útil en momentos de **cambio, aprendizaje intenso o sobrecarga mental**.
+
+## La planta y su simbolismo
+Filaree se caracteriza por su estructura fina y ramificada, simbolizando la **capacidad de conectar múltiples elementos en una unidad funcional**. Representa la **integración de lo pequeño con lo grande**, y la habilidad de **tejer coherencia a partir de la diversidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Filaree se utiliza para:
+- Apoyar la **integración de experiencias vitales**
+- Favorecer la **organización emocional y mental**
+- Facilitar procesos de **aprendizaje y asimilación**
+- Ayudar a personas que se sienten **dispersas o fragmentadas**
+
+Puede combinarse con otras esencias florales para **potenciar la claridad, la organización y la integración interna**.
+
+## Palabras clave SEO
+filaree flower essence, esencia floral filaree, erodium cicutarium esencia floral, fes california flower essences, esencias florales de california, integración emocional, claridad mental, coherencia interna
+6:T919,# Filaree – Esencia Floral de California  
+*Erodium cicutarium*
+
+## Descripción general
+La **esencia floral de Filaree**, dentro del sistema de **FES California Flower Essences**, está relacionada con la **integración, la organización interna y la capacidad de unir lo disperso**. Es una esencia que apoya a personas con **pensamientos fragmentados o sensación de desorden interno**, ayudando a crear **coherencia y claridad emocional**.
+
+## Energía y cualidad emocional
+Filaree está indicada para personas que:
+- Se sienten **dispersas, desorganizadas o mentalmente fragmentadas**
+- Tienen dificultad para **integrar experiencias o emociones**
+- Viven con sensación de **confusión interna**
+- Buscan **orden, coherencia y alineación interior**
+
+A nivel energético, esta esencia favorece la **integración de cuerpo, mente y emociones**, ayudando a que las diferentes partes del ser trabajen en armonía.
+
+## Beneficios energéticos de la esencia floral Filaree
+- Promueve la **integración emocional y mental**
+- Ayuda a **ordenar pensamientos dispersos**
+- Favorece la **claridad y coherencia interna**
+- Apoya procesos de **reorganización personal**
+- Facilita la **alineación entre intención y acción**
+
+Es especialmente útil en momentos de **cambio, aprendizaje intenso o sobrecarga mental**.
+
+## La planta y su simbolismo
+Filaree se caracteriza por su estructura fina y ramificada, simbolizando la **capacidad de conectar múltiples elementos en una unidad funcional**. Representa la **integración de lo pequeño con lo grande**, y la habilidad de **tejer coherencia a partir de la diversidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Filaree se utiliza para:
+- Apoyar la **integración de experiencias vitales**
+- Favorecer la **organización emocional y mental**
+- Facilitar procesos de **aprendizaje y asimilación**
+- Ayudar a personas que se sienten **dispersas o fragmentadas**
+
+Puede combinarse con otras esencias florales para **potenciar la claridad, la organización y la integración interna**.
+
+## Palabras clave SEO
+filaree flower essence, esencia floral filaree, erodium cicutarium esencia floral, fes california flower essences, esencias florales de california, integración emocional, claridad mental, coherencia interna
+0:{"buildId":"1iVD6yCkKC7X28-Asgp-J","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Filaree FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Filaree FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/filaree-fes-1149-filaree.jpg"}]
+8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
+9:["$","meta","6",{"name":"twitter:title","content":"Filaree FES - Flower Essences Tarifa"}]
+12:T919,# Filaree – Esencia Floral de California  
+*Erodium cicutarium*
+
+## Descripción general
+La **esencia floral de Filaree**, dentro del sistema de **FES California Flower Essences**, está relacionada con la **integración, la organización interna y la capacidad de unir lo disperso**. Es una esencia que apoya a personas con **pensamientos fragmentados o sensación de desorden interno**, ayudando a crear **coherencia y claridad emocional**.
+
+## Energía y cualidad emocional
+Filaree está indicada para personas que:
+- Se sienten **dispersas, desorganizadas o mentalmente fragmentadas**
+- Tienen dificultad para **integrar experiencias o emociones**
+- Viven con sensación de **confusión interna**
+- Buscan **orden, coherencia y alineación interior**
+
+A nivel energético, esta esencia favorece la **integración de cuerpo, mente y emociones**, ayudando a que las diferentes partes del ser trabajen en armonía.
+
+## Beneficios energéticos de la esencia floral Filaree
+- Promueve la **integración emocional y mental**
+- Ayuda a **ordenar pensamientos dispersos**
+- Favorece la **claridad y coherencia interna**
+- Apoya procesos de **reorganización personal**
+- Facilita la **alineación entre intención y acción**
+
+Es especialmente útil en momentos de **cambio, aprendizaje intenso o sobrecarga mental**.
+
+## La planta y su simbolismo
+Filaree se caracteriza por su estructura fina y ramificada, simbolizando la **capacidad de conectar múltiples elementos en una unidad funcional**. Representa la **integración de lo pequeño con lo grande**, y la habilidad de **tejer coherencia a partir de la diversidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Filaree se utiliza para:
+- Apoyar la **integración de experiencias vitales**
+- Favorecer la **organización emocional y mental**
+- Facilitar procesos de **aprendizaje y asimilación**
+- Ayudar a personas que se sienten **dispersas o fragmentadas**
+
+Puede combinarse con otras esencias florales para **potenciar la claridad, la organización y la integración interna**.
+
+## Palabras clave SEO
+filaree flower essence, esencia floral filaree, erodium cicutarium esencia floral, fes california flower essences, esencias florales de california, integración emocional, claridad mental, coherencia interna
+a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
+b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/filaree-fes-1149-filaree.jpg"}]
+c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+10:["$","$L13","13",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
