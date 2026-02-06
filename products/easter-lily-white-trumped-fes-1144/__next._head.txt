@@ -2,7 +2,7 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
 5:T9fb,# Easter Lily (White Trumpet) – Esencia Floral de California  
 *Lilium longiflorum · Lirio de Pascua · Lirio blanco trompeta*
 
@@ -79,11 +79,12 @@ Puede combinarse con otras esencias florales para **potenciar la apertura espiri
 
 ## Palabras clave SEO
 easter lily flower essence, white trumpet lily essence, esencia floral easter lily, lirio de pascua esencia floral, fes california flower essences, esencias florales de california, apertura espiritual, pureza interior, renovación espiritual
-0:{"buildId":"1iVD6yCkKC7X28-Asgp-J","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"loading":null,"isPartial":false}
-7:["$","meta","4",{"property":"og:image","content":"https://floweressencestarifa.org/products/easter-lily-white-trumped-fes-1144-Easter%20Lily.jpg"}]
-8:["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}]
-9:["$","meta","6",{"name":"twitter:title","content":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}]
-12:T9fb,# Easter Lily (White Trumpet) – Esencia Floral de California  
+0:{"buildId":"4ZF6ONlrEOxZbEg88MjL7","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/easter-lily-white-trumped-fes-1144-Easter%20Lily.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Easter Lily (White Trumped) FES - Flower Essences Tarifa"}]
+13:T9fb,# Easter Lily (White Trumpet) – Esencia Floral de California  
 *Lilium longiflorum · Lirio de Pascua · Lirio blanco trompeta*
 
 ## Descripción general
@@ -121,11 +122,11 @@ Puede combinarse con otras esencias florales para **potenciar la apertura espiri
 
 ## Palabras clave SEO
 easter lily flower essence, white trumpet lily essence, esencia floral easter lily, lirio de pascua esencia floral, fes california flower essences, esencias florales de california, apertura espiritual, pureza interior, renovación espiritual
-a:["$","meta","7",{"name":"twitter:description","content":"$12"}]
-b:["$","meta","8",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/easter-lily-white-trumped-fes-1144-Easter%20Lily.jpg"}]
-c:["$","link","9",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
-d:["$","link","10",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
-e:["$","link","11",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
-f:["$","link","12",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
-10:["$","$L13","13",{}]
-11:["$","meta",null,{"name":"next-size-adjust","content":""}]
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/easter-lily-white-trumped-fes-1144-Easter%20Lily.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
