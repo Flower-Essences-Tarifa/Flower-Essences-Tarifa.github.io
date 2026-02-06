@@ -79,11 +79,11 @@ Puede combinarse con otras esencias para **potenciar la integración emocional y
 
 ## Palabras clave SEO
 calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior
-0:{"buildId":"4ZF6ONlrEOxZbEg88MjL7","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calendula FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Calendula FES - Flower Essences Tarifa"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+0:{"buildId":"dOeznlG2RZUvXFoKqLae9","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Calendula FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Calendula FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
 7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
 8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/calendula-fes-1128-calendula.jpg"}]
 9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
-a:["$","meta","7",{"name":"twitter:title","content":"Calendula FES - Flower Essences Tarifa"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Calendula FES"}]
 13:T969,# Calendula – Esencia Floral de California  
 *Calendula officinalis · Caléndula*
 
