@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/a4a2ad04e46c9542.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/d08cb74ba065f608.js"],"ProductContextProvider"]
-7:I[88791,["/_next/static/chunks/a4a2ad04e46c9542.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/d08cb74ba065f608.js"],"default"]
+2:I[37929,["/_next/static/chunks/a4a2ad04e46c9542.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/ce18ac726b4c1d6d.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/a4a2ad04e46c9542.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/ce18ac726b4c1d6d.js"],"default"]
 8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:Tbaa,<h1>Dogwood – Esencia Floral de California</h1>
@@ -37,8 +37,8 @@
 </ul>
 <p>Puede combinarse con otras esencias florales para <strong>potenciar la acción consciente, el propósito y la expresión espiritual práctica</strong>.</p>
 <h2>Palabras clave SEO</h2>
-<p>dogwood flower essence, esencia floral dogwood, cornus nuttallii esencia floral, fes california flower essences, esencias florales de california, acción consciente, servicio espiritual, coherencia personal</p>0:{"buildId":"_lf5KZD3vmzk-JJJ3Cwjo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Dogwood FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/dogwood-fes-1143-dogwood.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1143,"SKU":"Dogfes","slug":"dogwood-fes-1143"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+<p>dogwood flower essence, esencia floral dogwood, cornus nuttallii esencia floral, fes california flower essences, esencias florales de california, acción consciente, servicio espiritual, coherencia personal</p>0:{"buildId":"_Uq8R7KugtgjUTbLBNjrR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Dogwood FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/dogwood-fes-1143-dogwood.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1143,"SKU":"Dogfes","slug":"dogwood-fes-1143"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","$L7",null,{}]
-5:["$","script","script-0",{"src":"/_next/static/chunks/d08cb74ba065f608.js","async":true}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/ce18ac726b4c1d6d.js","async":true}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
