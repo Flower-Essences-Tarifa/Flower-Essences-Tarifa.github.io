@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/b410caad0f1fc77f.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"ProductContextProvider"]
-7:I[88791,["/_next/static/chunks/b410caad0f1fc77f.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"default"]
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"default"]
 8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:Tb8f,<h1>Calendula – Esencia Floral de California</h1>
@@ -37,7 +37,7 @@
 </ul>
 <p>Puede combinarse con otras esencias para <strong>potenciar la integración emocional y el bienestar interior</strong>.</p>
 <h2>Palabras clave SEO</h2>
-<p>calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior</p>0:{"buildId":"scIbR_c4VUUbFmyAOfz8E","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Calendula FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/calendula-fes-1128-calendula.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1128,"SKU":"Calfes","slug":"calendula-fes-1128"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+<p>calendula flower essence, esencia floral calendula, caléndula esencia floral, flower essences de california, esencias florales californianas, integración emocional, coherencia interna, armonía interior</p>0:{"buildId":"rlZFdsOSTaBio2EqfniXt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Calendula FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/calendula-fes-1128-calendula.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1128,"SKU":"Calfes","slug":"calendula-fes-1128"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","$L7",null,{}]
 5:["$","script","script-0",{"src":"/_next/static/chunks/bcef5a940a178d86.js","async":true}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
