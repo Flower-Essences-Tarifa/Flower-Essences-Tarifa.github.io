@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"ProductContextProvider"]
-7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/bcef5a940a178d86.js"],"default"]
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/3dc755f749baa18c.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
 8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:Tb35,<h1>Deerbrush – Esencia Floral de California</h1>
@@ -37,8 +37,8 @@
 </ul>
 <p>Puede combinarse con otras esencias florales para <strong>potenciar la sanación emocional, la esperanza y la fortaleza interior</strong>.</p>
 <h2>Palabras clave SEO</h2>
-<p>deerbrush flower essence, esencia floral deerbrush, ceanothus integerrimus esencia floral, fes california flower essences, esencias florales de california, renovación emocional, resiliencia, nuevos comienzos</p>0:{"buildId":"rlZFdsOSTaBio2EqfniXt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Deerbrush FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/deerbrush-fes-1141-deerbrush.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1141,"SKU":"Deefes","slug":"deerbrush-fes-1141"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+<p>deerbrush flower essence, esencia floral deerbrush, ceanothus integerrimus esencia floral, fes california flower essences, esencias florales de california, renovación emocional, resiliencia, nuevos comienzos</p>0:{"buildId":"BLdSyWvN4ApQMMfL9ggKW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Deerbrush FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/deerbrush-fes-1141-deerbrush.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1141,"SKU":"Deefes","slug":"deerbrush-fes-1141"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","$L7",null,{}]
-5:["$","script","script-0",{"src":"/_next/static/chunks/bcef5a940a178d86.js","async":true}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
