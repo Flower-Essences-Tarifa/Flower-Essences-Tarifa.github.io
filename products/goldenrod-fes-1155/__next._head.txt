@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"BLdSyWvN4ApQMMfL9ggKW","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Goldenrod FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Goldenrod FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/goldenrod-fes-1155-goldenrod.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Goldenrod FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/goldenrod-fes-1155-goldenrod.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T9b6,# Goldenrod – Esencia Floral de California  
+*Solidago spp. · Vara de Oro*
+
+## Descripción general
+La **esencia floral de Goldenrod**, dentro del sistema de **FES California Flower Essences**, está asociada con la **vitalidad, la limpieza energética y la recuperación del equilibrio natural**. Esta esencia apoya la **renovación emocional**, la **fortaleza frente a desequilibrios** y la capacidad de **fluir con los cambios de manera armoniosa**.
+
+## Energía y cualidad emocional
+Goldenrod está indicada para personas que:
+- Se sienten **cansadas, débiles o dispersas emocionalmente**  
+- Desean **recuperar vitalidad y energía interna**  
+- Necesitan **claridad y equilibrio después de situaciones estresantes**  
+- Buscan **fortalecer la resiliencia y la conexión con la energía natural**
+
+A nivel energético, esta esencia ayuda a **restablecer la armonía interna**, promoviendo la **vitalidad, el centrado y la limpieza emocional**.
+
+## Beneficios energéticos de la esencia floral Goldenrod
+- Favorece la **renovación y limpieza emocional**  
+- Apoya la **recuperación de la vitalidad y energía interna**  
+- Promueve la **claridad y el equilibrio emocional**  
+- Refuerza la **resiliencia frente a desequilibrios y cambios**  
+- Facilita la **conexión con la energía natural y la armonía**
+
+Es especialmente útil para personas que atraviesan **momentos de estrés, agotamiento o desorganización emocional**, o que buscan **restablecer su vitalidad y estabilidad**.
+
+## La planta y su simbolismo
+La Vara de Oro se caracteriza por sus flores doradas y erguidas, simbolizando **fortaleza, energía y claridad**. Representa la **capacidad de revitalizarse, mantener el equilibrio y florecer incluso en condiciones difíciles**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Goldenrod se utiliza para:
+- Restaurar **vitalidad y equilibrio emocional**  
+- Apoyar la **limpieza energética y la resiliencia interna**  
+- Facilitar la **adaptación armoniosa a cambios y desafíos**  
+- Promover la **conexión con la fuerza y energía natural**
+
+Puede combinarse con otras esencias florales para **potenciar la vitalidad, la claridad emocional y la armonía interna**.
+
+## Palabras clave SEO
+goldenrod flower essence, esencia floral goldenrod, solidago spp. esencia floral, fes california flower essences, esencias florales de california, vitalidad emocional, equilibrio interior, limpieza energética
+6:T9b6,# Goldenrod – Esencia Floral de California  
+*Solidago spp. · Vara de Oro*
+
+## Descripción general
+La **esencia floral de Goldenrod**, dentro del sistema de **FES California Flower Essences**, está asociada con la **vitalidad, la limpieza energética y la recuperación del equilibrio natural**. Esta esencia apoya la **renovación emocional**, la **fortaleza frente a desequilibrios** y la capacidad de **fluir con los cambios de manera armoniosa**.
+
+## Energía y cualidad emocional
+Goldenrod está indicada para personas que:
+- Se sienten **cansadas, débiles o dispersas emocionalmente**  
+- Desean **recuperar vitalidad y energía interna**  
+- Necesitan **claridad y equilibrio después de situaciones estresantes**  
+- Buscan **fortalecer la resiliencia y la conexión con la energía natural**
+
+A nivel energético, esta esencia ayuda a **restablecer la armonía interna**, promoviendo la **vitalidad, el centrado y la limpieza emocional**.
+
+## Beneficios energéticos de la esencia floral Goldenrod
+- Favorece la **renovación y limpieza emocional**  
+- Apoya la **recuperación de la vitalidad y energía interna**  
+- Promueve la **claridad y el equilibrio emocional**  
+- Refuerza la **resiliencia frente a desequilibrios y cambios**  
+- Facilita la **conexión con la energía natural y la armonía**
+
+Es especialmente útil para personas que atraviesan **momentos de estrés, agotamiento o desorganización emocional**, o que buscan **restablecer su vitalidad y estabilidad**.
+
+## La planta y su simbolismo
+La Vara de Oro se caracteriza por sus flores doradas y erguidas, simbolizando **fortaleza, energía y claridad**. Representa la **capacidad de revitalizarse, mantener el equilibrio y florecer incluso en condiciones difíciles**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Goldenrod se utiliza para:
+- Restaurar **vitalidad y equilibrio emocional**  
+- Apoyar la **limpieza energética y la resiliencia interna**  
+- Facilitar la **adaptación armoniosa a cambios y desafíos**  
+- Promover la **conexión con la fuerza y energía natural**
+
+Puede combinarse con otras esencias florales para **potenciar la vitalidad, la claridad emocional y la armonía interna**.
+
+## Palabras clave SEO
+goldenrod flower essence, esencia floral goldenrod, solidago spp. esencia floral, fes california flower essences, esencias florales de california, vitalidad emocional, equilibrio interior, limpieza energética
+0:{"buildId":"SI1A4LRpLgQLxW3aMphnD","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Goldenrod FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Goldenrod FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/goldenrod-fes-1155-goldenrod.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Goldenrod FES"}]
+13:T9b6,# Goldenrod – Esencia Floral de California  
+*Solidago spp. · Vara de Oro*
+
+## Descripción general
+La **esencia floral de Goldenrod**, dentro del sistema de **FES California Flower Essences**, está asociada con la **vitalidad, la limpieza energética y la recuperación del equilibrio natural**. Esta esencia apoya la **renovación emocional**, la **fortaleza frente a desequilibrios** y la capacidad de **fluir con los cambios de manera armoniosa**.
+
+## Energía y cualidad emocional
+Goldenrod está indicada para personas que:
+- Se sienten **cansadas, débiles o dispersas emocionalmente**  
+- Desean **recuperar vitalidad y energía interna**  
+- Necesitan **claridad y equilibrio después de situaciones estresantes**  
+- Buscan **fortalecer la resiliencia y la conexión con la energía natural**
+
+A nivel energético, esta esencia ayuda a **restablecer la armonía interna**, promoviendo la **vitalidad, el centrado y la limpieza emocional**.
+
+## Beneficios energéticos de la esencia floral Goldenrod
+- Favorece la **renovación y limpieza emocional**  
+- Apoya la **recuperación de la vitalidad y energía interna**  
+- Promueve la **claridad y el equilibrio emocional**  
+- Refuerza la **resiliencia frente a desequilibrios y cambios**  
+- Facilita la **conexión con la energía natural y la armonía**
+
+Es especialmente útil para personas que atraviesan **momentos de estrés, agotamiento o desorganización emocional**, o que buscan **restablecer su vitalidad y estabilidad**.
+
+## La planta y su simbolismo
+La Vara de Oro se caracteriza por sus flores doradas y erguidas, simbolizando **fortaleza, energía y claridad**. Representa la **capacidad de revitalizarse, mantener el equilibrio y florecer incluso en condiciones difíciles**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Goldenrod se utiliza para:
+- Restaurar **vitalidad y equilibrio emocional**  
+- Apoyar la **limpieza energética y la resiliencia interna**  
+- Facilitar la **adaptación armoniosa a cambios y desafíos**  
+- Promover la **conexión con la fuerza y energía natural**
+
+Puede combinarse con otras esencias florales para **potenciar la vitalidad, la claridad emocional y la armonía interna**.
+
+## Palabras clave SEO
+goldenrod flower essence, esencia floral goldenrod, solidago spp. esencia floral, fes california flower essences, esencias florales de california, vitalidad emocional, equilibrio interior, limpieza energética
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/goldenrod-fes-1155-goldenrod.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
