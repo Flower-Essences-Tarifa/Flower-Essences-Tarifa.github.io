@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yerba Santa FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Yerba Santa FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/yerba-santa-fes-1216-yerba-santa.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Yerba Santa FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/yerba-santa-fes-1216-yerba-santa.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta26,# Yerba Santa – Esencia Floral de California  
+*Eriodictyon californicum · Yerba Santa*
+
+## Descripción general
+La **esencia floral de Yerba Santa**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, purificación emocional y liberación de bloqueos energéticos**. Esta esencia ayuda a **despejar confusión, fortalecer concentración y restaurar equilibrio**, promoviendo un **estado de bienestar, enfoque y armonía interior**.
+
+## Energía y cualidad emocional
+Yerba Santa está indicada para personas que:  
+- Se sienten **mentalmente dispersas, confundidas o emocionalmente bloqueadas**  
+- Necesitan **claridad, enfoque y purificación emocional**  
+- Buscan **equilibrio interno y liberación de cargas emocionales**  
+- Desean **sentirse más centradas, claras y alineadas con su energía personal**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos, fomentar concentración y cultivar claridad emocional**, promoviendo **bienestar, enfoque y estabilidad interna**.
+
+## Beneficios energéticos de la esencia floral Yerba Santa
+- Favorece **claridad mental y concentración**  
+- Promueve **purificación emocional y liberación de bloqueos**  
+- Apoya **equilibrio interno y bienestar general**  
+- Facilita **enfoque, estabilidad emocional y armonía**  
+- Potencia **energía renovada y conexión con el yo interior**
+
+Es especialmente útil para personas que desean **sentirse más claras, centradas y equilibradas**, cultivando **claridad, estabilidad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Yerba Santa se caracteriza por sus hojas aromáticas y flores delicadas, simbolizando **purificación, claridad y enfoque**. Representa la **capacidad de despejar confusión, liberar tensiones y mantener equilibrio interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yerba Santa se utiliza para:  
+- Facilitar **claridad mental y enfoque emocional**  
+- Apoyar **purificación y liberación de bloqueos energéticos**  
+- Promover **equilibrio, bienestar y estabilidad interna**  
+- Fortalecer **conexión con la energía personal y armonía interior**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, bienestar y equilibrio emocional**.
+
+## Palabras clave SEO
+yerba santa flower essence, esencia floral yerba santa, eriodictyon californicum esencia floral, fes california flower essences, esencias florales de california, claridad mental, purificación emocional, liberación de bloqueos, equilibrio interno, bienestar
+6:Ta26,# Yerba Santa – Esencia Floral de California  
+*Eriodictyon californicum · Yerba Santa*
+
+## Descripción general
+La **esencia floral de Yerba Santa**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, purificación emocional y liberación de bloqueos energéticos**. Esta esencia ayuda a **despejar confusión, fortalecer concentración y restaurar equilibrio**, promoviendo un **estado de bienestar, enfoque y armonía interior**.
+
+## Energía y cualidad emocional
+Yerba Santa está indicada para personas que:  
+- Se sienten **mentalmente dispersas, confundidas o emocionalmente bloqueadas**  
+- Necesitan **claridad, enfoque y purificación emocional**  
+- Buscan **equilibrio interno y liberación de cargas emocionales**  
+- Desean **sentirse más centradas, claras y alineadas con su energía personal**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos, fomentar concentración y cultivar claridad emocional**, promoviendo **bienestar, enfoque y estabilidad interna**.
+
+## Beneficios energéticos de la esencia floral Yerba Santa
+- Favorece **claridad mental y concentración**  
+- Promueve **purificación emocional y liberación de bloqueos**  
+- Apoya **equilibrio interno y bienestar general**  
+- Facilita **enfoque, estabilidad emocional y armonía**  
+- Potencia **energía renovada y conexión con el yo interior**
+
+Es especialmente útil para personas que desean **sentirse más claras, centradas y equilibradas**, cultivando **claridad, estabilidad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Yerba Santa se caracteriza por sus hojas aromáticas y flores delicadas, simbolizando **purificación, claridad y enfoque**. Representa la **capacidad de despejar confusión, liberar tensiones y mantener equilibrio interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yerba Santa se utiliza para:  
+- Facilitar **claridad mental y enfoque emocional**  
+- Apoyar **purificación y liberación de bloqueos energéticos**  
+- Promover **equilibrio, bienestar y estabilidad interna**  
+- Fortalecer **conexión con la energía personal y armonía interior**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, bienestar y equilibrio emocional**.
+
+## Palabras clave SEO
+yerba santa flower essence, esencia floral yerba santa, eriodictyon californicum esencia floral, fes california flower essences, esencias florales de california, claridad mental, purificación emocional, liberación de bloqueos, equilibrio interno, bienestar
+0:{"buildId":"r6P9T8dJkqm8_HEGZ77sP","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yerba Santa FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Yerba Santa FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/yerba-santa-fes-1216-yerba-santa.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Yerba Santa FES"}]
+13:Ta26,# Yerba Santa – Esencia Floral de California  
+*Eriodictyon californicum · Yerba Santa*
+
+## Descripción general
+La **esencia floral de Yerba Santa**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, purificación emocional y liberación de bloqueos energéticos**. Esta esencia ayuda a **despejar confusión, fortalecer concentración y restaurar equilibrio**, promoviendo un **estado de bienestar, enfoque y armonía interior**.
+
+## Energía y cualidad emocional
+Yerba Santa está indicada para personas que:  
+- Se sienten **mentalmente dispersas, confundidas o emocionalmente bloqueadas**  
+- Necesitan **claridad, enfoque y purificación emocional**  
+- Buscan **equilibrio interno y liberación de cargas emocionales**  
+- Desean **sentirse más centradas, claras y alineadas con su energía personal**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos, fomentar concentración y cultivar claridad emocional**, promoviendo **bienestar, enfoque y estabilidad interna**.
+
+## Beneficios energéticos de la esencia floral Yerba Santa
+- Favorece **claridad mental y concentración**  
+- Promueve **purificación emocional y liberación de bloqueos**  
+- Apoya **equilibrio interno y bienestar general**  
+- Facilita **enfoque, estabilidad emocional y armonía**  
+- Potencia **energía renovada y conexión con el yo interior**
+
+Es especialmente útil para personas que desean **sentirse más claras, centradas y equilibradas**, cultivando **claridad, estabilidad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Yerba Santa se caracteriza por sus hojas aromáticas y flores delicadas, simbolizando **purificación, claridad y enfoque**. Representa la **capacidad de despejar confusión, liberar tensiones y mantener equilibrio interior**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yerba Santa se utiliza para:  
+- Facilitar **claridad mental y enfoque emocional**  
+- Apoyar **purificación y liberación de bloqueos energéticos**  
+- Promover **equilibrio, bienestar y estabilidad interna**  
+- Fortalecer **conexión con la energía personal y armonía interior**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, bienestar y equilibrio emocional**.
+
+## Palabras clave SEO
+yerba santa flower essence, esencia floral yerba santa, eriodictyon californicum esencia floral, fes california flower essences, esencias florales de california, claridad mental, purificación emocional, liberación de bloqueos, equilibrio interno, bienestar
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/yerba-santa-fes-1216-yerba-santa.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

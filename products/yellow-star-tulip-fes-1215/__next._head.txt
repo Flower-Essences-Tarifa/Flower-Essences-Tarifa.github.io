@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yellow Star Tulip FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Yellow Star Tulip FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/yellow-star-tulip-fes-1215-yellow-star-tulip.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Yellow Star Tulip FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/yellow-star-tulip-fes-1215-yellow-star-tulip.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta60,# Yellow Star Tulip – Esencia Floral de California  
+*Calochortus amabilis · Tulipán Estrella Amarillo*
+
+## Descripción general
+La **esencia floral de Yellow Star Tulip**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, claridad emocional y apertura al optimismo**. Esta esencia ayuda a **activar energía positiva, fomentar entusiasmo y revitalizar la actitud emocional**, promoviendo un **estado de bienestar, vitalidad y equilibrio interno**.
+
+## Energía y cualidad emocional
+Yellow Star Tulip está indicada para personas que:  
+- Se sienten **apagadas, desanimadas o desconectadas de su alegría interior**  
+- Necesitan **recuperar vitalidad y entusiasmo por la vida**  
+- Buscan **abrirse a emociones positivas y cultivar optimismo**  
+- Desean **sentirse más alegres, confiadas y equilibradas emocionalmente**
+
+A nivel energético, esta esencia ayuda a **revitalizar emociones, despejar pensamientos negativos y fomentar alegría y positividad**, promoviendo **claridad, bienestar y entusiasmo interno**.
+
+## Beneficios energéticos de la esencia floral Yellow Star Tulip
+- Favorece **alegría, optimismo y vitalidad emocional**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya **claridad mental y equilibrio interno**  
+- Facilita **revitalización de energía y entusiasmo**  
+- Potencia **bienestar, felicidad y actitud positiva frente a la vida**
+
+Es especialmente útil para personas que desean **sentirse más optimistas, alegres y conectadas con su bienestar emocional**, cultivando **claridad, vitalidad y energía positiva**.
+
+## La planta y su simbolismo
+El Tulipán Estrella Amarillo se caracteriza por sus flores brillantes y luminosas, simbolizando **alegría, optimismo y apertura emocional**. Representa la **capacidad de irradiar energía positiva, expresar emociones auténticas y cultivar entusiasmo por la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yellow Star Tulip se utiliza para:  
+- Recuperar **alegría, vitalidad y energía positiva**  
+- Favorecer **optimismo y apertura emocional**  
+- Promover **claridad, entusiasmo y bienestar interno**  
+- Facilitar **revitalización emocional y actitud positiva**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, entusiasmo y equilibrio emocional**.
+
+## Palabras clave SEO
+yellow star tulip flower essence, esencia floral yellow star tulip, calochortus amabilis esencia floral, fes california flower essences, esencias florales de california, alegría, optimismo, vitalidad, bienestar emocional, energía positiva
+6:Ta60,# Yellow Star Tulip – Esencia Floral de California  
+*Calochortus amabilis · Tulipán Estrella Amarillo*
+
+## Descripción general
+La **esencia floral de Yellow Star Tulip**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, claridad emocional y apertura al optimismo**. Esta esencia ayuda a **activar energía positiva, fomentar entusiasmo y revitalizar la actitud emocional**, promoviendo un **estado de bienestar, vitalidad y equilibrio interno**.
+
+## Energía y cualidad emocional
+Yellow Star Tulip está indicada para personas que:  
+- Se sienten **apagadas, desanimadas o desconectadas de su alegría interior**  
+- Necesitan **recuperar vitalidad y entusiasmo por la vida**  
+- Buscan **abrirse a emociones positivas y cultivar optimismo**  
+- Desean **sentirse más alegres, confiadas y equilibradas emocionalmente**
+
+A nivel energético, esta esencia ayuda a **revitalizar emociones, despejar pensamientos negativos y fomentar alegría y positividad**, promoviendo **claridad, bienestar y entusiasmo interno**.
+
+## Beneficios energéticos de la esencia floral Yellow Star Tulip
+- Favorece **alegría, optimismo y vitalidad emocional**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya **claridad mental y equilibrio interno**  
+- Facilita **revitalización de energía y entusiasmo**  
+- Potencia **bienestar, felicidad y actitud positiva frente a la vida**
+
+Es especialmente útil para personas que desean **sentirse más optimistas, alegres y conectadas con su bienestar emocional**, cultivando **claridad, vitalidad y energía positiva**.
+
+## La planta y su simbolismo
+El Tulipán Estrella Amarillo se caracteriza por sus flores brillantes y luminosas, simbolizando **alegría, optimismo y apertura emocional**. Representa la **capacidad de irradiar energía positiva, expresar emociones auténticas y cultivar entusiasmo por la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yellow Star Tulip se utiliza para:  
+- Recuperar **alegría, vitalidad y energía positiva**  
+- Favorecer **optimismo y apertura emocional**  
+- Promover **claridad, entusiasmo y bienestar interno**  
+- Facilitar **revitalización emocional y actitud positiva**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, entusiasmo y equilibrio emocional**.
+
+## Palabras clave SEO
+yellow star tulip flower essence, esencia floral yellow star tulip, calochortus amabilis esencia floral, fes california flower essences, esencias florales de california, alegría, optimismo, vitalidad, bienestar emocional, energía positiva
+0:{"buildId":"r6P9T8dJkqm8_HEGZ77sP","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yellow Star Tulip FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Yellow Star Tulip FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/yellow-star-tulip-fes-1215-yellow-star-tulip.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Yellow Star Tulip FES"}]
+13:Ta60,# Yellow Star Tulip – Esencia Floral de California  
+*Calochortus amabilis · Tulipán Estrella Amarillo*
+
+## Descripción general
+La **esencia floral de Yellow Star Tulip**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, claridad emocional y apertura al optimismo**. Esta esencia ayuda a **activar energía positiva, fomentar entusiasmo y revitalizar la actitud emocional**, promoviendo un **estado de bienestar, vitalidad y equilibrio interno**.
+
+## Energía y cualidad emocional
+Yellow Star Tulip está indicada para personas que:  
+- Se sienten **apagadas, desanimadas o desconectadas de su alegría interior**  
+- Necesitan **recuperar vitalidad y entusiasmo por la vida**  
+- Buscan **abrirse a emociones positivas y cultivar optimismo**  
+- Desean **sentirse más alegres, confiadas y equilibradas emocionalmente**
+
+A nivel energético, esta esencia ayuda a **revitalizar emociones, despejar pensamientos negativos y fomentar alegría y positividad**, promoviendo **claridad, bienestar y entusiasmo interno**.
+
+## Beneficios energéticos de la esencia floral Yellow Star Tulip
+- Favorece **alegría, optimismo y vitalidad emocional**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya **claridad mental y equilibrio interno**  
+- Facilita **revitalización de energía y entusiasmo**  
+- Potencia **bienestar, felicidad y actitud positiva frente a la vida**
+
+Es especialmente útil para personas que desean **sentirse más optimistas, alegres y conectadas con su bienestar emocional**, cultivando **claridad, vitalidad y energía positiva**.
+
+## La planta y su simbolismo
+El Tulipán Estrella Amarillo se caracteriza por sus flores brillantes y luminosas, simbolizando **alegría, optimismo y apertura emocional**. Representa la **capacidad de irradiar energía positiva, expresar emociones auténticas y cultivar entusiasmo por la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Yellow Star Tulip se utiliza para:  
+- Recuperar **alegría, vitalidad y energía positiva**  
+- Favorecer **optimismo y apertura emocional**  
+- Promover **claridad, entusiasmo y bienestar interno**  
+- Facilitar **revitalización emocional y actitud positiva**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, entusiasmo y equilibrio emocional**.
+
+## Palabras clave SEO
+yellow star tulip flower essence, esencia floral yellow star tulip, calochortus amabilis esencia floral, fes california flower essences, esencias florales de california, alegría, optimismo, vitalidad, bienestar emocional, energía positiva
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/yellow-star-tulip-fes-1215-yellow-star-tulip.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

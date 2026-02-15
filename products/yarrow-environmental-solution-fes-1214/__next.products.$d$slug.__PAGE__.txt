@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Yarrow Environmental Solution FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/yarrow-environmental-solution-fes-1214-Yarrow-Environmental-Solution.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1214,"SKU":"Yarenv","slug":"yarrow-environmental-solution-fes-1214"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tcd8,<h1>Yarrow Environmental Solution – Esencia Floral de California</h1>
+<p><em>Achillea millefolium · Milenrama</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral Yarrow Environmental Solution</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>protección, limpieza energética y equilibrio frente a influencias externas</strong>. Esta esencia ayuda a <strong>neutralizar energías negativas, restaurar armonía y fortalecer la resiliencia emocional</strong>, promoviendo un <strong>estado de bienestar, claridad y estabilidad interna</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Yarrow Environmental Solution está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>afectadas por el entorno o influencias externas negativas</strong></li>
+<li>Necesitan <strong>fortalecer su campo energético y protegerse emocionalmente</strong></li>
+<li>Buscan <strong>claridad, equilibrio y estabilidad frente a conflictos externos</strong></li>
+<li>Desean <strong>sentirse seguras, centradas y emocionalmente equilibradas</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>limpiar y proteger el campo emocional y energético</strong>, promoviendo <strong>resiliencia, bienestar y equilibrio interior</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Yarrow Environmental Solution</h2>
+<ul>
+<li>Favorece <strong>protección frente a energías negativas</strong></li>
+<li>Promueve <strong>claridad, equilibrio y estabilidad interna</strong></li>
+<li>Apoya <strong>resiliencia emocional y fortaleza energética</strong></li>
+<li>Facilita <strong>armonía y limpieza energética del entorno</strong></li>
+<li>Potencia <strong>bienestar, seguridad y tranquilidad interna</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse protegidas, equilibradas y seguras</strong>, cultivando <strong>claridad, estabilidad y bienestar emocional</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Milenrama se caracteriza por sus flores delicadas y aromáticas, simbolizando <strong>protección, fortaleza y armonía energética</strong>. Representa la <strong>capacidad de mantener límites saludables, proteger la energía personal y equilibrar la influencia del entorno</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Yarrow Environmental Solution se utiliza para:</p>
+<ul>
+<li>Limpiar <strong>energías negativas del entorno y del cuerpo emocional</strong></li>
+<li>Apoyar <strong>protección, estabilidad y resiliencia interna</strong></li>
+<li>Promover <strong>equilibrio emocional y bienestar general</strong></li>
+<li>Facilitar <strong>armonía energética y claridad mental</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar protección, equilibrio y limpieza energética</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>yarrow environmental solution flower essence, esencia floral yarrow environmental solution, achillea millefolium esencia floral, fes california flower essences, esencias florales de california, protección energética, limpieza energética, equilibrio emocional, resiliencia, bienestar</p>0:{"buildId":"r6P9T8dJkqm8_HEGZ77sP","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Yarrow Environmental Solution FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/yarrow-environmental-solution-fes-1214-Yarrow-Environmental-Solution.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1214,"SKU":"Yarenv","slug":"yarrow-environmental-solution-fes-1214"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

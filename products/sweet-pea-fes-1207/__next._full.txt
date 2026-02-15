@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[60125,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js"],"BasketContextProvider"]
+2:I[60125,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js"],"BasketContextProvider"]
 3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
 4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"default"]
-5:I[22016,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js"],""]
+5:I[22016,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js"],""]
 b:I[68027,[],"default"]
-:HL["/_next/static/chunks/c534e20d41e3f381.css","style"]
+:HL["/_next/static/chunks/b0b0ba9f851f3e53.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"8PeR3VgEwxMY8brrSLcuy","c":["","products","sweet-pea-fes-1207"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","sweet-pea-fes-1207","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/c534e20d41e3f381.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/e0bd722b8662bf0a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14a41dda67a0f1c3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","div",null,{"className":"flex","children":[["$","div",null,{"children":"Phone:"}]," ",["$","div",null,{"className":"flex flex-wrap","children":[["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}],["$","div",null,{"children":" or "}],["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}]]}],["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
+0:{"P":null,"b":"r6P9T8dJkqm8_HEGZ77sP","c":["","products","sweet-pea-fes-1207"],"q":"","i":false,"f":[[["",{"children":["products",{"children":[["slug","sweet-pea-fes-1207","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/b0b0ba9f851f3e53.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/e0bd722b8662bf0a.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b0d733a0890d2e0a.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","div",null,{"className":"flex","children":[["$","div",null,{"children":"Phone:"}]," ",["$","div",null,{"className":"flex flex-wrap","children":[["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}],["$","div",null,{"children":" or "}],["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}]]}],["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{"children":["$L9",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$La",false]],"m":"$undefined","G":["$b",[]],"S":true}
 d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
 e:"$Sreact.suspense"
 10:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
@@ -17,10 +17,170 @@ e:"$Sreact.suspense"
 8:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 9:["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}]
 a:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L13"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-14:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-15:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-c:["$","$L14",null,{"superior":{"Tipo":"variable","Nombre":"Sweet Pea FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/sweet-pea-fes-1207-sweet-pea.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1207,"SKU":"Swepea","slug":"sweet-pea-fes-1207"},"children":["$","$L15",null,{}]}]
+14:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+15:Tc07,<h1>Sweet Pea – Esencia Floral de California</h1>
+<p><em>Lathyrus odoratus · Guisante de Olor</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Sweet Pea</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>alegría, ligereza y liberación de preocupaciones</strong>. Esta esencia ayuda a <strong>liberar tensiones, superar tristeza o melancolía y fomentar una actitud positiva</strong>, promoviendo un <strong>estado de bienestar emocional, claridad y apertura del corazón</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Sweet Pea está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>pesadas, tristes o atrapadas en pensamientos negativos</strong></li>
+<li>Necesitan <strong>liberar estrés emocional y preocupaciones</strong></li>
+<li>Buscan <strong>sentirse más alegres, ligeras y optimistas</strong></li>
+<li>Desean <strong>abrirse a experiencias positivas y disfrutar del presente</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>suavizar emociones intensas, revitalizar la mente y fomentar alegría y optimismo</strong>, promoviendo <strong>bienestar, claridad y ligereza interna</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Sweet Pea</h2>
+<ul>
+<li>Favorece <strong>alegría, ligereza y bienestar emocional</strong></li>
+<li>Promueve <strong>liberación de tensiones y preocupaciones</strong></li>
+<li>Apoya <strong>optimismo y actitud positiva</strong></li>
+<li>Facilita <strong>apertura del corazón y disfrute del presente</strong></li>
+<li>Potencia <strong>claridad emocional, vitalidad y equilibrio interno</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más ligeras, alegres y conectadas con su bienestar emocional</strong>, cultivando <strong>claridad, optimismo y disfrute de la vida</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Guisante de Olor se caracteriza por sus delicadas flores aromáticas, simbolizando <strong>alegría, ligereza y libertad emocional</strong>. Representa la <strong>capacidad de soltar preocupaciones, abrir el corazón y mantener una actitud positiva frente a la vida</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Sweet Pea se utiliza para:</p>
+<ul>
+<li>Liberar <strong>tensiones y preocupaciones emocionales</strong></li>
+<li>Favorecer <strong>alegría, ligereza y bienestar interno</strong></li>
+<li>Promover <strong>optimismo, apertura y disfrute del presente</strong></li>
+<li>Facilitar <strong>claridad emocional y equilibrio general</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar alegría, bienestar y claridad emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>sweet pea flower essence, esencia floral sweet pea, lathyrus odoratus esencia floral, fes california flower essences, esencias florales de california, alegría, ligereza, bienestar emocional, optimismo, apertura del corazón</p>c:["$","$L14",null,{"superior":{"Tipo":"variable","Nombre":"Sweet Pea FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$15","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/sweet-pea-fes-1207-sweet-pea.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1207,"SKU":"Swepea","slug":"sweet-pea-fes-1207"},"children":"$L16"}]
+17:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+16:["$","$L17",null,{}]
 11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
 f:null
-13:[["$","title","0",{"children":"Sweet Pea FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Sweet Pea FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/sweet-pea-fes-1207-sweet-pea.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Sweet Pea FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/sweet-pea-fes-1207-sweet-pea.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L16","11",{}]]
+18:T9ec,# Sweet Pea – Esencia Floral de California  
+*Lathyrus odoratus · Guisante de Olor*
+
+## Descripción general
+La **esencia floral de Sweet Pea**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, ligereza y liberación de preocupaciones**. Esta esencia ayuda a **liberar tensiones, superar tristeza o melancolía y fomentar una actitud positiva**, promoviendo un **estado de bienestar emocional, claridad y apertura del corazón**.
+
+## Energía y cualidad emocional
+Sweet Pea está indicada para personas que:  
+- Se sienten **pesadas, tristes o atrapadas en pensamientos negativos**  
+- Necesitan **liberar estrés emocional y preocupaciones**  
+- Buscan **sentirse más alegres, ligeras y optimistas**  
+- Desean **abrirse a experiencias positivas y disfrutar del presente**
+
+A nivel energético, esta esencia ayuda a **suavizar emociones intensas, revitalizar la mente y fomentar alegría y optimismo**, promoviendo **bienestar, claridad y ligereza interna**.
+
+## Beneficios energéticos de la esencia floral Sweet Pea
+- Favorece **alegría, ligereza y bienestar emocional**  
+- Promueve **liberación de tensiones y preocupaciones**  
+- Apoya **optimismo y actitud positiva**  
+- Facilita **apertura del corazón y disfrute del presente**  
+- Potencia **claridad emocional, vitalidad y equilibrio interno**
+
+Es especialmente útil para personas que desean **sentirse más ligeras, alegres y conectadas con su bienestar emocional**, cultivando **claridad, optimismo y disfrute de la vida**.
+
+## La planta y su simbolismo
+El Guisante de Olor se caracteriza por sus delicadas flores aromáticas, simbolizando **alegría, ligereza y libertad emocional**. Representa la **capacidad de soltar preocupaciones, abrir el corazón y mantener una actitud positiva frente a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Sweet Pea se utiliza para:  
+- Liberar **tensiones y preocupaciones emocionales**  
+- Favorecer **alegría, ligereza y bienestar interno**  
+- Promover **optimismo, apertura y disfrute del presente**  
+- Facilitar **claridad emocional y equilibrio general**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, bienestar y claridad emocional**.
+
+## Palabras clave SEO
+sweet pea flower essence, esencia floral sweet pea, lathyrus odoratus esencia floral, fes california flower essences, esencias florales de california, alegría, ligereza, bienestar emocional, optimismo, apertura del corazón
+19:T9ec,# Sweet Pea – Esencia Floral de California  
+*Lathyrus odoratus · Guisante de Olor*
+
+## Descripción general
+La **esencia floral de Sweet Pea**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, ligereza y liberación de preocupaciones**. Esta esencia ayuda a **liberar tensiones, superar tristeza o melancolía y fomentar una actitud positiva**, promoviendo un **estado de bienestar emocional, claridad y apertura del corazón**.
+
+## Energía y cualidad emocional
+Sweet Pea está indicada para personas que:  
+- Se sienten **pesadas, tristes o atrapadas en pensamientos negativos**  
+- Necesitan **liberar estrés emocional y preocupaciones**  
+- Buscan **sentirse más alegres, ligeras y optimistas**  
+- Desean **abrirse a experiencias positivas y disfrutar del presente**
+
+A nivel energético, esta esencia ayuda a **suavizar emociones intensas, revitalizar la mente y fomentar alegría y optimismo**, promoviendo **bienestar, claridad y ligereza interna**.
+
+## Beneficios energéticos de la esencia floral Sweet Pea
+- Favorece **alegría, ligereza y bienestar emocional**  
+- Promueve **liberación de tensiones y preocupaciones**  
+- Apoya **optimismo y actitud positiva**  
+- Facilita **apertura del corazón y disfrute del presente**  
+- Potencia **claridad emocional, vitalidad y equilibrio interno**
+
+Es especialmente útil para personas que desean **sentirse más ligeras, alegres y conectadas con su bienestar emocional**, cultivando **claridad, optimismo y disfrute de la vida**.
+
+## La planta y su simbolismo
+El Guisante de Olor se caracteriza por sus delicadas flores aromáticas, simbolizando **alegría, ligereza y libertad emocional**. Representa la **capacidad de soltar preocupaciones, abrir el corazón y mantener una actitud positiva frente a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Sweet Pea se utiliza para:  
+- Liberar **tensiones y preocupaciones emocionales**  
+- Favorecer **alegría, ligereza y bienestar interno**  
+- Promover **optimismo, apertura y disfrute del presente**  
+- Facilitar **claridad emocional y equilibrio general**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, bienestar y claridad emocional**.
+
+## Palabras clave SEO
+sweet pea flower essence, esencia floral sweet pea, lathyrus odoratus esencia floral, fes california flower essences, esencias florales de california, alegría, ligereza, bienestar emocional, optimismo, apertura del corazón
+13:[["$","title","0",{"children":"Sweet Pea FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$18"}],["$","meta","2",{"property":"og:title","content":"Sweet Pea FES"}],["$","meta","3",{"property":"og:description","content":"$19"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]
+26:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+1a:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+1b:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/sweet-pea-fes-1207-sweet-pea.jpg"}]
+1c:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+1d:["$","meta","7",{"name":"twitter:title","content":"Sweet Pea FES"}]
+25:T9ec,# Sweet Pea – Esencia Floral de California  
+*Lathyrus odoratus · Guisante de Olor*
+
+## Descripción general
+La **esencia floral de Sweet Pea**, dentro del sistema de **FES California Flower Essences**, está asociada con la **alegría, ligereza y liberación de preocupaciones**. Esta esencia ayuda a **liberar tensiones, superar tristeza o melancolía y fomentar una actitud positiva**, promoviendo un **estado de bienestar emocional, claridad y apertura del corazón**.
+
+## Energía y cualidad emocional
+Sweet Pea está indicada para personas que:  
+- Se sienten **pesadas, tristes o atrapadas en pensamientos negativos**  
+- Necesitan **liberar estrés emocional y preocupaciones**  
+- Buscan **sentirse más alegres, ligeras y optimistas**  
+- Desean **abrirse a experiencias positivas y disfrutar del presente**
+
+A nivel energético, esta esencia ayuda a **suavizar emociones intensas, revitalizar la mente y fomentar alegría y optimismo**, promoviendo **bienestar, claridad y ligereza interna**.
+
+## Beneficios energéticos de la esencia floral Sweet Pea
+- Favorece **alegría, ligereza y bienestar emocional**  
+- Promueve **liberación de tensiones y preocupaciones**  
+- Apoya **optimismo y actitud positiva**  
+- Facilita **apertura del corazón y disfrute del presente**  
+- Potencia **claridad emocional, vitalidad y equilibrio interno**
+
+Es especialmente útil para personas que desean **sentirse más ligeras, alegres y conectadas con su bienestar emocional**, cultivando **claridad, optimismo y disfrute de la vida**.
+
+## La planta y su simbolismo
+El Guisante de Olor se caracteriza por sus delicadas flores aromáticas, simbolizando **alegría, ligereza y libertad emocional**. Representa la **capacidad de soltar preocupaciones, abrir el corazón y mantener una actitud positiva frente a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Sweet Pea se utiliza para:  
+- Liberar **tensiones y preocupaciones emocionales**  
+- Favorecer **alegría, ligereza y bienestar interno**  
+- Promover **optimismo, apertura y disfrute del presente**  
+- Facilitar **claridad emocional y equilibrio general**
+
+Puede combinarse con otras esencias florales para **potenciar alegría, bienestar y claridad emocional**.
+
+## Palabras clave SEO
+sweet pea flower essence, esencia floral sweet pea, lathyrus odoratus esencia floral, fes california flower essences, esencias florales de california, alegría, ligereza, bienestar emocional, optimismo, apertura del corazón
+1e:["$","meta","8",{"name":"twitter:description","content":"$25"}]
+1f:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/sweet-pea-fes-1207-sweet-pea.jpg"}]
+20:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+21:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+22:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+23:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+24:["$","$L26","14",{}]

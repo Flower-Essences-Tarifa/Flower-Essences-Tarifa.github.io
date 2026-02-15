@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Sweet Pea FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/sweet-pea-fes-1207-sweet-pea.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1207,"SKU":"Swepea","slug":"sweet-pea-fes-1207"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b0d733a0890d2e0a.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tc07,<h1>Sweet Pea – Esencia Floral de California</h1>
+<p><em>Lathyrus odoratus · Guisante de Olor</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Sweet Pea</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>alegría, ligereza y liberación de preocupaciones</strong>. Esta esencia ayuda a <strong>liberar tensiones, superar tristeza o melancolía y fomentar una actitud positiva</strong>, promoviendo un <strong>estado de bienestar emocional, claridad y apertura del corazón</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Sweet Pea está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>pesadas, tristes o atrapadas en pensamientos negativos</strong></li>
+<li>Necesitan <strong>liberar estrés emocional y preocupaciones</strong></li>
+<li>Buscan <strong>sentirse más alegres, ligeras y optimistas</strong></li>
+<li>Desean <strong>abrirse a experiencias positivas y disfrutar del presente</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>suavizar emociones intensas, revitalizar la mente y fomentar alegría y optimismo</strong>, promoviendo <strong>bienestar, claridad y ligereza interna</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Sweet Pea</h2>
+<ul>
+<li>Favorece <strong>alegría, ligereza y bienestar emocional</strong></li>
+<li>Promueve <strong>liberación de tensiones y preocupaciones</strong></li>
+<li>Apoya <strong>optimismo y actitud positiva</strong></li>
+<li>Facilita <strong>apertura del corazón y disfrute del presente</strong></li>
+<li>Potencia <strong>claridad emocional, vitalidad y equilibrio interno</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más ligeras, alegres y conectadas con su bienestar emocional</strong>, cultivando <strong>claridad, optimismo y disfrute de la vida</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Guisante de Olor se caracteriza por sus delicadas flores aromáticas, simbolizando <strong>alegría, ligereza y libertad emocional</strong>. Representa la <strong>capacidad de soltar preocupaciones, abrir el corazón y mantener una actitud positiva frente a la vida</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Sweet Pea se utiliza para:</p>
+<ul>
+<li>Liberar <strong>tensiones y preocupaciones emocionales</strong></li>
+<li>Favorecer <strong>alegría, ligereza y bienestar interno</strong></li>
+<li>Promover <strong>optimismo, apertura y disfrute del presente</strong></li>
+<li>Facilitar <strong>claridad emocional y equilibrio general</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar alegría, bienestar y claridad emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>sweet pea flower essence, esencia floral sweet pea, lathyrus odoratus esencia floral, fes california flower essences, esencias florales de california, alegría, ligereza, bienestar emocional, optimismo, apertura del corazón</p>0:{"buildId":"r6P9T8dJkqm8_HEGZ77sP","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Sweet Pea FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/sweet-pea-fes-1207-sweet-pea.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1207,"SKU":"Swepea","slug":"sweet-pea-fes-1207"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
