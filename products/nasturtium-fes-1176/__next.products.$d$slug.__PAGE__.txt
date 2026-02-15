@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/a646a0c2b2f45a67.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/a646a0c2b2f45a67.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"SI1A4LRpLgQLxW3aMphnD","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Nasturtium FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/nasturtium-fes-1176-nasturtium.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1176,"SKU":"Nasfes","slug":"nasturtium-fes-1176"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tbce,<h1>Nasturtium – Esencia Floral de California</h1>
+<p><em>Tropaeolum majus · Capuchina</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Nasturtium</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>alegría, vitalidad y apertura emocional</strong>. Esta esencia ayuda a <strong>liberar emociones reprimidas, fomentar la espontaneidad y promover una actitud positiva y optimista</strong>, generando un <strong>estado de bienestar y entusiasmo por la vida</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Nasturtium está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>abrumadas, tristes o rígidas emocionalmente</strong></li>
+<li>Necesitan <strong>recuperar alegría, vitalidad y entusiasmo</strong></li>
+<li>Buscan <strong>abrirse a nuevas experiencias y emociones positivas</strong></li>
+<li>Desean <strong>cultivar espontaneidad y actitud positiva</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>activar la alegría interior, levantar el ánimo y facilitar la expresión emocional saludable</strong>, promoviendo <strong>entusiasmo, optimismo y bienestar emocional</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Nasturtium</h2>
+<ul>
+<li>Favorece la <strong>alegría y vitalidad emocional</strong></li>
+<li>Promueve la <strong>apertura del corazón y expresión emocional</strong></li>
+<li>Apoya la <strong>espontaneidad y actitud positiva</strong></li>
+<li>Facilita la <strong>liberación de emociones reprimidas</strong></li>
+<li>Potencia el <strong>entusiasmo, optimismo y bienestar general</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más alegres, abiertas y conectadas con la vitalidad de la vida</strong>, así como <strong>fortalecer la positividad y la autoexpresión emocional</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Capuchina se caracteriza por sus flores brillantes y vibrantes, simbolizando <strong>alegría, vitalidad y energía positiva</strong>. Representa la <strong>capacidad de abrir el corazón, expresar emociones y disfrutar plenamente de la vida</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Nasturtium se utiliza para:</p>
+<ul>
+<li>Reavivar <strong>alegría y entusiasmo</strong></li>
+<li>Facilitar <strong>expresión emocional y apertura del corazón</strong></li>
+<li>Promover <strong>espontaneidad y positividad</strong></li>
+<li>Apoyar <strong>bienestar emocional y optimismo</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar alegría, vitalidad y expresión emocional saludable</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>nasturtium flower essence, esencia floral nasturtium, tropaeolum majus esencia floral, fes california flower essences, esencias florales de california, alegría, vitalidad emocional, apertura emocional, entusiasmo, bienestar</p>0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Nasturtium FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/nasturtium-fes-1176-nasturtium.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1176,"SKU":"Nasfes","slug":"nasturtium-fes-1176"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

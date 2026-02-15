@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/a646a0c2b2f45a67.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/a646a0c2b2f45a67.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"SI1A4LRpLgQLxW3aMphnD","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Mullein FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/mullein-fes-1175-mullein.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1175,"SKU":"Mulfes","slug":"mullein-fes-1175"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tb3c,<h1>Mullein – Esencia Floral de California</h1>
+<p><em>Verbascum spp. · Gordolobo</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Mullein</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>protección, claridad mental y fortaleza emocional</strong>. Esta esencia ayuda a <strong>limpiar energías densas, promover estabilidad emocional y fomentar la capacidad de mantenerse centrado y seguro frente a desafíos</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Mullein está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>sobrepasadas, ansiosas o emocionalmente agotadas</strong></li>
+<li>Necesitan <strong>claridad mental y protección energética</strong></li>
+<li>Buscan <strong>fortaleza emocional y equilibrio interno</strong></li>
+<li>Desean <strong>mantenerse centradas y resilientes ante situaciones difíciles</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>limpiar el campo emocional y mental</strong>, promoviendo <strong>estabilidad, seguridad y claridad interior</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Mullein</h2>
+<ul>
+<li>Favorece la <strong>claridad mental y enfoque</strong></li>
+<li>Promueve <strong>protección energética y emocional</strong></li>
+<li>Apoya la <strong>resiliencia y fortaleza interna</strong></li>
+<li>Facilita la <strong>liberación de tensiones y energías densas</strong></li>
+<li>Potencia la <strong>equilibrio emocional y sensación de seguridad</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse protegidas, centradas y emocionalmente fuertes en medio de desafíos o estrés</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Gordolobo se caracteriza por sus altas espigas y flores suaves que simbolizan <strong>protección, fortaleza y claridad interior</strong>. Representa la <strong>capacidad de mantenerse firme, despejar bloqueos y mantener equilibrio y seguridad emocional</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Mullein se utiliza para:</p>
+<ul>
+<li>Proporcionar <strong>protección y claridad mental</strong></li>
+<li>Apoyar <strong>resiliencia y fortaleza emocional</strong></li>
+<li>Facilitar <strong>equilibrio y estabilidad interna</strong></li>
+<li>Limpiar <strong>energías densas y tensiones acumuladas</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar protección, claridad interior y estabilidad emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>mullein flower essence, esencia floral mullein, verbascum spp. esencia floral, fes california flower essences, esencias florales de california, protección emocional, claridad mental, fortaleza interna, equilibrio emocional</p>0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Mullein FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/mullein-fes-1175-mullein.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1175,"SKU":"Mulfes","slug":"mullein-fes-1175"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

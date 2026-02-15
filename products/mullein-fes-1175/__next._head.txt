@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"SI1A4LRpLgQLxW3aMphnD","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mullein FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Mullein FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/mullein-fes-1175-mullein.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Mullein FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/mullein-fes-1175-mullein.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T93b,# Mullein – Esencia Floral de California  
+*Verbascum spp. · Gordolobo*
+
+## Descripción general
+La **esencia floral de Mullein**, dentro del sistema de **FES California Flower Essences**, está asociada con la **protección, claridad mental y fortaleza emocional**. Esta esencia ayuda a **limpiar energías densas, promover estabilidad emocional y fomentar la capacidad de mantenerse centrado y seguro frente a desafíos**.
+
+## Energía y cualidad emocional
+Mullein está indicada para personas que:  
+- Se sienten **sobrepasadas, ansiosas o emocionalmente agotadas**  
+- Necesitan **claridad mental y protección energética**  
+- Buscan **fortaleza emocional y equilibrio interno**  
+- Desean **mantenerse centradas y resilientes ante situaciones difíciles**
+
+A nivel energético, esta esencia ayuda a **limpiar el campo emocional y mental**, promoviendo **estabilidad, seguridad y claridad interior**.
+
+## Beneficios energéticos de la esencia floral Mullein
+- Favorece la **claridad mental y enfoque**  
+- Promueve **protección energética y emocional**  
+- Apoya la **resiliencia y fortaleza interna**  
+- Facilita la **liberación de tensiones y energías densas**  
+- Potencia la **equilibrio emocional y sensación de seguridad**
+
+Es especialmente útil para personas que desean **sentirse protegidas, centradas y emocionalmente fuertes en medio de desafíos o estrés**.
+
+## La planta y su simbolismo
+El Gordolobo se caracteriza por sus altas espigas y flores suaves que simbolizan **protección, fortaleza y claridad interior**. Representa la **capacidad de mantenerse firme, despejar bloqueos y mantener equilibrio y seguridad emocional**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Mullein se utiliza para:  
+- Proporcionar **protección y claridad mental**  
+- Apoyar **resiliencia y fortaleza emocional**  
+- Facilitar **equilibrio y estabilidad interna**  
+- Limpiar **energías densas y tensiones acumuladas**
+
+Puede combinarse con otras esencias florales para **potenciar protección, claridad interior y estabilidad emocional**.
+
+## Palabras clave SEO
+mullein flower essence, esencia floral mullein, verbascum spp. esencia floral, fes california flower essences, esencias florales de california, protección emocional, claridad mental, fortaleza interna, equilibrio emocional
+6:T93b,# Mullein – Esencia Floral de California  
+*Verbascum spp. · Gordolobo*
+
+## Descripción general
+La **esencia floral de Mullein**, dentro del sistema de **FES California Flower Essences**, está asociada con la **protección, claridad mental y fortaleza emocional**. Esta esencia ayuda a **limpiar energías densas, promover estabilidad emocional y fomentar la capacidad de mantenerse centrado y seguro frente a desafíos**.
+
+## Energía y cualidad emocional
+Mullein está indicada para personas que:  
+- Se sienten **sobrepasadas, ansiosas o emocionalmente agotadas**  
+- Necesitan **claridad mental y protección energética**  
+- Buscan **fortaleza emocional y equilibrio interno**  
+- Desean **mantenerse centradas y resilientes ante situaciones difíciles**
+
+A nivel energético, esta esencia ayuda a **limpiar el campo emocional y mental**, promoviendo **estabilidad, seguridad y claridad interior**.
+
+## Beneficios energéticos de la esencia floral Mullein
+- Favorece la **claridad mental y enfoque**  
+- Promueve **protección energética y emocional**  
+- Apoya la **resiliencia y fortaleza interna**  
+- Facilita la **liberación de tensiones y energías densas**  
+- Potencia la **equilibrio emocional y sensación de seguridad**
+
+Es especialmente útil para personas que desean **sentirse protegidas, centradas y emocionalmente fuertes en medio de desafíos o estrés**.
+
+## La planta y su simbolismo
+El Gordolobo se caracteriza por sus altas espigas y flores suaves que simbolizan **protección, fortaleza y claridad interior**. Representa la **capacidad de mantenerse firme, despejar bloqueos y mantener equilibrio y seguridad emocional**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Mullein se utiliza para:  
+- Proporcionar **protección y claridad mental**  
+- Apoyar **resiliencia y fortaleza emocional**  
+- Facilitar **equilibrio y estabilidad interna**  
+- Limpiar **energías densas y tensiones acumuladas**
+
+Puede combinarse con otras esencias florales para **potenciar protección, claridad interior y estabilidad emocional**.
+
+## Palabras clave SEO
+mullein flower essence, esencia floral mullein, verbascum spp. esencia floral, fes california flower essences, esencias florales de california, protección emocional, claridad mental, fortaleza interna, equilibrio emocional
+0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mullein FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Mullein FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/mullein-fes-1175-mullein.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Mullein FES"}]
+13:T93b,# Mullein – Esencia Floral de California  
+*Verbascum spp. · Gordolobo*
+
+## Descripción general
+La **esencia floral de Mullein**, dentro del sistema de **FES California Flower Essences**, está asociada con la **protección, claridad mental y fortaleza emocional**. Esta esencia ayuda a **limpiar energías densas, promover estabilidad emocional y fomentar la capacidad de mantenerse centrado y seguro frente a desafíos**.
+
+## Energía y cualidad emocional
+Mullein está indicada para personas que:  
+- Se sienten **sobrepasadas, ansiosas o emocionalmente agotadas**  
+- Necesitan **claridad mental y protección energética**  
+- Buscan **fortaleza emocional y equilibrio interno**  
+- Desean **mantenerse centradas y resilientes ante situaciones difíciles**
+
+A nivel energético, esta esencia ayuda a **limpiar el campo emocional y mental**, promoviendo **estabilidad, seguridad y claridad interior**.
+
+## Beneficios energéticos de la esencia floral Mullein
+- Favorece la **claridad mental y enfoque**  
+- Promueve **protección energética y emocional**  
+- Apoya la **resiliencia y fortaleza interna**  
+- Facilita la **liberación de tensiones y energías densas**  
+- Potencia la **equilibrio emocional y sensación de seguridad**
+
+Es especialmente útil para personas que desean **sentirse protegidas, centradas y emocionalmente fuertes en medio de desafíos o estrés**.
+
+## La planta y su simbolismo
+El Gordolobo se caracteriza por sus altas espigas y flores suaves que simbolizan **protección, fortaleza y claridad interior**. Representa la **capacidad de mantenerse firme, despejar bloqueos y mantener equilibrio y seguridad emocional**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Mullein se utiliza para:  
+- Proporcionar **protección y claridad mental**  
+- Apoyar **resiliencia y fortaleza emocional**  
+- Facilitar **equilibrio y estabilidad interna**  
+- Limpiar **energías densas y tensiones acumuladas**
+
+Puede combinarse con otras esencias florales para **potenciar protección, claridad interior y estabilidad emocional**.
+
+## Palabras clave SEO
+mullein flower essence, esencia floral mullein, verbascum spp. esencia floral, fes california flower essences, esencias florales de california, protección emocional, claridad mental, fortaleza interna, equilibrio emocional
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/mullein-fes-1175-mullein.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
