@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pink Monkeyflower FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Pink Monkeyflower FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/pink-monkeyflower-fes-1181-pink-monkeyflower.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Pink Monkeyflower FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/pink-monkeyflower-fes-1181-pink-monkeyflower.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta03,# Pink Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus · Flor de Mono Rosa*
+
+## Descripción general
+La **esencia floral de Pink Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **valentía, confianza y apertura emocional**. Esta esencia ayuda a **superar miedos, aumentar la autoestima y fomentar la seguridad en la expresión de emociones**, promoviendo un **estado de equilibrio, confianza y optimismo frente a desafíos**.
+
+## Energía y cualidad emocional
+Pink Monkeyflower está indicada para personas que:  
+- Se sienten **inseguras, tímidas o con miedo a enfrentar situaciones**  
+- Necesitan **fortalecer la confianza y la valentía personal**  
+- Buscan **abrirse emocionalmente y expresar sentimientos con autenticidad**  
+- Desean **superar bloqueos emocionales y sentirse seguros al interactuar con otros**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y la valentía emocional**, promoviendo **optimismo, confianza y equilibrio en la vida diaria**.
+
+## Beneficios energéticos de la esencia floral Pink Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **seguridad y equilibrio emocional**  
+- Potencia la **autoestima y optimismo frente a desafíos**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**.
+
+## La planta y su simbolismo
+La Flor de Mono Rosa se caracteriza por sus flores llamativas y resistentes, simbolizando **valentía, apertura emocional y optimismo**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y alegría**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Pink Monkeyflower se utiliza para:  
+- Fortalecer **confianza y valentía personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **equilibrio emocional, autoestima y optimismo**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y bienestar emocional**.
+
+## Palabras clave SEO
+pink monkeyflower flower essence, esencia floral pink monkeyflower, mimulus aurantiacus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, autoestima, optimismo
+6:Ta03,# Pink Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus · Flor de Mono Rosa*
+
+## Descripción general
+La **esencia floral de Pink Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **valentía, confianza y apertura emocional**. Esta esencia ayuda a **superar miedos, aumentar la autoestima y fomentar la seguridad en la expresión de emociones**, promoviendo un **estado de equilibrio, confianza y optimismo frente a desafíos**.
+
+## Energía y cualidad emocional
+Pink Monkeyflower está indicada para personas que:  
+- Se sienten **inseguras, tímidas o con miedo a enfrentar situaciones**  
+- Necesitan **fortalecer la confianza y la valentía personal**  
+- Buscan **abrirse emocionalmente y expresar sentimientos con autenticidad**  
+- Desean **superar bloqueos emocionales y sentirse seguros al interactuar con otros**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y la valentía emocional**, promoviendo **optimismo, confianza y equilibrio en la vida diaria**.
+
+## Beneficios energéticos de la esencia floral Pink Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **seguridad y equilibrio emocional**  
+- Potencia la **autoestima y optimismo frente a desafíos**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**.
+
+## La planta y su simbolismo
+La Flor de Mono Rosa se caracteriza por sus flores llamativas y resistentes, simbolizando **valentía, apertura emocional y optimismo**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y alegría**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Pink Monkeyflower se utiliza para:  
+- Fortalecer **confianza y valentía personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **equilibrio emocional, autoestima y optimismo**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y bienestar emocional**.
+
+## Palabras clave SEO
+pink monkeyflower flower essence, esencia floral pink monkeyflower, mimulus aurantiacus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, autoestima, optimismo
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Pink Monkeyflower FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Pink Monkeyflower FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/pink-monkeyflower-fes-1181-pink-monkeyflower.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Pink Monkeyflower FES"}]
+13:Ta03,# Pink Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus · Flor de Mono Rosa*
+
+## Descripción general
+La **esencia floral de Pink Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **valentía, confianza y apertura emocional**. Esta esencia ayuda a **superar miedos, aumentar la autoestima y fomentar la seguridad en la expresión de emociones**, promoviendo un **estado de equilibrio, confianza y optimismo frente a desafíos**.
+
+## Energía y cualidad emocional
+Pink Monkeyflower está indicada para personas que:  
+- Se sienten **inseguras, tímidas o con miedo a enfrentar situaciones**  
+- Necesitan **fortalecer la confianza y la valentía personal**  
+- Buscan **abrirse emocionalmente y expresar sentimientos con autenticidad**  
+- Desean **superar bloqueos emocionales y sentirse seguros al interactuar con otros**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y la valentía emocional**, promoviendo **optimismo, confianza y equilibrio en la vida diaria**.
+
+## Beneficios energéticos de la esencia floral Pink Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional y expresión auténtica**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **seguridad y equilibrio emocional**  
+- Potencia la **autoestima y optimismo frente a desafíos**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**.
+
+## La planta y su simbolismo
+La Flor de Mono Rosa se caracteriza por sus flores llamativas y resistentes, simbolizando **valentía, apertura emocional y optimismo**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y alegría**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Pink Monkeyflower se utiliza para:  
+- Fortalecer **confianza y valentía personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **equilibrio emocional, autoestima y optimismo**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y bienestar emocional**.
+
+## Palabras clave SEO
+pink monkeyflower flower essence, esencia floral pink monkeyflower, mimulus aurantiacus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, autoestima, optimismo
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/pink-monkeyflower-fes-1181-pink-monkeyflower.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

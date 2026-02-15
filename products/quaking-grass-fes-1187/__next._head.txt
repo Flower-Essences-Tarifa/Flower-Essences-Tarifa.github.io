@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Quaking Grass FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Quaking Grass FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/quaking-grass-fes-1187-quaking-grass.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Quaking Grass FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/quaking-grass-fes-1187-quaking-grass.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:T9de,# Quaking Grass – Esencia Floral de California  
+*Briza minor · Pasto Tembloroso*
+
+## Descripción general
+La **esencia floral de Quaking Grass**, dentro del sistema de **FES California Flower Essences**, está asociada con la **flexibilidad emocional, adaptabilidad y calma interior**. Esta esencia ayuda a **liberar tensiones, suavizar reacciones exageradas y fomentar la resiliencia emocional**, promoviendo un **estado de equilibrio, paz y armonía interna**.
+
+## Energía y cualidad emocional
+Quaking Grass está indicada para personas que:  
+- Se sienten **inestables o emocionalmente rígidas**  
+- Necesitan **adaptarse mejor a cambios y situaciones inesperadas**  
+- Buscan **calma y estabilidad emocional**  
+- Desean **fluir con los eventos de la vida sin perder equilibrio**
+
+A nivel energético, esta esencia ayuda a **incrementar la flexibilidad emocional y la resiliencia**, promoviendo **tranquilidad, adaptabilidad y armonía interna**.
+
+## Beneficios energéticos de la esencia floral Quaking Grass
+- Favorece la **flexibilidad emocional y adaptación**  
+- Promueve **resiliencia y estabilidad interna**  
+- Apoya la **calma y equilibrio frente a cambios**  
+- Facilita **liberación de tensiones emocionales**  
+- Potencia la **armonía interior y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más equilibradas, adaptables y tranquilas frente a los desafíos de la vida**, cultivando **resiliencia y paz interior**.
+
+## La planta y su simbolismo
+El Pasto Tembloroso se caracteriza por sus delicadas espigas que se mueven con la brisa, simbolizando **flexibilidad, fluidez y resiliencia emocional**. Representa la **capacidad de adaptarse a los cambios sin perder estabilidad y armonía interna**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Quaking Grass se utiliza para:  
+- Incrementar **flexibilidad y adaptabilidad emocional**  
+- Favorecer **calma, resiliencia y estabilidad interna**  
+- Apoyar **armonía emocional y bienestar general**  
+- Facilitar **liberación de tensiones y suavidad en reacciones emocionales**
+
+Puede combinarse con otras esencias florales para **potenciar adaptabilidad, equilibrio emocional y paz interior**.
+
+## Palabras clave SEO
+quaking grass flower essence, esencia floral quaking grass, briza minor esencia floral, fes california flower essences, esencias florales de california, flexibilidad emocional, resiliencia, adaptabilidad, calma interior, equilibrio emocional
+6:T9de,# Quaking Grass – Esencia Floral de California  
+*Briza minor · Pasto Tembloroso*
+
+## Descripción general
+La **esencia floral de Quaking Grass**, dentro del sistema de **FES California Flower Essences**, está asociada con la **flexibilidad emocional, adaptabilidad y calma interior**. Esta esencia ayuda a **liberar tensiones, suavizar reacciones exageradas y fomentar la resiliencia emocional**, promoviendo un **estado de equilibrio, paz y armonía interna**.
+
+## Energía y cualidad emocional
+Quaking Grass está indicada para personas que:  
+- Se sienten **inestables o emocionalmente rígidas**  
+- Necesitan **adaptarse mejor a cambios y situaciones inesperadas**  
+- Buscan **calma y estabilidad emocional**  
+- Desean **fluir con los eventos de la vida sin perder equilibrio**
+
+A nivel energético, esta esencia ayuda a **incrementar la flexibilidad emocional y la resiliencia**, promoviendo **tranquilidad, adaptabilidad y armonía interna**.
+
+## Beneficios energéticos de la esencia floral Quaking Grass
+- Favorece la **flexibilidad emocional y adaptación**  
+- Promueve **resiliencia y estabilidad interna**  
+- Apoya la **calma y equilibrio frente a cambios**  
+- Facilita **liberación de tensiones emocionales**  
+- Potencia la **armonía interior y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más equilibradas, adaptables y tranquilas frente a los desafíos de la vida**, cultivando **resiliencia y paz interior**.
+
+## La planta y su simbolismo
+El Pasto Tembloroso se caracteriza por sus delicadas espigas que se mueven con la brisa, simbolizando **flexibilidad, fluidez y resiliencia emocional**. Representa la **capacidad de adaptarse a los cambios sin perder estabilidad y armonía interna**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Quaking Grass se utiliza para:  
+- Incrementar **flexibilidad y adaptabilidad emocional**  
+- Favorecer **calma, resiliencia y estabilidad interna**  
+- Apoyar **armonía emocional y bienestar general**  
+- Facilitar **liberación de tensiones y suavidad en reacciones emocionales**
+
+Puede combinarse con otras esencias florales para **potenciar adaptabilidad, equilibrio emocional y paz interior**.
+
+## Palabras clave SEO
+quaking grass flower essence, esencia floral quaking grass, briza minor esencia floral, fes california flower essences, esencias florales de california, flexibilidad emocional, resiliencia, adaptabilidad, calma interior, equilibrio emocional
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Quaking Grass FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Quaking Grass FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/quaking-grass-fes-1187-quaking-grass.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Quaking Grass FES"}]
+13:T9de,# Quaking Grass – Esencia Floral de California  
+*Briza minor · Pasto Tembloroso*
+
+## Descripción general
+La **esencia floral de Quaking Grass**, dentro del sistema de **FES California Flower Essences**, está asociada con la **flexibilidad emocional, adaptabilidad y calma interior**. Esta esencia ayuda a **liberar tensiones, suavizar reacciones exageradas y fomentar la resiliencia emocional**, promoviendo un **estado de equilibrio, paz y armonía interna**.
+
+## Energía y cualidad emocional
+Quaking Grass está indicada para personas que:  
+- Se sienten **inestables o emocionalmente rígidas**  
+- Necesitan **adaptarse mejor a cambios y situaciones inesperadas**  
+- Buscan **calma y estabilidad emocional**  
+- Desean **fluir con los eventos de la vida sin perder equilibrio**
+
+A nivel energético, esta esencia ayuda a **incrementar la flexibilidad emocional y la resiliencia**, promoviendo **tranquilidad, adaptabilidad y armonía interna**.
+
+## Beneficios energéticos de la esencia floral Quaking Grass
+- Favorece la **flexibilidad emocional y adaptación**  
+- Promueve **resiliencia y estabilidad interna**  
+- Apoya la **calma y equilibrio frente a cambios**  
+- Facilita **liberación de tensiones emocionales**  
+- Potencia la **armonía interior y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más equilibradas, adaptables y tranquilas frente a los desafíos de la vida**, cultivando **resiliencia y paz interior**.
+
+## La planta y su simbolismo
+El Pasto Tembloroso se caracteriza por sus delicadas espigas que se mueven con la brisa, simbolizando **flexibilidad, fluidez y resiliencia emocional**. Representa la **capacidad de adaptarse a los cambios sin perder estabilidad y armonía interna**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Quaking Grass se utiliza para:  
+- Incrementar **flexibilidad y adaptabilidad emocional**  
+- Favorecer **calma, resiliencia y estabilidad interna**  
+- Apoyar **armonía emocional y bienestar general**  
+- Facilitar **liberación de tensiones y suavidad en reacciones emocionales**
+
+Puede combinarse con otras esencias florales para **potenciar adaptabilidad, equilibrio emocional y paz interior**.
+
+## Palabras clave SEO
+quaking grass flower essence, esencia floral quaking grass, briza minor esencia floral, fes california flower essences, esencias florales de california, flexibilidad emocional, resiliencia, adaptabilidad, calma interior, equilibrio emocional
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/quaking-grass-fes-1187-quaking-grass.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Queen Anne's Lace FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Queen Anne's Lace FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/queen-annes-lace-fes-1188-queen-annes-lace.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Queen Anne's Lace FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/queen-annes-lace-fes-1188-queen-annes-lace.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta1e,# Queen Anne's Lace – Esencia Floral de California  
+*Daucus carota · Encaje de la Reina Ana*
+
+## Descripción general
+La **esencia floral de Queen Anne's Lace**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, conexión con la intuición y organización emocional**. Esta esencia ayuda a **aclarar pensamientos confusos, mejorar la concentración y promover equilibrio entre emociones y mente**, facilitando un **estado de calma, enfoque y armonía interna**.
+
+## Energía y cualidad emocional
+Queen Anne's Lace está indicada para personas que:  
+- Se sienten **mentalmente dispersas o sobrecargadas emocionalmente**  
+- Necesitan **organizar sus pensamientos y emociones**  
+- Buscan **claridad interna y conexión con la intuición**  
+- Desean **equilibrio emocional y enfoque mental**
+
+A nivel energético, esta esencia ayuda a **clarificar la mente, armonizar emociones y potenciar la intuición**, promoviendo **bienestar, calma y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Queen Anne's Lace
+- Favorece la **claridad mental y enfoque**  
+- Promueve **equilibrio entre emociones y mente**  
+- Apoya la **organización emocional y mental**  
+- Facilita **conexión con la intuición y discernimiento**  
+- Potencia la **armonía interna y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más centradas, equilibradas y conectadas con su intuición**, cultivando **claridad y calma en la vida diaria**.
+
+## La planta y su simbolismo
+El Encaje de la Reina Ana se caracteriza por sus delicadas flores blancas agrupadas en formas complejas, simbolizando **claridad, enfoque y conexión con la intuición**. Representa la **capacidad de organizar la mente y emociones para actuar con equilibrio y discernimiento**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Queen Anne's Lace se utiliza para:  
+- Favorecer **claridad mental y organización emocional**  
+- Apoyar **equilibrio interno y bienestar general**  
+- Facilitar **conexión con la intuición y discernimiento**  
+- Promover **calma, enfoque y armonía emocional**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, equilibrio emocional y conexión con la intuición**.
+
+## Palabras clave SEO
+queen anne's lace flower essence, esencia floral queen anne's lace, daucus carota esencia floral, fes california flower essences, esencias florales de california, claridad mental, intuición, equilibrio emocional, enfoque, armonía interna
+6:Ta1e,# Queen Anne's Lace – Esencia Floral de California  
+*Daucus carota · Encaje de la Reina Ana*
+
+## Descripción general
+La **esencia floral de Queen Anne's Lace**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, conexión con la intuición y organización emocional**. Esta esencia ayuda a **aclarar pensamientos confusos, mejorar la concentración y promover equilibrio entre emociones y mente**, facilitando un **estado de calma, enfoque y armonía interna**.
+
+## Energía y cualidad emocional
+Queen Anne's Lace está indicada para personas que:  
+- Se sienten **mentalmente dispersas o sobrecargadas emocionalmente**  
+- Necesitan **organizar sus pensamientos y emociones**  
+- Buscan **claridad interna y conexión con la intuición**  
+- Desean **equilibrio emocional y enfoque mental**
+
+A nivel energético, esta esencia ayuda a **clarificar la mente, armonizar emociones y potenciar la intuición**, promoviendo **bienestar, calma y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Queen Anne's Lace
+- Favorece la **claridad mental y enfoque**  
+- Promueve **equilibrio entre emociones y mente**  
+- Apoya la **organización emocional y mental**  
+- Facilita **conexión con la intuición y discernimiento**  
+- Potencia la **armonía interna y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más centradas, equilibradas y conectadas con su intuición**, cultivando **claridad y calma en la vida diaria**.
+
+## La planta y su simbolismo
+El Encaje de la Reina Ana se caracteriza por sus delicadas flores blancas agrupadas en formas complejas, simbolizando **claridad, enfoque y conexión con la intuición**. Representa la **capacidad de organizar la mente y emociones para actuar con equilibrio y discernimiento**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Queen Anne's Lace se utiliza para:  
+- Favorecer **claridad mental y organización emocional**  
+- Apoyar **equilibrio interno y bienestar general**  
+- Facilitar **conexión con la intuición y discernimiento**  
+- Promover **calma, enfoque y armonía emocional**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, equilibrio emocional y conexión con la intuición**.
+
+## Palabras clave SEO
+queen anne's lace flower essence, esencia floral queen anne's lace, daucus carota esencia floral, fes california flower essences, esencias florales de california, claridad mental, intuición, equilibrio emocional, enfoque, armonía interna
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Queen Anne's Lace FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Queen Anne's Lace FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/queen-annes-lace-fes-1188-queen-annes-lace.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Queen Anne's Lace FES"}]
+13:Ta1e,# Queen Anne's Lace – Esencia Floral de California  
+*Daucus carota · Encaje de la Reina Ana*
+
+## Descripción general
+La **esencia floral de Queen Anne's Lace**, dentro del sistema de **FES California Flower Essences**, está asociada con la **claridad mental, conexión con la intuición y organización emocional**. Esta esencia ayuda a **aclarar pensamientos confusos, mejorar la concentración y promover equilibrio entre emociones y mente**, facilitando un **estado de calma, enfoque y armonía interna**.
+
+## Energía y cualidad emocional
+Queen Anne's Lace está indicada para personas que:  
+- Se sienten **mentalmente dispersas o sobrecargadas emocionalmente**  
+- Necesitan **organizar sus pensamientos y emociones**  
+- Buscan **claridad interna y conexión con la intuición**  
+- Desean **equilibrio emocional y enfoque mental**
+
+A nivel energético, esta esencia ayuda a **clarificar la mente, armonizar emociones y potenciar la intuición**, promoviendo **bienestar, calma y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Queen Anne's Lace
+- Favorece la **claridad mental y enfoque**  
+- Promueve **equilibrio entre emociones y mente**  
+- Apoya la **organización emocional y mental**  
+- Facilita **conexión con la intuición y discernimiento**  
+- Potencia la **armonía interna y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más centradas, equilibradas y conectadas con su intuición**, cultivando **claridad y calma en la vida diaria**.
+
+## La planta y su simbolismo
+El Encaje de la Reina Ana se caracteriza por sus delicadas flores blancas agrupadas en formas complejas, simbolizando **claridad, enfoque y conexión con la intuición**. Representa la **capacidad de organizar la mente y emociones para actuar con equilibrio y discernimiento**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Queen Anne's Lace se utiliza para:  
+- Favorecer **claridad mental y organización emocional**  
+- Apoyar **equilibrio interno y bienestar general**  
+- Facilitar **conexión con la intuición y discernimiento**  
+- Promover **calma, enfoque y armonía emocional**
+
+Puede combinarse con otras esencias florales para **potenciar claridad, equilibrio emocional y conexión con la intuición**.
+
+## Palabras clave SEO
+queen anne's lace flower essence, esencia floral queen anne's lace, daucus carota esencia floral, fes california flower essences, esencias florales de california, claridad mental, intuición, equilibrio emocional, enfoque, armonía interna
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/queen-annes-lace-fes-1188-queen-annes-lace.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

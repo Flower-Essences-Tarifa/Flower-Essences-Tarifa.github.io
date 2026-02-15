@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Pretty Face FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/pretty-face-fes-1185-pretty-face.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1185,"SKU":"Prefac","slug":"pretty-face-fes-1185"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tc1f,<h1>Pretty Face – Esencia Floral de California</h1>
+<p><em>Nemophila menziesii · Nemófila</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral Pretty Face</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>autoaceptación, confianza personal y equilibrio emocional</strong>. Esta esencia ayuda a <strong>fortalecer la autoestima, armonizar la expresión emocional y cultivar una imagen positiva de uno mismo</strong>, promoviendo un <strong>estado de bienestar y seguridad interna</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Pretty Face está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>inseguras de su apariencia o de su valía personal</strong></li>
+<li>Necesitan <strong>fortalecer la confianza y la autoaceptación</strong></li>
+<li>Buscan <strong>equilibrio emocional y armonía interna</strong></li>
+<li>Desean <strong>cultivar una actitud positiva hacia sí mismas y los demás</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>integrar la autoaceptación con la expresión emocional saludable</strong>, promoviendo <strong>confianza, claridad interior y bienestar emocional</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Pretty Face</h2>
+<ul>
+<li>Favorece la <strong>autoaceptación y confianza personal</strong></li>
+<li>Promueve <strong>equilibrio emocional y claridad interior</strong></li>
+<li>Apoya la <strong>armonización de la imagen propia y autoestima</strong></li>
+<li>Facilita <strong>expresión emocional saludable y positiva</strong></li>
+<li>Potencia la <strong>seguridad interna y bienestar general</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más confiadas, equilibradas y cómodas consigo mismas</strong>, cultivando <strong>armonía y bienestar en su vida diaria</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>La Nemófila se caracteriza por sus delicadas flores azules y blancas, simbolizando <strong>belleza, armonía y confianza interna</strong>. Representa la <strong>capacidad de aceptar la propia singularidad, cultivar autoestima y mantener equilibrio emocional</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Pretty Face se utiliza para:</p>
+<ul>
+<li>Fortalecer <strong>autoaceptación y confianza personal</strong></li>
+<li>Apoyar <strong>equilibrio emocional y claridad interior</strong></li>
+<li>Facilitar <strong>armonización de la autoestima y expresión emocional</strong></li>
+<li>Promover <strong>bienestar, seguridad interna y actitud positiva</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar confianza, autoaceptación y bienestar emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>pretty face flower essence, esencia floral pretty face, nemophila menziesii esencia floral, fes california flower essences, esencias florales de california, autoaceptación, confianza personal, equilibrio emocional, autoestima, bienestar</p>0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Pretty Face FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/pretty-face-fes-1185-pretty-face.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1185,"SKU":"Prefac","slug":"pretty-face-fes-1185"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

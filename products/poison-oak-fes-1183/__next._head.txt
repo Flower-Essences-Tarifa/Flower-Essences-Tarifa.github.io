@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Poison Oak FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Poison Oak FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/poison-oak-fes-1183-poison-oak.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Poison Oak FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/poison-oak-fes-1183-poison-oak.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta50,# Poison Oak – Esencia Floral de California  
+*Toxicodendron diversilobum · Encina Tóxica*
+
+## Descripción general
+La **esencia floral de Poison Oak**, dentro del sistema de **FES California Flower Essences**, está asociada con la **liberación de emociones reprimidas, protección emocional y adaptación a cambios**. Esta esencia ayuda a **soltar resentimientos, superar traumas emocionales y restablecer la armonía interna**, promoviendo un **estado de calma, equilibrio y resiliencia emocional**.
+
+## Energía y cualidad emocional
+Poison Oak está indicada para personas que:  
+- Se sienten **cargadas emocionalmente o resentidas**  
+- Necesitan **liberar emociones reprimidas o patrones negativos**  
+- Buscan **protección emocional y estabilidad interna**  
+- Desean **adaptarse mejor a los cambios y superar conflictos internos**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos emocionales, liberar tensiones y fomentar resiliencia y seguridad emocional**, promoviendo **claridad y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Poison Oak
+- Favorece la **liberación de emociones reprimidas**  
+- Promueve **protección y seguridad emocional**  
+- Apoya la **resiliencia y adaptación ante cambios**  
+- Facilita **superación de conflictos internos y traumas**  
+- Potencia la **armonía interna y claridad emocional**
+
+Es especialmente útil para personas que desean **soltar resentimientos, recuperar equilibrio emocional y fortalecer su capacidad de adaptación y resiliencia**.
+
+## La planta y su simbolismo
+La Encina Tóxica se caracteriza por sus hojas y frutos que provocan reacción si se toca, simbolizando **protección, liberación y conciencia de los límites personales**. Representa la **capacidad de establecer límites saludables, liberar emociones negativas y adaptarse de manera equilibrada a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Poison Oak se utiliza para:  
+- Facilitar **liberación emocional y superación de traumas**  
+- Apoyar **protección y límites emocionales**  
+- Promover **resiliencia y adaptación a cambios**  
+- Restaurar **equilibrio, claridad y armonía interna**
+
+Puede combinarse con otras esencias florales para **potenciar liberación de bloqueos emocionales, resiliencia y bienestar general**.
+
+## Palabras clave SEO
+poison oak flower essence, esencia floral poison oak, toxicodendron diversilobum esencia floral, fes california flower essences, esencias florales de california, liberación emocional, protección, resiliencia, adaptación, equilibrio emocional
+6:Ta50,# Poison Oak – Esencia Floral de California  
+*Toxicodendron diversilobum · Encina Tóxica*
+
+## Descripción general
+La **esencia floral de Poison Oak**, dentro del sistema de **FES California Flower Essences**, está asociada con la **liberación de emociones reprimidas, protección emocional y adaptación a cambios**. Esta esencia ayuda a **soltar resentimientos, superar traumas emocionales y restablecer la armonía interna**, promoviendo un **estado de calma, equilibrio y resiliencia emocional**.
+
+## Energía y cualidad emocional
+Poison Oak está indicada para personas que:  
+- Se sienten **cargadas emocionalmente o resentidas**  
+- Necesitan **liberar emociones reprimidas o patrones negativos**  
+- Buscan **protección emocional y estabilidad interna**  
+- Desean **adaptarse mejor a los cambios y superar conflictos internos**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos emocionales, liberar tensiones y fomentar resiliencia y seguridad emocional**, promoviendo **claridad y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Poison Oak
+- Favorece la **liberación de emociones reprimidas**  
+- Promueve **protección y seguridad emocional**  
+- Apoya la **resiliencia y adaptación ante cambios**  
+- Facilita **superación de conflictos internos y traumas**  
+- Potencia la **armonía interna y claridad emocional**
+
+Es especialmente útil para personas que desean **soltar resentimientos, recuperar equilibrio emocional y fortalecer su capacidad de adaptación y resiliencia**.
+
+## La planta y su simbolismo
+La Encina Tóxica se caracteriza por sus hojas y frutos que provocan reacción si se toca, simbolizando **protección, liberación y conciencia de los límites personales**. Representa la **capacidad de establecer límites saludables, liberar emociones negativas y adaptarse de manera equilibrada a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Poison Oak se utiliza para:  
+- Facilitar **liberación emocional y superación de traumas**  
+- Apoyar **protección y límites emocionales**  
+- Promover **resiliencia y adaptación a cambios**  
+- Restaurar **equilibrio, claridad y armonía interna**
+
+Puede combinarse con otras esencias florales para **potenciar liberación de bloqueos emocionales, resiliencia y bienestar general**.
+
+## Palabras clave SEO
+poison oak flower essence, esencia floral poison oak, toxicodendron diversilobum esencia floral, fes california flower essences, esencias florales de california, liberación emocional, protección, resiliencia, adaptación, equilibrio emocional
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Poison Oak FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Poison Oak FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/poison-oak-fes-1183-poison-oak.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Poison Oak FES"}]
+13:Ta50,# Poison Oak – Esencia Floral de California  
+*Toxicodendron diversilobum · Encina Tóxica*
+
+## Descripción general
+La **esencia floral de Poison Oak**, dentro del sistema de **FES California Flower Essences**, está asociada con la **liberación de emociones reprimidas, protección emocional y adaptación a cambios**. Esta esencia ayuda a **soltar resentimientos, superar traumas emocionales y restablecer la armonía interna**, promoviendo un **estado de calma, equilibrio y resiliencia emocional**.
+
+## Energía y cualidad emocional
+Poison Oak está indicada para personas que:  
+- Se sienten **cargadas emocionalmente o resentidas**  
+- Necesitan **liberar emociones reprimidas o patrones negativos**  
+- Buscan **protección emocional y estabilidad interna**  
+- Desean **adaptarse mejor a los cambios y superar conflictos internos**
+
+A nivel energético, esta esencia ayuda a **limpiar bloqueos emocionales, liberar tensiones y fomentar resiliencia y seguridad emocional**, promoviendo **claridad y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Poison Oak
+- Favorece la **liberación de emociones reprimidas**  
+- Promueve **protección y seguridad emocional**  
+- Apoya la **resiliencia y adaptación ante cambios**  
+- Facilita **superación de conflictos internos y traumas**  
+- Potencia la **armonía interna y claridad emocional**
+
+Es especialmente útil para personas que desean **soltar resentimientos, recuperar equilibrio emocional y fortalecer su capacidad de adaptación y resiliencia**.
+
+## La planta y su simbolismo
+La Encina Tóxica se caracteriza por sus hojas y frutos que provocan reacción si se toca, simbolizando **protección, liberación y conciencia de los límites personales**. Representa la **capacidad de establecer límites saludables, liberar emociones negativas y adaptarse de manera equilibrada a la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Poison Oak se utiliza para:  
+- Facilitar **liberación emocional y superación de traumas**  
+- Apoyar **protección y límites emocionales**  
+- Promover **resiliencia y adaptación a cambios**  
+- Restaurar **equilibrio, claridad y armonía interna**
+
+Puede combinarse con otras esencias florales para **potenciar liberación de bloqueos emocionales, resiliencia y bienestar general**.
+
+## Palabras clave SEO
+poison oak flower essence, esencia floral poison oak, toxicodendron diversilobum esencia floral, fes california flower essences, esencias florales de california, liberación emocional, protección, resiliencia, adaptación, equilibrio emocional
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/poison-oak-fes-1183-poison-oak.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

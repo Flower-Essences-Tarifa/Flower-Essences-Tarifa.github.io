@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Saguaro FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/saguaro-fes-1195-saguaro.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1195,"SKU":"Sagfes2","slug":"saguaro-fes-1195"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tc0a,<h1>Saguaro – Esencia Floral de California</h1>
+<p><em>Carnegiea gigantea · Saguaro</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Saguaro</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>resiliencia, paciencia y fuerza interior</strong>. Esta esencia ayuda a <strong>fortalecer la estabilidad emocional, superar desafíos y mantener equilibrio frente a las dificultades</strong>, promoviendo un <strong>estado de serenidad, confianza y armonía interna</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Saguaro está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>agotadas, vulnerables o abrumadas por situaciones difíciles</strong></li>
+<li>Necesitan <strong>fortalecer la paciencia y la resiliencia personal</strong></li>
+<li>Buscan <strong>equilibrio emocional y estabilidad interna</strong></li>
+<li>Desean <strong>conectar con su fuerza interior y mantenerse firmes ante los desafíos</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>incrementar la fortaleza interior, la paciencia y el equilibrio emocional</strong>, fomentando <strong>confianza, serenidad y bienestar profundo</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Saguaro</h2>
+<ul>
+<li>Favorece la <strong>resiliencia y fortaleza interior</strong></li>
+<li>Promueve <strong>paciencia y equilibrio emocional</strong></li>
+<li>Apoya <strong>estabilidad y claridad frente a desafíos</strong></li>
+<li>Facilita <strong>conexión con la fuerza personal y confianza interna</strong></li>
+<li>Potencia <strong>armonía, serenidad y bienestar general</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más firmes, equilibradas y conectadas con su fuerza interna</strong>, cultivando <strong>resiliencia, paciencia y bienestar emocional</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Saguaro se caracteriza por su imponente altura y longevidad en entornos desérticos, simbolizando <strong>resiliencia, paciencia y fuerza interior</strong>. Representa la <strong>capacidad de mantenerse firme y equilibrado frente a los desafíos de la vida</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Saguaro se utiliza para:</p>
+<ul>
+<li>Fortalecer <strong>resiliencia y estabilidad emocional</strong></li>
+<li>Favorecer <strong>paciencia, confianza y equilibrio interno</strong></li>
+<li>Apoyar <strong>superación de desafíos con serenidad y claridad</strong></li>
+<li>Promover <strong>bienestar, armonía y fuerza interior</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar resiliencia, estabilidad emocional y fortaleza interna</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>saguaro flower essence, esencia floral saguaro, carnegiea gigantea esencia floral, fes california flower essences, esencias florales de california, resiliencia, paciencia, fortaleza interior, equilibrio emocional, bienestar</p>0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Saguaro FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/saguaro-fes-1195-saguaro.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1195,"SKU":"Sagfes2","slug":"saguaro-fes-1195"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Self-Heal FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/self-heal-fes-1199-self-heal.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1199,"SKU":"Selfes","slug":"self-heal-fes-1199"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tc11,<h1>Self-Heal – Esencia Floral de California</h1>
+<p><em>Prunella vulgaris · Autosanación</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Self-Heal</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>auto-sanación, equilibrio y bienestar integral</strong>. Esta esencia ayuda a <strong>activar la capacidad natural de sanación emocional y física, liberar bloqueos internos y promover armonía</strong>, favoreciendo un <strong>estado de bienestar, calma y fortaleza interior</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Self-Heal está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>agotadas, vulnerables o emocionalmente desequilibradas</strong></li>
+<li>Necesitan <strong>fortalecer la auto-sanación y recuperación interna</strong></li>
+<li>Buscan <strong>equilibrio entre cuerpo, mente y emociones</strong></li>
+<li>Desean <strong>restaurar bienestar y confianza personal</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>restablecer la armonía interna, liberar tensiones y fomentar resiliencia emocional</strong>, promoviendo <strong>claridad, fortaleza y bienestar general</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Self-Heal</h2>
+<ul>
+<li>Favorece la <strong>auto-sanación emocional y física</strong></li>
+<li>Promueve <strong>equilibrio y armonía interna</strong></li>
+<li>Apoya <strong>resiliencia y fortaleza personal</strong></li>
+<li>Facilita <strong>liberación de bloqueos y tensiones internas</strong></li>
+<li>Potencia <strong>bienestar, calma y confianza personal</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más equilibradas, fuertes y conectadas con su capacidad de sanación</strong>, cultivando <strong>resiliencia, bienestar y claridad emocional</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Autosanación se caracteriza por sus pequeñas flores moradas y su capacidad de regenerarse en distintos ambientes, simbolizando <strong>recuperación, equilibrio y fortaleza interna</strong>. Representa la <strong>capacidad de sanar, restaurar armonía y mantener bienestar integral</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Self-Heal se utiliza para:</p>
+<ul>
+<li>Favorecer <strong>auto-sanación y equilibrio interno</strong></li>
+<li>Apoyar <strong>resiliencia, fortaleza y bienestar personal</strong></li>
+<li>Facilitar <strong>liberación de bloqueos emocionales y tensiones</strong></li>
+<li>Promover <strong>claridad, calma y armonía integral</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar auto-sanación, bienestar y equilibrio emocional</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>self-heal flower essence, esencia floral self-heal, prunella vulgaris esencia floral, fes california flower essences, esencias florales de california, auto-sanación, equilibrio, bienestar, fortaleza interior, resiliencia</p>0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Self-Heal FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/self-heal-fes-1199-self-heal.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1199,"SKU":"Selfes","slug":"self-heal-fes-1199"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

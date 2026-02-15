@@ -1,7 +1,44 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
-3:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/b4fa7735ad3eb7ab.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
-5:"$Sreact.suspense"
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Quince FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/quince-fes-1189-quince.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1189,"SKU":"Quifes","slug":"quince-fes-1189"},"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
-6:null
+2:I[37929,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/e0bd722b8662bf0a.js","/_next/static/chunks/14a41dda67a0f1c3.js","/_next/static/chunks/6b5d99e122453fd5.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+3:Tbc7,<h1>Quince – Esencia Floral de California</h1>
+<p><em>Cydonia oblonga · Membrillo</em></p>
+<h2>Descripción general</h2>
+<p>La <strong>esencia floral de Quince</strong>, dentro del sistema de <strong>FES California Flower Essences</strong>, está asociada con la <strong>fortaleza emocional, paciencia y equilibrio interior</strong>. Esta esencia ayuda a <strong>apoyar la estabilidad emocional, desarrollar resiliencia frente a situaciones difíciles y fomentar la claridad mental</strong>, promoviendo un <strong>estado de serenidad, confianza y bienestar interior</strong>.</p>
+<h2>Energía y cualidad emocional</h2>
+<p>Quince está indicada para personas que:</p>
+<ul>
+<li>Se sienten <strong>estresadas o emocionalmente inestables</strong></li>
+<li>Necesitan <strong>fortalecer la paciencia y la resiliencia personal</strong></li>
+<li>Buscan <strong>equilibrio y claridad en la toma de decisiones</strong></li>
+<li>Desean <strong>mantener serenidad y confianza en situaciones desafiantes</strong></li>
+</ul>
+<p>A nivel energético, esta esencia ayuda a <strong>cultivar fortaleza interior, equilibrio emocional y claridad mental</strong>, promoviendo <strong>confianza, calma y bienestar emocional</strong>.</p>
+<h2>Beneficios energéticos de la esencia floral Quince</h2>
+<ul>
+<li>Favorece la <strong>fortaleza emocional y resiliencia</strong></li>
+<li>Promueve <strong>paciencia y serenidad interior</strong></li>
+<li>Apoya <strong>claridad mental y toma de decisiones equilibrada</strong></li>
+<li>Facilita <strong>manejo de situaciones difíciles con calma</strong></li>
+<li>Potencia la <strong>confianza personal y bienestar emocional</strong></li>
+</ul>
+<p>Es especialmente útil para personas que desean <strong>sentirse más fuertes, equilibradas y serenas</strong>, cultivando <strong>resiliencia y bienestar interno en la vida diaria</strong>.</p>
+<h2>La planta y su simbolismo</h2>
+<p>El Membrillo se caracteriza por sus flores delicadas y frutos abundantes, simbolizando <strong>fortaleza, paciencia y equilibrio emocional</strong>. Representa la <strong>capacidad de mantener calma, claridad y confianza frente a desafíos</strong>.</p>
+<h2>Uso dentro de Flower Essences de California</h2>
+<p>Dentro del sistema de <strong>FES California Flower Essences</strong>, Quince se utiliza para:</p>
+<ul>
+<li>Fortalecer <strong>resiliencia y fortaleza emocional</strong></li>
+<li>Favorecer <strong>paciencia y equilibrio interno</strong></li>
+<li>Apoyar <strong>claridad mental y toma de decisiones consciente</strong></li>
+<li>Promover <strong>confianza, serenidad y bienestar emocional</strong></li>
+</ul>
+<p>Puede combinarse con otras esencias florales para <strong>potenciar estabilidad emocional, resiliencia y equilibrio interior</strong>.</p>
+<h2>Palabras clave SEO</h2>
+<p>quince flower essence, esencia floral quince, cydonia oblonga esencia floral, fes california flower essences, esencias florales de california, fortaleza emocional, paciencia, resiliencia, equilibrio interior, bienestar</p>0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Quince FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/quince-fes-1189-quince.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1189,"SKU":"Quifes","slug":"quince-fes-1189"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+4:["$","$L7",null,{}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/6b5d99e122453fd5.js","async":true}]
+6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null

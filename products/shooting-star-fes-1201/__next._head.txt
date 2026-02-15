@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shooting Star FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Shooting Star FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/shooting-star-fes-1201-shooting_star.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Shooting Star FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/shooting-star-fes-1201-shooting_star.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta02,# Shooting Star – Esencia Floral de California  
+*Dodecatheon spp. · Estrella Fugaz*
+
+## Descripción general
+La **esencia floral de Shooting Star**, dentro del sistema de **FES California Flower Essences**, está asociada con la **inspiración, liberación y apertura emocional**. Esta esencia ayuda a **superar bloqueos, liberar emociones reprimidas y fomentar creatividad e intuición**, promoviendo un **estado de ligereza, claridad y bienestar emocional**.
+
+## Energía y cualidad emocional
+Shooting Star está indicada para personas que:  
+- Se sienten **emocionalmente bloqueadas o atrapadas en patrones repetitivos**  
+- Necesitan **liberación y renovación interna**  
+- Buscan **inspiración, creatividad y apertura del corazón**  
+- Desean **conectarse con su intuición y fluidez emocional**
+
+A nivel energético, esta esencia ayuda a **liberar tensiones, revitalizar la energía emocional y fomentar claridad mental**, promoviendo **bienestar, apertura y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Shooting Star
+- Favorece **liberación emocional y fluidez interna**  
+- Promueve **inspiración, creatividad y apertura del corazón**  
+- Apoya **claridad mental y emocional**  
+- Facilita **superación de bloqueos y patrones repetitivos**  
+- Potencia **bienestar, ligereza y equilibrio emocional**
+
+Es especialmente útil para personas que desean **sentirse más libres, inspiradas y conectadas con sus emociones**, cultivando **claridad, creatividad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Estrella Fugaz se caracteriza por sus flores delicadas y su forma que apunta hacia arriba, simbolizando **inspiración, liberación y conexión con la intuición**. Representa la **capacidad de dejar ir lo que bloquea, abrir el corazón y fluir con la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Shooting Star se utiliza para:  
+- Favorecer **liberación de bloqueos emocionales**  
+- Apoyar **inspiración, creatividad y apertura emocional**  
+- Promover **claridad, bienestar y equilibrio interno**  
+- Facilitar **fluidez emocional y conexión con la intuición**
+
+Puede combinarse con otras esencias florales para **potenciar apertura, bienestar emocional y claridad interna**.
+
+## Palabras clave SEO
+shooting star flower essence, esencia floral shooting star, dodecatheon spp. esencia floral, fes california flower essences, esencias florales de california, liberación emocional, inspiración, creatividad, equilibrio, bienestar
+6:Ta02,# Shooting Star – Esencia Floral de California  
+*Dodecatheon spp. · Estrella Fugaz*
+
+## Descripción general
+La **esencia floral de Shooting Star**, dentro del sistema de **FES California Flower Essences**, está asociada con la **inspiración, liberación y apertura emocional**. Esta esencia ayuda a **superar bloqueos, liberar emociones reprimidas y fomentar creatividad e intuición**, promoviendo un **estado de ligereza, claridad y bienestar emocional**.
+
+## Energía y cualidad emocional
+Shooting Star está indicada para personas que:  
+- Se sienten **emocionalmente bloqueadas o atrapadas en patrones repetitivos**  
+- Necesitan **liberación y renovación interna**  
+- Buscan **inspiración, creatividad y apertura del corazón**  
+- Desean **conectarse con su intuición y fluidez emocional**
+
+A nivel energético, esta esencia ayuda a **liberar tensiones, revitalizar la energía emocional y fomentar claridad mental**, promoviendo **bienestar, apertura y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Shooting Star
+- Favorece **liberación emocional y fluidez interna**  
+- Promueve **inspiración, creatividad y apertura del corazón**  
+- Apoya **claridad mental y emocional**  
+- Facilita **superación de bloqueos y patrones repetitivos**  
+- Potencia **bienestar, ligereza y equilibrio emocional**
+
+Es especialmente útil para personas que desean **sentirse más libres, inspiradas y conectadas con sus emociones**, cultivando **claridad, creatividad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Estrella Fugaz se caracteriza por sus flores delicadas y su forma que apunta hacia arriba, simbolizando **inspiración, liberación y conexión con la intuición**. Representa la **capacidad de dejar ir lo que bloquea, abrir el corazón y fluir con la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Shooting Star se utiliza para:  
+- Favorecer **liberación de bloqueos emocionales**  
+- Apoyar **inspiración, creatividad y apertura emocional**  
+- Promover **claridad, bienestar y equilibrio interno**  
+- Facilitar **fluidez emocional y conexión con la intuición**
+
+Puede combinarse con otras esencias florales para **potenciar apertura, bienestar emocional y claridad interna**.
+
+## Palabras clave SEO
+shooting star flower essence, esencia floral shooting star, dodecatheon spp. esencia floral, fes california flower essences, esencias florales de california, liberación emocional, inspiración, creatividad, equilibrio, bienestar
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shooting Star FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Shooting Star FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/shooting-star-fes-1201-shooting_star.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Shooting Star FES"}]
+13:Ta02,# Shooting Star – Esencia Floral de California  
+*Dodecatheon spp. · Estrella Fugaz*
+
+## Descripción general
+La **esencia floral de Shooting Star**, dentro del sistema de **FES California Flower Essences**, está asociada con la **inspiración, liberación y apertura emocional**. Esta esencia ayuda a **superar bloqueos, liberar emociones reprimidas y fomentar creatividad e intuición**, promoviendo un **estado de ligereza, claridad y bienestar emocional**.
+
+## Energía y cualidad emocional
+Shooting Star está indicada para personas que:  
+- Se sienten **emocionalmente bloqueadas o atrapadas en patrones repetitivos**  
+- Necesitan **liberación y renovación interna**  
+- Buscan **inspiración, creatividad y apertura del corazón**  
+- Desean **conectarse con su intuición y fluidez emocional**
+
+A nivel energético, esta esencia ayuda a **liberar tensiones, revitalizar la energía emocional y fomentar claridad mental**, promoviendo **bienestar, apertura y equilibrio interno**.
+
+## Beneficios energéticos de la esencia floral Shooting Star
+- Favorece **liberación emocional y fluidez interna**  
+- Promueve **inspiración, creatividad y apertura del corazón**  
+- Apoya **claridad mental y emocional**  
+- Facilita **superación de bloqueos y patrones repetitivos**  
+- Potencia **bienestar, ligereza y equilibrio emocional**
+
+Es especialmente útil para personas que desean **sentirse más libres, inspiradas y conectadas con sus emociones**, cultivando **claridad, creatividad y bienestar emocional**.
+
+## La planta y su simbolismo
+La Estrella Fugaz se caracteriza por sus flores delicadas y su forma que apunta hacia arriba, simbolizando **inspiración, liberación y conexión con la intuición**. Representa la **capacidad de dejar ir lo que bloquea, abrir el corazón y fluir con la vida**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Shooting Star se utiliza para:  
+- Favorecer **liberación de bloqueos emocionales**  
+- Apoyar **inspiración, creatividad y apertura emocional**  
+- Promover **claridad, bienestar y equilibrio interno**  
+- Facilitar **fluidez emocional y conexión con la intuición**
+
+Puede combinarse con otras esencias florales para **potenciar apertura, bienestar emocional y claridad interna**.
+
+## Palabras clave SEO
+shooting star flower essence, esencia floral shooting star, dodecatheon spp. esencia floral, fes california flower essences, esencias florales de california, liberación emocional, inspiración, creatividad, equilibrio, bienestar
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/shooting-star-fes-1201-shooting_star.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]

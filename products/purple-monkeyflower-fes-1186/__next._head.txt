@@ -2,5 +2,131 @@
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"ViewportBoundary"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
-0:{"buildId":"I7lQI-WWvh5ujPvJF9RCR","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Purple Monkeyflower FES - Flower Essences Tarifa"}],["$","meta","1",{"property":"og:title","content":"Purple Monkeyflower FES"}],["$","meta","2",{"property":"og:site_name","content":"Flower Essences Tarifa"}],["$","meta","3",{"property":"og:image","content":"https://floweressencestarifa.org/products/purple-monkeyflower-fes-1186-purple-monkeyflower.jpg"}],["$","meta","4",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","5",{"name":"twitter:title","content":"Purple Monkeyflower FES"}],["$","meta","6",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/purple-monkeyflower-fes-1186-purple-monkeyflower.jpg"}],["$","link","7",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}],["$","link","8",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","9",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}],["$","link","10",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}],["$","$L5","11",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+14:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/7340adf74ff47ec0.js"],"IconMark"]
+5:Ta95,# Purple Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus var. purpureus · Flor de Mono Púrpura*
+
+## Descripción general
+La **esencia floral de Purple Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **confianza, valentía y apertura emocional profunda**. Esta esencia ayuda a **superar miedos profundos, fortalecer la autoestima y fomentar la seguridad al expresar emociones**, promoviendo un **estado de equilibrio, valentía y bienestar emocional**.
+
+## Energía y cualidad emocional
+Purple Monkeyflower está indicada para personas que:  
+- Se sienten **temerosas o inseguras frente a desafíos emocionales**  
+- Necesitan **fortalecer la valentía y la confianza personal**  
+- Buscan **abrirse emocionalmente y expresar sus sentimientos sin miedo**  
+- Desean **superar bloqueos internos y fortalecer la resiliencia emocional**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y el coraje emocional**, promoviendo **optimismo, confianza y equilibrio emocional duradero**.
+
+## Beneficios energéticos de la esencia floral Purple Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional profunda y autenticidad**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **resiliencia y estabilidad emocional**  
+- Potencia la **autoestima, claridad emocional y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**, fortaleciendo **la expresión emocional y la resiliencia interna**.
+
+## La planta y su simbolismo
+La Flor de Mono Púrpura se caracteriza por sus flores llamativas y vibrantes, simbolizando **valentía, apertura del corazón y confianza interna**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y autenticidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Purple Monkeyflower se utiliza para:  
+- Fortalecer **valentía y confianza personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **resiliencia, equilibrio y bienestar emocional**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y expresión emocional saludable**.
+
+## Palabras clave SEO
+purple monkeyflower flower essence, esencia floral purple monkeyflower, mimulus aurantiacus var. purpureus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, resiliencia, autoestima
+6:Ta95,# Purple Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus var. purpureus · Flor de Mono Púrpura*
+
+## Descripción general
+La **esencia floral de Purple Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **confianza, valentía y apertura emocional profunda**. Esta esencia ayuda a **superar miedos profundos, fortalecer la autoestima y fomentar la seguridad al expresar emociones**, promoviendo un **estado de equilibrio, valentía y bienestar emocional**.
+
+## Energía y cualidad emocional
+Purple Monkeyflower está indicada para personas que:  
+- Se sienten **temerosas o inseguras frente a desafíos emocionales**  
+- Necesitan **fortalecer la valentía y la confianza personal**  
+- Buscan **abrirse emocionalmente y expresar sus sentimientos sin miedo**  
+- Desean **superar bloqueos internos y fortalecer la resiliencia emocional**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y el coraje emocional**, promoviendo **optimismo, confianza y equilibrio emocional duradero**.
+
+## Beneficios energéticos de la esencia floral Purple Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional profunda y autenticidad**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **resiliencia y estabilidad emocional**  
+- Potencia la **autoestima, claridad emocional y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**, fortaleciendo **la expresión emocional y la resiliencia interna**.
+
+## La planta y su simbolismo
+La Flor de Mono Púrpura se caracteriza por sus flores llamativas y vibrantes, simbolizando **valentía, apertura del corazón y confianza interna**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y autenticidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Purple Monkeyflower se utiliza para:  
+- Fortalecer **valentía y confianza personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **resiliencia, equilibrio y bienestar emocional**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y expresión emocional saludable**.
+
+## Palabras clave SEO
+purple monkeyflower flower essence, esencia floral purple monkeyflower, mimulus aurantiacus var. purpureus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, resiliencia, autoestima
+0:{"buildId":"8PeR3VgEwxMY8brrSLcuy","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Purple Monkeyflower FES - Flower Essences Tarifa"}],["$","meta","1",{"name":"description","content":"$5"}],["$","meta","2",{"property":"og:title","content":"Purple Monkeyflower FES"}],["$","meta","3",{"property":"og:description","content":"$6"}],"$L7","$L8","$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],"$L12"]}],"loading":null,"isPartial":false}
+7:["$","meta","4",{"property":"og:site_name","content":"Flower Essences Tarifa"}]
+8:["$","meta","5",{"property":"og:image","content":"https://floweressencestarifa.org/products/purple-monkeyflower-fes-1186-purple-monkeyflower.jpg"}]
+9:["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}]
+a:["$","meta","7",{"name":"twitter:title","content":"Purple Monkeyflower FES"}]
+13:Ta95,# Purple Monkeyflower – Esencia Floral de California  
+*Mimulus aurantiacus var. purpureus · Flor de Mono Púrpura*
+
+## Descripción general
+La **esencia floral de Purple Monkeyflower**, dentro del sistema de **FES California Flower Essences**, está asociada con la **confianza, valentía y apertura emocional profunda**. Esta esencia ayuda a **superar miedos profundos, fortalecer la autoestima y fomentar la seguridad al expresar emociones**, promoviendo un **estado de equilibrio, valentía y bienestar emocional**.
+
+## Energía y cualidad emocional
+Purple Monkeyflower está indicada para personas que:  
+- Se sienten **temerosas o inseguras frente a desafíos emocionales**  
+- Necesitan **fortalecer la valentía y la confianza personal**  
+- Buscan **abrirse emocionalmente y expresar sus sentimientos sin miedo**  
+- Desean **superar bloqueos internos y fortalecer la resiliencia emocional**
+
+A nivel energético, esta esencia ayuda a **incrementar la seguridad interna y el coraje emocional**, promoviendo **optimismo, confianza y equilibrio emocional duradero**.
+
+## Beneficios energéticos de la esencia floral Purple Monkeyflower
+- Favorece la **valentía y confianza personal**  
+- Promueve **apertura emocional profunda y autenticidad**  
+- Apoya la **superación de miedos y bloqueos internos**  
+- Facilita **resiliencia y estabilidad emocional**  
+- Potencia la **autoestima, claridad emocional y bienestar general**
+
+Es especialmente útil para personas que desean **sentirse más valientes, seguras y capaces de enfrentar la vida con confianza y autenticidad**, fortaleciendo **la expresión emocional y la resiliencia interna**.
+
+## La planta y su simbolismo
+La Flor de Mono Púrpura se caracteriza por sus flores llamativas y vibrantes, simbolizando **valentía, apertura del corazón y confianza interna**. Representa la **capacidad de superar miedos, expresar emociones y actuar con seguridad y autenticidad**.
+
+## Uso dentro de Flower Essences de California
+Dentro del sistema de **FES California Flower Essences**, Purple Monkeyflower se utiliza para:  
+- Fortalecer **valentía y confianza personal**  
+- Apoyar **apertura emocional y expresión auténtica**  
+- Facilitar **superación de miedos y bloqueos internos**  
+- Promover **resiliencia, equilibrio y bienestar emocional**
+
+Puede combinarse con otras esencias florales para **potenciar valentía, confianza y expresión emocional saludable**.
+
+## Palabras clave SEO
+purple monkeyflower flower essence, esencia floral purple monkeyflower, mimulus aurantiacus var. purpureus esencia floral, fes california flower essences, esencias florales de california, valentía, confianza, apertura emocional, resiliencia, autoestima
+b:["$","meta","8",{"name":"twitter:description","content":"$13"}]
+c:["$","meta","9",{"name":"twitter:image","content":"https://floweressencestarifa.org/products/purple-monkeyflower-fes-1186-purple-monkeyflower.jpg"}]
+d:["$","link","10",{"rel":"shortcut icon","href":"/_next/static/media/favicon.d1eea0d5.ico"}]
+e:["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.d1eea0d5.ico","sizes":"48x48","type":"image/x-icon"}]
+f:["$","link","12",{"rel":"icon","href":"/_next/static/media/favicon.c7c780c8.svg"}]
+10:["$","link","13",{"rel":"apple-touch-icon","href":"/_next/static/media/apple-touch-icon.4a5f3b3f.png"}]
+11:["$","$L14","14",{}]
+12:["$","meta",null,{"name":"next-size-adjust","content":""}]
