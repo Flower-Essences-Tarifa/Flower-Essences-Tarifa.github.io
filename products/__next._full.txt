@@ -1,13 +1,13 @@
 1:"$Sreact.fragment"
-2:I[60125,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js"],"BasketContextProvider"]
+2:I[60125,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js"],"BasketContextProvider"]
 3:I[99041,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"default"]
 4:I[59683,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"default"]
-5:I[90373,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],""]
+5:I[90373,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],""]
 a:I[21585,[],"default"]
 :HL["/_next/static/chunks/b0b0ba9f851f3e53.css","style"]
 :HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"riPhtbH8tjEIxup6T0UVJ","c":["","products"],"q":"","i":false,"f":[[["",{"children":["products",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/b0b0ba9f851f3e53.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/09286d065a28618d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/a435a90bffe0abb0.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","div",null,{"className":"flex","children":[["$","div",null,{"children":"Phone:"}]," ",["$","div",null,{"className":"flex flex-wrap","children":[["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}],["$","div",null,{"children":" or "}],["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}]]}],["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,false]},null,false,false]},null,false,false],"$L9",false]],"m":"$undefined","G":["$a",[]],"S":true}
+0:{"P":null,"b":"nq2FueFYLk2m8PXha_raT","c":["","products"],"q":"","i":false,"f":[[["",{"children":["products",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/b0b0ba9f851f3e53.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/09286d065a28618d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/b768409ad497c5b3.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"inter_888316a3-module__yWzsNW__variable playfair_display_7750203c-module__t4cBfa__variable antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"footer","children":["$","div",null,{"className":"max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between gap-10","children":[["$","div",null,{"className":"flex-1 min-w-[250px] text-center md:text-left","children":[["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8]","children":"Contacta con nosotros"}],["$","div",null,{"className":"space-y-2 text-[#e7b4f8]","children":[["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"Email:"}]," ",["$","a",null,{"href":"mailto:info@milagraessences.org","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"info@milagraessences.org"}]]}],["$","div",null,{"className":"flex","children":[["$","div",null,{"children":"Phone:"}]," ",["$","div",null,{"className":"flex flex-wrap","children":[["$","a",null,{"href":"tel:+34 615 153 373","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+34 615 153 373"}],["$","div",null,{"children":" or "}],["$","a",null,{"href":"tel:+49 1520 7230388","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"+49 1520 7230388"}]]}]]}],["$","div",null,{"className":"flex","children":[["$","span",null,{"children":"WhatsApp:"}]," ",["$","a",null,{"href":"https://api.whatsapp.com/send?phone=34615153373&text=Hola,%20me%20gustaría%20hacer%20un%20pedido","target":"_blank","rel":"noopener","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":[["$","i",null,{"className":"fa-brands fa-whatsapp"}]," +34 615 153 373"]}]]}]]}],["$","h3",null,{"className":"text-2xl mb-4 text-[#e7b4f8] mt-4","children":"Useful links"}],["$","div",null,{"className":"flex-col sm:flex-row  space-y-2 text-[#e7b4f8]","children":[["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/milagra","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Milagra Flower Essences"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/categories/fes-california","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"FES California"}]}],["$","p",null,{"className":"flex","children":["$","$L5",null,{"href":"/products","className":"text-sky-400 font-medium hover:text-sky-300 transition-colors","children":"Products"}]}]]}]]}],"$L6"]}]}]]}]}]}]]}],{"children":["$L7",{"children":["$L8",{},null,false,false]},null,false,false]},null,false,false],"$L9",false]],"m":"$undefined","G":["$a",[]],"S":true}
 10:I[11282,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"ViewportBoundary"]
 12:I[11282,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"MetadataBoundary"]
 13:"$Sreact.suspense"
@@ -15,10 +15,10 @@ a:I[21585,[],"default"]
 7:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 b:T8af1,{"@context":"https://schema.org","@type":"ItemList","name":"Products","itemListElement":[{"@type":"ListItem","position":1,"name":"826 Remedios Naturales","image":"2.jpg","url":"https://floweressencestarifa.org/products/826-remedios-naturales-669"},{"@type":"ListItem","position":2,"name":"Aceites Esenciales y Aromaterapia","image":"1.jpg","url":"https://floweressencestarifa.org/products/aceites-esenciales-y-aromaterapia-661"},{"@type":"ListItem","position":3,"name":"Agrimony","image":"/products/agrimony-210-Agrimony-Agrimonia_eupatoria.jpg","url":"https://floweressencestarifa.org/products/agrimony-210"},{"@type":"ListItem","position":4,"name":"Almond FES","image":"/products/almond-1099-almond.jpg","url":"https://floweressencestarifa.org/products/almond-1099"},{"@type":"ListItem","position":5,"name":"Aloe Vera FES","image":"/products/aloe-vera-fes-221-aloe-vera.jpg","url":"https://floweressencestarifa.org/products/aloe-vera-fes-221"},{"@type":"ListItem","position":6,"name":"Alpine Lily FES","image":"/products/alpine-lily-fes-223-alpine-lily.jpg","url":"https://floweressencestarifa.org/products/alpine-lily-fes-223"},{"@type":"ListItem","position":7,"name":"Angel's Trumpet FES","image":"/products/angels-trumpet-fes-224-angels-trumpet.jpg","url":"https://floweressencestarifa.org/products/angels-trumpet-fes-224"},{"@type":"ListItem","position":8,"name":"Angelica FES","image":"/products/angelica-fes-225-angelica.jpg","url":"https://floweressencestarifa.org/products/angelica-fes-225"},{"@type":"ListItem","position":9,"name":"Arnica FES","image":"/products/arnica-fes-226-arnica.jpg","url":"https://floweressencestarifa.org/products/arnica-fes-226"},{"@type":"ListItem","position":10,"name":"Aspen","image":"/products/aspen-60-Aspen-Populus_tremula.jpg","url":"https://floweressencestarifa.org/products/aspen-60"},{"@type":"ListItem","position":11,"name":"Baby Blue Eyes FES","image":"/products/baby-blue-eyes-fes-227-baby-blue-eyes.jpg","url":"https://floweressencestarifa.org/products/baby-blue-eyes-fes-227"},{"@type":"ListItem","position":12,"name":"Basil FES","image":"/products/basil-fes-228-basil.jpg","url":"https://floweressencestarifa.org/products/basil-fes-228"},{"@type":"ListItem","position":13,"name":"Beech","image":"/products/beech-75-Beech-Fagus_sylvatica.jpg","url":"https://floweressencestarifa.org/products/beech-75"},{"@type":"ListItem","position":14,"name":"Black Cohosh FES","image":"/products/black-cohosh-fes-229-black-cohosh.jpg","url":"https://floweressencestarifa.org/products/black-cohosh-fes-229"},{"@type":"ListItem","position":15,"name":"Black Eyed Susan FES","image":"/products/black-eyed-susan-fes-1123-black-eyed susan.jpg","url":"https://floweressencestarifa.org/products/black-eyed-susan-fes-1123"},{"@type":"ListItem","position":16,"name":"Blackberry FES","image":"/products/blackberry-fes-1124-blackberry.jpg","url":"https://floweressencestarifa.org/products/blackberry-fes-1124"},{"@type":"ListItem","position":17,"name":"Bleeding Heart FES","image":"/products/bleeding-heart-fes-1125-bleeding-heart.jpg","url":"https://floweressencestarifa.org/products/bleeding-heart-fes-1125"},{"@type":"ListItem","position":18,"name":"Borage FES","image":"/products/borage-fes-1126-borage.jpg","url":"https://floweressencestarifa.org/products/borage-fes-1126"},{"@type":"ListItem","position":19,"name":"Buttercup FES","image":"/products/buttercup-fes-1127-buttercup.jpg","url":"https://floweressencestarifa.org/products/buttercup-fes-1127"},{"@type":"ListItem","position":20,"name":"Caja de Madera","image":"/products/caja-de-madera-553-Milagra_Complementos_Caja_de_Madera_Natural_30ml_Abierta-Lateral.jpg","url":"https://floweressencestarifa.org/products/caja-de-madera-553"},{"@type":"ListItem","position":21,"name":"Calendula FES","image":"/products/calendula-fes-1128-calendula.jpg","url":"https://floweressencestarifa.org/products/calendula-fes-1128"},{"@type":"ListItem","position":22,"name":"California Pitcher Plant FES","image":"/products/california-pitcher-plant-fes-1129-california-pitcher-plant.jpg","url":"https://floweressencestarifa.org/products/california-pitcher-plant-fes-1129"},{"@type":"ListItem","position":23,"name":"California Poppy FES","image":"/products/california-poppy-fes-1130-california-poppy.jpg","url":"https://floweressencestarifa.org/products/california-poppy-fes-1130"},{"@type":"ListItem","position":24,"name":"California Wild Rose FES","image":"/products/california-wild-rose-fes-1131-california-wild-rose.jpg","url":"https://floweressencestarifa.org/products/california-wild-rose-fes-1131"},{"@type":"ListItem","position":25,"name":"Calla Lily FES","image":"/products/calla-lily-fes-1132-calla-lily.jpg","url":"https://floweressencestarifa.org/products/calla-lily-fes-1132"},{"@type":"ListItem","position":26,"name":"Canyon Dudleya FES","image":"/products/canyon-dudleya-fes-1133-canyon-dudleya.jpg","url":"https://floweressencestarifa.org/products/canyon-dudleya-fes-1133"},{"@type":"ListItem","position":27,"name":"Cartas Affirm a Flower - Bach","image":"/products/cartas-affirm-a-flower-bach-685-FES_Cartas_Bach.jpg","url":"https://floweressencestarifa.org/products/cartas-affirm-a-flower-bach-685"},{"@type":"ListItem","position":28,"name":"Cartas Affirm a Flower - FES Flowers","image":"/products/cartas-affirm-a-flower-fes-flowers-698-FES_Cartas.jpg","url":"https://floweressencestarifa.org/products/cartas-affirm-a-flower-fes-flowers-698"},{"@type":"ListItem","position":29,"name":"Cartas Affirm a Flower - Range of Light","image":"/products/cartas-affirm-a-flower-range-of-light-703-FES_Cartas_Range_of_Light.jpg","url":"https://floweressencestarifa.org/products/cartas-affirm-a-flower-range-of-light-703"},{"@type":"ListItem","position":30,"name":"Cartas Flores de Bach - Nestinar","image":"Milagra_Cartas_2.jpg","url":"https://floweressencestarifa.org/products/cartas-flores-de-bach-nestinar-716"},{"@type":"ListItem","position":31,"name":"Cartas Flores de Bach - Satanassi","image":"Milagra_Cartas_1.jpg","url":"https://floweressencestarifa.org/products/cartas-flores-de-bach-satanassi-708"},{"@type":"ListItem","position":32,"name":"Cartas Flores de Bach - Sebastian","image":"Milagra_Cartas_3.jpg","url":"https://floweressencestarifa.org/products/cartas-flores-de-bach-sebastian-721"},{"@type":"ListItem","position":33,"name":"Cayenne FES","image":"/products/cayenne-fes-1134-cayenne.jpg","url":"https://floweressencestarifa.org/products/cayenne-fes-1134"},{"@type":"ListItem","position":34,"name":"Centaury","image":"/products/centaury-211-Centaury-Centaurium_erythraea.jpg","url":"https://floweressencestarifa.org/products/centaury-211"},{"@type":"ListItem","position":35,"name":"Cerato","image":"/products/cerato-183-Cerato-Ceratostigma_willmottianum.jpg","url":"https://floweressencestarifa.org/products/cerato-183"},{"@type":"ListItem","position":36,"name":"Chamomile FES","image":"/products/chamomile-fes-1135-chamomile.jpg","url":"https://floweressencestarifa.org/products/chamomile-fes-1135"},{"@type":"ListItem","position":37,"name":"Chaparral FES","image":"/products/chaparral-fes-1136-chaparral.jpg","url":"https://floweressencestarifa.org/products/chaparral-fes-1136"},{"@type":"ListItem","position":38,"name":"Cherry Plum","image":"/products/cherry-plum-71-Cherry_Plum-prunus_cerasifera.jpg","url":"https://floweressencestarifa.org/products/cherry-plum-71"},{"@type":"ListItem","position":39,"name":"Chestnut Bud","image":"/products/chestnut-bud-202-Chestnut_Bud-Aesculus_hippocastanum.jpg","url":"https://floweressencestarifa.org/products/chestnut-bud-202"},{"@type":"ListItem","position":40,"name":"Chicory","image":"/products/chicory-76-Chicory-Cichorium_intybus.jpg","url":"https://floweressencestarifa.org/products/chicory-76"},{"@type":"ListItem","position":41,"name":"Choosing Flower Essences","image":"3.jpg","url":"https://floweressencestarifa.org/products/choosing-flower-essences-670"},{"@type":"ListItem","position":42,"name":"Chrysanthemum FES","image":"/products/chrysanthemum-fes-1137-chrysanthemum.jpg","url":"https://floweressencestarifa.org/products/chrysanthemum-fes-1137"},{"@type":"ListItem","position":43,"name":"Clematis","image":"/products/clematis-204-Clematis-Clematis_vitalba.jpg","url":"https://floweressencestarifa.org/products/clematis-204"},{"@type":"ListItem","position":44,"name":"Complete Language of Flowers","image":"5.jpg","url":"https://floweressencestarifa.org/products/complete-language-of-flowers-672"},{"@type":"ListItem","position":45,"name":"Corn FES","image":"/products/corn-fes-1138-corn.jpg","url":"https://floweressencestarifa.org/products/corn-fes-1138"},{"@type":"ListItem","position":46,"name":"Cosmos FES","image":"/products/cosmos-fes-1139-cosmos.jpg","url":"https://floweressencestarifa.org/products/cosmos-fes-1139"},{"@type":"ListItem","position":47,"name":"Crab Apple","image":"/products/crab-apple-194-Crab_Apple-malus_sylverstris.jpg","url":"https://floweressencestarifa.org/products/crab-apple-194"},{"@type":"ListItem","position":48,"name":"Dandelion FES","image":"/products/dandelion-fes-1140-dandelion.jpg","url":"https://floweressencestarifa.org/products/dandelion-fes-1140"},{"@type":"ListItem","position":49,"name":"Deerbrush FES","image":"/products/deerbrush-fes-1141-deerbrush.jpg","url":"https://floweressencestarifa.org/products/deerbrush-fes-1141"},{"@type":"ListItem","position":50,"name":"Dill FES","image":"/products/dill-fes-1142-dill.jpg","url":"https://floweressencestarifa.org/products/dill-fes-1142"},{"@type":"ListItem","position":51,"name":"Dogwood FES","image":"/products/dogwood-fes-1143-dogwood.jpg","url":"https://floweressencestarifa.org/products/dogwood-fes-1143"},{"@type":"ListItem","position":52,"name":"Easter Lily (White Trumped) FES","image":"/products/easter-lily-white-trumped-fes-1144-Easter Lily.jpg","url":"https://floweressencestarifa.org/products/easter-lily-white-trumped-fes-1144"},{"@type":"ListItem","position":53,"name":"Echinacea FES","image":"/products/echinacea-fes-1145-echinacea.jpg","url":"https://floweressencestarifa.org/products/echinacea-fes-1145"},{"@type":"ListItem","position":54,"name":"Elm","image":"/products/elm-195-Elm-Ulmus_procera.jpg","url":"https://floweressencestarifa.org/products/elm-195"},{"@type":"ListItem","position":55,"name":"Estabilidad Emocional con las Flores de Bach","image":"6.jpg","url":"https://floweressencestarifa.org/products/estabilidad-emocional-con-las-flores-de-bach-673"},{"@type":"ListItem","position":56,"name":"Estuche Kit","image":"/products/estuche-kit-550-Milagra_Kit_Esencias_Estuche_5ml_Negro-Estuche_Abierto.jpg","url":"https://floweressencestarifa.org/products/estuche-kit-550"},{"@type":"ListItem","position":57,"name":"Evening Primrose FES","image":"/products/evening-primrose-fes-1146-evening-primrose.jpg","url":"https://floweressencestarifa.org/products/evening-primrose-fes-1146"},{"@type":"ListItem","position":58,"name":"Fairy Lantern FES","image":"/products/fairy-lantern-fes-1147-fairy-lantern.jpg","url":"https://floweressencestarifa.org/products/fairy-lantern-fes-1147"},{"@type":"ListItem","position":59,"name":"Fawn Lily FES","image":"/products/fawn-lily-fes-1148-fawn-lily.jpg","url":"https://floweressencestarifa.org/products/fawn-lily-fes-1148"},{"@type":"ListItem","position":60,"name":"FES Aceite Corporal Arnica Allay","image":"/products/fes-aceite-corporal-arnica-allay-579-Arnica-Allay.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-arnica-allay-579"},{"@type":"ListItem","position":61,"name":"FES Aceite Corporal Calendula Caress","image":"/products/fes-aceite-corporal-calendula-caress-588-Calendula-Caress.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-calendula-caress-588"},{"@type":"ListItem","position":62,"name":"FES Aceite Corporal Chamo-Mild Calm","image":"/products/fes-aceite-corporal-chamo-mild-calm-592-Chamo-Mild-Calm.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-chamo-mild-calm-592"},{"@type":"ListItem","position":63,"name":"FES Aceite Corporal Dandelion Dynamo","image":"/products/fes-aceite-corporal-dandelion-dynamo-595-Dandelion-Dynamo.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-dandelion-dynamo-595"},{"@type":"ListItem","position":64,"name":"FES Aceite Corporal Mugwort Moon Magic","image":"/products/fes-aceite-corporal-mugwort-moon-magic-598-Mugwort-Moon-Magic.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-mugwort-moon-magic-598"},{"@type":"ListItem","position":65,"name":"FES Aceite Corporal St. John’s Shield","image":"/products/fes-aceite-corporal-st-johns-shield-602-St-Johns-Shield.jpg","url":"https://floweressencestarifa.org/products/fes-aceite-corporal-st-johns-shield-602"},{"@type":"ListItem","position":66,"name":"FES Crema Self Heal","image":"/products/fes-crema-self-heal-564-FES_Crema_Self_Heal-120-ml.jpg","url":"https://floweressencestarifa.org/products/fes-crema-self-heal-564"},{"@type":"ListItem","position":67,"name":"FES Flora Fusions Kit","image":"/products/fes-flora-fusions-kit-341-FES_Flora_Fusions_Kit.jpg","url":"https://floweressencestarifa.org/products/fes-flora-fusions-kit-341"},{"@type":"ListItem","position":68,"name":"FES Quintessentials Kit","image":"/products/fes-quintessentials-kit-335-FES_Quintessentials_Kit.jpg","url":"https://floweressencestarifa.org/products/fes-quintessentials-kit-335"},{"@type":"ListItem","position":69,"name":"FES Range of light Kit","image":"/products/fes-range-of-light-kit-344-FES_Range_of_light_Kit.jpg","url":"https://floweressencestarifa.org/products/fes-range-of-light-kit-344"},{"@type":"ListItem","position":70,"name":"Filaree FES","image":"/products/filaree-fes-1149-filaree.jpg","url":"https://floweressencestarifa.org/products/filaree-fes-1149"},{"@type":"ListItem","position":71,"name":"Floriography","image":"4.jpg","url":"https://floweressencestarifa.org/products/floriography-671"},{"@type":"ListItem","position":72,"name":"Forget-Me-Not FES","image":"/products/forget-me-not-fes-1150-forget-me-not.jpg","url":"https://floweressencestarifa.org/products/forget-me-not-fes-1150"},{"@type":"ListItem","position":73,"name":"Frasco Vacío","image":"/products/frasco-vaco-432-Milagra_Frasco_Vacio_Pipeta_100ml.jpg","url":"https://floweressencestarifa.org/products/frasco-vaco-432"},{"@type":"ListItem","position":74,"name":"Frasco Vacío con Pipeta","image":"/products/frasco-vaco-con-pipeta-1102-Milagra_Frasco_Vacio_Pipeta_100ml.jpg","url":"https://floweressencestarifa.org/products/frasco-vaco-con-pipeta-1102"},{"@type":"ListItem","position":75,"name":"Frasco Vacío con Pulsador","image":"/products/frasco-vaco-con-pulsador-1109-Milagra_Frasco_Vacio_Pulsador_30ml.jpg","url":"https://floweressencestarifa.org/products/frasco-vaco-con-pulsador-1109"},{"@type":"ListItem","position":76,"name":"Frasco Vacío con Tapón","image":"/products/frasco-vaco-con-tapn-1115-Milagra_Frasco_Vacio_Tapon_500ml.jpg","url":"https://floweressencestarifa.org/products/frasco-vaco-con-tapn-1115"},{"@type":"ListItem","position":77,"name":"Fuchsia FES","image":"/products/fuchsia-fes-1151-fuchsia.jpg","url":"https://floweressencestarifa.org/products/fuchsia-fes-1151"},{"@type":"ListItem","position":78,"name":"Garlic FES","image":"/products/garlic-fes-1152-garlic.jpg","url":"https://floweressencestarifa.org/products/garlic-fes-1152"},{"@type":"ListItem","position":79,"name":"Gentian","image":"/products/gentian-185-Gentian-Gentiana_amarella.jpg","url":"https://floweressencestarifa.org/products/gentian-185"},{"@type":"ListItem","position":80,"name":"Golden Ear Drops FES","image":"/products/golden-ear-drops-fes-1153-golden-ear-drops.jpg","url":"https://floweressencestarifa.org/products/golden-ear-drops-fes-1153"},{"@type":"ListItem","position":81,"name":"Golden Yarrow FES","image":"/products/golden-yarrow-fes-1154-golden-yarrow.jpg","url":"https://floweressencestarifa.org/products/golden-yarrow-fes-1154"},{"@type":"ListItem","position":82,"name":"Goldenrod FES","image":"/products/goldenrod-fes-1155-goldenrod.jpg","url":"https://floweressencestarifa.org/products/goldenrod-fes-1155"},{"@type":"ListItem","position":83,"name":"Gorse","image":"/products/gorse-186-Gorse-Ulex_europaeus.jpg","url":"https://floweressencestarifa.org/products/gorse-186"},{"@type":"ListItem","position":84,"name":"Heather","image":"/products/heather-190-Heather-calluna_vulgaris.jpg","url":"https://floweressencestarifa.org/products/heather-190"},{"@type":"ListItem","position":85,"name":"Hibiscus FES","image":"/products/hibiscus-fes-1156-hibiscus.jpg","url":"https://floweressencestarifa.org/products/hibiscus-fes-1156"},{"@type":"ListItem","position":86,"name":"Holly","image":"/products/holly-212-Holly-Ilex_aquifolium.jpg","url":"https://floweressencestarifa.org/products/holly-212"},{"@type":"ListItem","position":87,"name":"Honeysuckle","image":"/products/honeysuckle-205-Honeysuckle-Lonicera_caprifolium.jpg","url":"https://floweressencestarifa.org/products/honeysuckle-205"},{"@type":"ListItem","position":88,"name":"Hornbeam","image":"/products/hornbeam-187-Hornbeam-Carpinus_betulus.jpg","url":"https://floweressencestarifa.org/products/hornbeam-187"},{"@type":"ListItem","position":89,"name":"Hound's Tongue FES","image":"/products/hounds-tongue-fes-1157-hounds-tongue.jpg","url":"https://floweressencestarifa.org/products/hounds-tongue-fes-1157"},{"@type":"ListItem","position":90,"name":"Impatients","image":"/products/impatients-192-Impatients-Impatiens_glandulifera.jpg","url":"https://floweressencestarifa.org/products/impatients-192"},{"@type":"ListItem","position":91,"name":"Indian Paintbrush FES","image":"/products/indian-paintbrush-fes-1158-indian-paintbrush.jpg","url":"https://floweressencestarifa.org/products/indian-paintbrush-fes-1158"},{"@type":"ListItem","position":92,"name":"Indian Pink FES","image":"/products/indian-pink-fes-1159-indian-pink.jpg","url":"https://floweressencestarifa.org/products/indian-pink-fes-1159"},{"@type":"ListItem","position":93,"name":"Iris FES","image":"/products/iris-fes-1160-iris.jpg","url":"https://floweressencestarifa.org/products/iris-fes-1160"},{"@type":"ListItem","position":94,"name":"Kit Milagra Caja de Madera","image":"/products/kit-milagra-caja-de-madera-309-Milagra_Kit_Esencias_Caja_de_Madera_30ml-Abierta_Frente.jpg","url":"https://floweressencestarifa.org/products/kit-milagra-caja-de-madera-309"},{"@type":"ListItem","position":95,"name":"Kit Milagra Cartón","image":"/products/kit-milagra-cartn-298-Milagra_Kit_Esencias_Caja_de_Carton_30ml-Cajas-Caja_Abierta.jpg","url":"https://floweressencestarifa.org/products/kit-milagra-cartn-298"},{"@type":"ListItem","position":96,"name":"Kit Milagra Estuche","image":"/products/kit-milagra-estuche-304-Milagra_Kit_Esencias_Estuche_15ml_Naranja-Estuche_Abierto.jpg","url":"https://floweressencestarifa.org/products/kit-milagra-estuche-304"},{"@type":"ListItem","position":97,"name":"Lady's Slipper FES","image":"/products/ladys-slipper-fes-1161-ladys-slipper.jpg","url":"https://floweressencestarifa.org/products/ladys-slipper-fes-1161"},{"@type":"ListItem","position":98,"name":"Larch","image":"/products/larch-196-Larch-Larix_decidua.jpg","url":"https://floweressencestarifa.org/products/larch-196"},{"@type":"ListItem","position":99,"name":"Larkspur FES","image":"/products/larkspur-fes-1162-larkspur.jpg","url":"https://floweressencestarifa.org/products/larkspur-fes-1162"},{"@type":"ListItem","position":100,"name":"Lavender FES","image":"/products/lavender-fes-1163-lavender.jpg","url":"https://floweressencestarifa.org/products/lavender-fes-1163"},{"@type":"ListItem","position":101,"name":"Lindeva Crema 30ml MI","image":"/products/lindeva-crema-30ml-mi-560-lindeva.png","url":"https://floweressencestarifa.org/products/lindeva-crema-30ml-mi-560"},{"@type":"ListItem","position":102,"name":"Lotus FES","image":"/products/lotus-fes-1164-lotus.jpg","url":"https://floweressencestarifa.org/products/lotus-fes-1164"},{"@type":"ListItem","position":103,"name":"Love-Lies-Bleeding FES","image":"/products/love-lies-bleeding-fes-1165-love-lies-bleeding.jpg","url":"https://floweressencestarifa.org/products/love-lies-bleeding-fes-1165"},{"@type":"ListItem","position":104,"name":"Madia FES","image":"/products/madia-fes-1166-madia.jpg","url":"https://floweressencestarifa.org/products/madia-fes-1166"},{"@type":"ListItem","position":105,"name":"Mallow FES","image":"/products/mallow-fes-1167-mallow.jpg","url":"https://floweressencestarifa.org/products/mallow-fes-1167"},{"@type":"ListItem","position":106,"name":"Manzanita FES","image":"/products/manzanita-fes-1168-manzanita.jpg","url":"https://floweressencestarifa.org/products/manzanita-fes-1168"},{"@type":"ListItem","position":107,"name":"Mariposa Lily FES","image":"/products/mariposa-lily-fes-1169-mariposa-lily.jpg","url":"https://floweressencestarifa.org/products/mariposa-lily-fes-1169"},{"@type":"ListItem","position":108,"name":"Milagra Remedio de Rescate (RQ5)","image":"/products/milagra-remedio-de-rescate-rq5-318-RQ5.png","url":"https://floweressencestarifa.org/products/milagra-remedio-de-rescate-rq5-318"},{"@type":"ListItem","position":109,"name":"Milagra Remedio de Rescate (RQ6)","image":"/products/milagra-remedio-de-rescate-rq6-324-RQ6-horizontal.png","url":"https://floweressencestarifa.org/products/milagra-remedio-de-rescate-rq6-324"},{"@type":"ListItem","position":110,"name":"Milagra Remedio de Rescate (RQ7)","image":"/products/milagra-remedio-de-rescate-rq7-329-RQ7.png","url":"https://floweressencestarifa.org/products/milagra-remedio-de-rescate-rq7-329"},{"@type":"ListItem","position":111,"name":"Milkweed FES","image":"/products/milkweed-fes-1170-milkweed.jpg","url":"https://floweressencestarifa.org/products/milkweed-fes-1170"},{"@type":"ListItem","position":112,"name":"Mimulus","image":"/products/mimulus-72-Mimulus-Mimulus_guttatus.jpg","url":"https://floweressencestarifa.org/products/mimulus-72"},{"@type":"ListItem","position":113,"name":"Morning Glory FES","image":"/products/morning-glory-fes-1171-morning-glory.jpg","url":"https://floweressencestarifa.org/products/morning-glory-fes-1171"},{"@type":"ListItem","position":114,"name":"Mountain Pennyroyal FES","image":"/products/mountain-pennyroyal-fes-1172-mountain-pennyroyal.jpg","url":"https://floweressencestarifa.org/products/mountain-pennyroyal-fes-1172"},{"@type":"ListItem","position":115,"name":"Mountain Pride FES","image":"/products/mountain-pride-fes-1173-mountain-pride.jpg","url":"https://floweressencestarifa.org/products/mountain-pride-fes-1173"},{"@type":"ListItem","position":116,"name":"Mugwort FES","image":"/products/mugwort-fes-1174-mugwort.jpg","url":"https://floweressencestarifa.org/products/mugwort-fes-1174"},{"@type":"ListItem","position":117,"name":"Mullein FES","image":"/products/mullein-fes-1175-mullein.jpg","url":"https://floweressencestarifa.org/products/mullein-fes-1175"},{"@type":"ListItem","position":118,"name":"Mustard","image":"/products/mustard-206-Mustard-Sinapis_arvensis.jpg","url":"https://floweressencestarifa.org/products/mustard-206"},{"@type":"ListItem","position":119,"name":"Nasturtium FES","image":"/products/nasturtium-fes-1176-nasturtium.jpg","url":"https://floweressencestarifa.org/products/nasturtium-fes-1176"},{"@type":"ListItem","position":120,"name":"Nicotiana FES","image":"/products/nicotiana-fes-1177-nicotiana.jpg","url":"https://floweressencestarifa.org/products/nicotiana-fes-1177"},{"@type":"ListItem","position":121,"name":"Oak","image":"/products/oak-197-Oak-Quercus_robur.jpg","url":"https://floweressencestarifa.org/products/oak-197"},{"@type":"ListItem","position":122,"name":"Olive","image":"/products/olive-207-Olive-Olea_europaea.jpg","url":"https://floweressencestarifa.org/products/olive-207"},{"@type":"ListItem","position":123,"name":"Oregon Grape FES","image":"/products/oregon-grape-fes-1178-oregon-grape.jpg","url":"https://floweressencestarifa.org/products/oregon-grape-fes-1178"},{"@type":"ListItem","position":124,"name":"Penstemon FES","image":"/products/penstemon-fes-1179-penstemon.jpg","url":"https://floweressencestarifa.org/products/penstemon-fes-1179"},{"@type":"ListItem","position":125,"name":"Peppermint FES","image":"/products/peppermint-fes-1180-peppermint.jpg","url":"https://floweressencestarifa.org/products/peppermint-fes-1180"},{"@type":"ListItem","position":126,"name":"Pine","image":"/products/pine-198-Pine-Pinus_sylvestris.jpg","url":"https://floweressencestarifa.org/products/pine-198"},{"@type":"ListItem","position":127,"name":"Pink Monkeyflower FES","image":"/products/pink-monkeyflower-fes-1181-pink-monkeyflower.jpg","url":"https://floweressencestarifa.org/products/pink-monkeyflower-fes-1181"},{"@type":"ListItem","position":128,"name":"Pink Yarrow FES","image":"/products/pink-yarrow-fes-1182-pink-yarrow.jpg","url":"https://floweressencestarifa.org/products/pink-yarrow-fes-1182"},{"@type":"ListItem","position":129,"name":"Poison Oak FES","image":"/products/poison-oak-fes-1183-poison-oak.jpg","url":"https://floweressencestarifa.org/products/poison-oak-fes-1183"},{"@type":"ListItem","position":130,"name":"Pomegranate FES","image":"/products/pomegranate-fes-1184-pomegranate.jpg","url":"https://floweressencestarifa.org/products/pomegranate-fes-1184"},{"@type":"ListItem","position":131,"name":"Pretty Face FES","image":"/products/pretty-face-fes-1185-pretty-face.jpg","url":"https://floweressencestarifa.org/products/pretty-face-fes-1185"},{"@type":"ListItem","position":132,"name":"Purple Monkeyflower FES","image":"/products/purple-monkeyflower-fes-1186-purple-monkeyflower.jpg","url":"https://floweressencestarifa.org/products/purple-monkeyflower-fes-1186"},{"@type":"ListItem","position":133,"name":"Quaking Grass FES","image":"/products/quaking-grass-fes-1187-quaking-grass.jpg","url":"https://floweressencestarifa.org/products/quaking-grass-fes-1187"},{"@type":"ListItem","position":134,"name":"Queen Anne's Lace FES","image":"/products/queen-annes-lace-fes-1188-queen-annes-lace.jpg","url":"https://floweressencestarifa.org/products/queen-annes-lace-fes-1188"},{"@type":"ListItem","position":135,"name":"Quince FES","image":"/products/quince-fes-1189-quince.jpg","url":"https://floweressencestarifa.org/products/quince-fes-1189"},{"@type":"ListItem","position":136,"name":"Rabbitbrush FES","image":"/products/rabbitbrush-fes-1190-rabbitbrush.jpg","url":"https://floweressencestarifa.org/products/rabbitbrush-fes-1190"},{"@type":"ListItem","position":137,"name":"Red Chestnut","image":"/products/red-chestnut-73-Red_Chestnut-Aesculus_carnea.jpg","url":"https://floweressencestarifa.org/products/red-chestnut-73"},{"@type":"ListItem","position":138,"name":"Red Clover FES","image":"/products/red-clover-fes-1191-red-clover.jpg","url":"https://floweressencestarifa.org/products/red-clover-fes-1191"},{"@type":"ListItem","position":139,"name":"Repertorio de Esencias Florales","image":"/products/repertorio-de-esencias-florales-650-Milagra_Libros-Repertorio_de_Esencias_Florales-Frente.jpg","url":"https://floweressencestarifa.org/products/repertorio-de-esencias-florales-650"},{"@type":"ListItem","position":140,"name":"Rock Rose","image":"/products/rock-rose-74-Rock_Rose-Helianthemum_nummularium.jpg","url":"https://floweressencestarifa.org/products/rock-rose-74"},{"@type":"ListItem","position":141,"name":"Rock Water","image":"/products/rock-water-142-Rock_Water.jpg","url":"https://floweressencestarifa.org/products/rock-water-142"},{"@type":"ListItem","position":142,"name":"Rosemary FES","image":"/products/rosemary-fes-1192-rosemary.jpg","url":"https://floweressencestarifa.org/products/rosemary-fes-1192"},{"@type":"ListItem","position":143,"name":"RQ Crema 30ml MI","image":"crema-rq7.jpg","url":"https://floweressencestarifa.org/products/rq-crema-30ml-mi-563"},{"@type":"ListItem","position":144,"name":"Sage FES","image":"/products/sage-fes-1193-sage.jpg","url":"https://floweressencestarifa.org/products/sage-fes-1193"},{"@type":"ListItem","position":145,"name":"Sagebrush FES","image":"/products/sagebrush-fes-1194-sagebrush.jpg","url":"https://floweressencestarifa.org/products/sagebrush-fes-1194"},{"@type":"ListItem","position":146,"name":"Saguaro FES","image":"/products/saguaro-fes-1195-saguaro.jpg","url":"https://floweressencestarifa.org/products/saguaro-fes-1195"},{"@type":"ListItem","position":147,"name":"Saint John's Wort FES","image":"/products/saint-johns-wort-fes-1196-saint-johns-wort.jpg","url":"https://floweressencestarifa.org/products/saint-johns-wort-fes-1196"},{"@type":"ListItem","position":148,"name":"Scarlet Monkeyflower FES","image":"/products/scarlet-monkeyflower-fes-1197-scarlet-monkeyflower.jpg","url":"https://floweressencestarifa.org/products/scarlet-monkeyflower-fes-1197"},{"@type":"ListItem","position":149,"name":"Scleranthus","image":"/products/scleranthus-188-Scleranthus-Scleranthus_annuus.jpg","url":"https://floweressencestarifa.org/products/scleranthus-188"},{"@type":"ListItem","position":150,"name":"Scotch Broom FES","image":"/products/scotch-broom-fes-1198-scotch-broom.jpg","url":"https://floweressencestarifa.org/products/scotch-broom-fes-1198"},{"@type":"ListItem","position":151,"name":"Self-Heal FES","image":"/products/self-heal-fes-1199-self-heal.jpg","url":"https://floweressencestarifa.org/products/self-heal-fes-1199"},{"@type":"ListItem","position":152,"name":"Shasta Daisy FES","image":"/products/shasta-daisy-fes-1200-shasta-daisy.jpg","url":"https://floweressencestarifa.org/products/shasta-daisy-fes-1200"},{"@type":"ListItem","position":153,"name":"Shooting Star FES","image":"/products/shooting-star-fes-1201-shooting_star.jpg","url":"https://floweressencestarifa.org/products/shooting-star-fes-1201"},{"@type":"ListItem","position":154,"name":"Snapdragon FES","image":"/products/snapdragon-fes-1202-snapdragon.jpg","url":"https://floweressencestarifa.org/products/snapdragon-fes-1202"},{"@type":"ListItem","position":155,"name":"Spray Ambientador MI","image":"/products/spray-ambientador-mi-608-Milagra_Sprays.jpg","url":"https://floweressencestarifa.org/products/spray-ambientador-mi-608"},{"@type":"ListItem","position":156,"name":"Spray FES Activ-8","image":"/products/spray-fes-activ-8-610-Activ-8.jpg","url":"https://floweressencestarifa.org/products/spray-fes-activ-8-610"},{"@type":"ListItem","position":157,"name":"Spray FES Fear-Less","image":"/products/spray-fes-fear-less-615-Fear-Less.jpg","url":"https://floweressencestarifa.org/products/spray-fes-fear-less-615"},{"@type":"ListItem","position":158,"name":"Spray FES Flora-Sleep","image":"/products/spray-fes-flora-sleep-616-Flora-Sleep.jpg","url":"https://floweressencestarifa.org/products/spray-fes-flora-sleep-616"},{"@type":"ListItem","position":159,"name":"Spray FES Grace","image":"/products/spray-fes-grace-617-Grace.jpg","url":"https://floweressencestarifa.org/products/spray-fes-grace-617"},{"@type":"ListItem","position":160,"name":"Star of Bethlehem","image":"/products/star-of-bethlehem-199-Star_of_Bethlehem-Ornithogalum_umbellatum.jpg","url":"https://floweressencestarifa.org/products/star-of-bethlehem-199"},{"@type":"ListItem","position":161,"name":"Star Thistle FES","image":"/products/star-thistle-fes-1203-star-thistle.jpg","url":"https://floweressencestarifa.org/products/star-thistle-fes-1203"},{"@type":"ListItem","position":162,"name":"Star Tulip FES","image":"/products/star-tulip-fes-1204-star-tulip.jpg","url":"https://floweressencestarifa.org/products/star-tulip-fes-1204"},{"@type":"ListItem","position":163,"name":"Sticky Monkeyflower FES","image":"/products/sticky-monkeyflower-fes-1205-sticky-monkeyflower.jpg","url":"https://floweressencestarifa.org/products/sticky-monkeyflower-fes-1205"},{"@type":"ListItem","position":164,"name":"Sunflower FES","image":"/products/sunflower-fes-1206-sunflower.jpg","url":"https://floweressencestarifa.org/products/sunflower-fes-1206"},{"@type":"ListItem","position":165,"name":"Sweet Chestnut","image":"/products/sweet-chestnut-200-Sweet_Chestnut-Castanea_sativa.jpg","url":"https://floweressencestarifa.org/products/sweet-chestnut-200"},{"@type":"ListItem","position":166,"name":"Sweet Pea FES","image":"/products/sweet-pea-fes-1207-sweet-pea.jpg","url":"https://floweressencestarifa.org/products/sweet-pea-fes-1207"},{"@type":"ListItem","position":167,"name":"Tansy FES","image":"/products/tansy-fes-1208-tansy.jpg","url":"https://floweressencestarifa.org/products/tansy-fes-1208"},{"@type":"ListItem","position":168,"name":"Tiger Lily FES","image":"/products/tiger-lily-fes-1209-tiger_lily.jpg","url":"https://floweressencestarifa.org/products/tiger-lily-fes-1209"},{"@type":"ListItem","position":169,"name":"Trillium FES","image":"/products/trillium-fes-1210-trillium.jpg","url":"https://floweressencestarifa.org/products/trillium-fes-1210"},{"@type":"ListItem","position":170,"name":"Trumpet Vine FES","image":"/products/trumpet-vine-fes-1211-trumpet-vine.jpg","url":"https://floweressencestarifa.org/products/trumpet-vine-fes-1211"},{"@type":"ListItem","position":171,"name":"Vervain","image":"/products/vervain-173-Vervain-Verbena_officinalis.jpg","url":"https://floweressencestarifa.org/products/vervain-173"},{"@type":"ListItem","position":172,"name":"Vine","image":"/products/vine-179-Vine-Vitis_vinifera.jpg","url":"https://floweressencestarifa.org/products/vine-179"},{"@type":"ListItem","position":173,"name":"Violet FES","image":"/products/violet-fes-1212-violet.jpg","url":"https://floweressencestarifa.org/products/violet-fes-1212"},{"@type":"ListItem","position":174,"name":"Walnut","image":"/products/walnut-213-Walnut-Juglans_regia.jpg","url":"https://floweressencestarifa.org/products/walnut-213"},{"@type":"ListItem","position":175,"name":"Water Violet","image":"/products/water-violet-193-Water_Violet-Hottonia_Palustris.jpg","url":"https://floweressencestarifa.org/products/water-violet-193"},{"@type":"ListItem","position":176,"name":"White Chestnut","image":"/products/white-chestnut-208-White_Chesnut-Aesculus_hippocastanum.jpg","url":"https://floweressencestarifa.org/products/white-chestnut-208"},{"@type":"ListItem","position":177,"name":"Wild Oat","image":"/products/wild-oat-189-Wild_Oat-Bromus_ramosus.jpg","url":"https://floweressencestarifa.org/products/wild-oat-189"},{"@type":"ListItem","position":178,"name":"Wild Rose","image":"/products/wild-rose-209-Wild_Rose-Rosa_canina.jpg","url":"https://floweressencestarifa.org/products/wild-rose-209"},{"@type":"ListItem","position":179,"name":"Willow","image":"/products/willow-201-Willow-Salix_vitellina.jpg","url":"https://floweressencestarifa.org/products/willow-201"},{"@type":"ListItem","position":180,"name":"Yarrow Environmental Solution FES","image":"/products/yarrow-environmental-solution-fes-1214-Yarrow-Environmental-Solution.jpg","url":"https://floweressencestarifa.org/products/yarrow-environmental-solution-fes-1214"},{"@type":"ListItem","position":181,"name":"Yarrow FES","image":"/products/yarrow-fes-1213-yarrow.jpg","url":"https://floweressencestarifa.org/products/yarrow-fes-1213"},{"@type":"ListItem","position":182,"name":"Yellow Star Tulip FES","image":"/products/yellow-star-tulip-fes-1215-yellow-star-tulip.jpg","url":"https://floweressencestarifa.org/products/yellow-star-tulip-fes-1215"},{"@type":"ListItem","position":183,"name":"Yerba Santa FES","image":"/products/yerba-santa-fes-1216-yerba-santa.jpg","url":"https://floweressencestarifa.org/products/yerba-santa-fes-1216"},{"@type":"ListItem","position":184,"name":"Zinnia FES","image":"/products/zinnia-fes-1217-zinnia.jpg","url":"https://floweressencestarifa.org/products/zinnia-fes-1217"}]}8:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://floweressencestarifa.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Products\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$b"}}],"$Lc","$Ld"],["$Le"],"$Lf"]}]
 9:["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":["$","$L12",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L14"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-15:I[8516,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
-16:I[27296,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"Image"]
-17:I[51602,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
-b1:I[90934,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/a435a90bffe0abb0.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
+15:I[8516,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
+16:I[27296,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"Image"]
+17:I[51602,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
+b1:I[90934,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/b768409ad497c5b3.js","/_next/static/chunks/c7d3d34cbe7f3fa6.js"],"default"]
 166:I[11282,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"OutletBoundary"]
 18:T542,<div class="flex flex-grow flex-col max-w-full gap-3 gizmo:gap-0">
 \n<div class="min-h-[20px] text-message peer flex flex-col items-start gap-3 whitespace-pre-wrap break-words peer-[.text-message]:mt-5 overflow-x-auto" data-message-author-role="assistant" data-message-id="8f490fc1-23e8-4faf-84e7-175e4a0df054">
@@ -589,7 +589,126 @@ Puede combinarse con otras esencias para **reforzar la coherencia interna y el e
 
 ## Palabras clave SEO
 basil flower essence, esencia floral basil, albahaca esencia floral, flower essences de california, esencias florales californianas, integración emocional, equilibrio interior, coherencia mente cuerpo
-23:T1149,<strong>Descubriendo la Esencia Floral de Bach "Beech": Una Mirada Profunda a su Uso y Beneficios</strong><br /><br /><br /><br />En el vasto mundo de la terapia floral, las esencias de Bach han destacado por su enfoque holístico para abordar los desequilibrios emocionales y mejorar el bienestar psicológico. Entre estas esencias, "Beech" se presenta como una poderosa herramienta para la transformación personal. Exploraremos qué es Beech, su propósito y cómo puede ser integrado para promover el desarrollo personal y emocional.<br /><br /><br /><br /><strong>¿Qué es Beech y Cuál es su Propósito?</strong><br /><br /><br /><br />Beech, o haya en español, es una de las 38 esencias florales desarrolladas por el Dr. Edward Bach en la década de 1930. Esta esencia se extrae de las flores del árbol de haya y está diseñada para abordar actitudes críticas, intolerantes o hipercríticas hacia los demás. Beech busca suavizar la rigidez mental y fomentar la tolerancia, la comprensión y la aceptación.<br /><br /><br /><br />Su propósito fundamental es ayudar a aquellos que tienden a juzgar severamente a los demás, creando una barrera emocional que dificulta las conexiones genuinas. Beech es un recordatorio de que cada individuo tiene su propia realidad y experiencia, alentando la empatía y la apertura a diferentes perspectivas.<br /><br /><br /><br /><strong>Aplicaciones Terapéuticas de Beech en el Desarrollo Personal</strong><br /><br /><ol><br /><br /> 	<li><em><strong> Fomenta la empatía</strong>:</em> Beech es eficaz para aquellos que luchan por entender las motivaciones y experiencias de los demás. Al integrar Beech, se promueve la empatía, permitiendo una conexión más profunda con quienes nos rodean.</li><br /><br /> 	<li><em> <strong>Alivia la crítica constante</strong>:</em> Para quienes tienden a criticar constantemente a los demás, Beech actúa como un bálsamo emocional, ayudando a liberar juicios negativos y promoviendo una actitud más comprensiva.</li><br /><br /> 	<li><em> <strong>Mejora la tolerancia</strong>:</em> Beech trabaja para aumentar la tolerancia hacia las diferencias, ya sean culturales, religiosas o simplemente individuales. Facilita la aceptación de la diversidad y promueve un entorno más armonioso.</li><br /><br /> 	<li><em> <strong>Rompe patrones de pensamiento rígidos</strong>:</em> Aquellos atrapados en patrones de pensamiento inflexibles y dogmáticos pueden beneficiarse al incorporar Beech, que ayuda a flexibilizar la mente y a adoptar una perspectiva más abierta.</li><br /><br /> 	<li><em> <strong>Fortalece las relaciones</strong>:</em> Beech es útil en la mejora de relaciones interpersonales al reducir la crítica y fomentar una comunicación más compasiva. Esto contribuye a relaciones más saludables y satisfactorias.</li><br /><br /></ol><br /><br /><strong>Cómo Integrar Beech en la Rutina Diaria</strong><br /><br /><ol><br /><br /> 	<li><em> <strong>Selección de la esencia</strong>:</em> Identifica si las características de Beech resuenan contigo. Si reconoces patrones de crítica excesiva o intolerancia en tu vida, Beech puede ser una opción valiosa.</li><br /><br /> 	<li><em> <strong>Método de aplicación</strong>:</em> La esencia de Beech puede tomarse diluida en agua varias veces al día o aplicarse directamente bajo la lengua. La constancia en su uso es clave para experimentar sus beneficios a largo plazo.</li><br /><br /> 	<li><em> <strong>Reflexión diaria</strong>:</em> Dedica unos minutos cada día para reflexionar sobre tus interacciones y actitudes hacia los demás. Este autoexamen consciente puede potenciar la efectividad de Beech.</li><br /><br /> 	<li><em> <strong>Acompañamiento profesional</strong>:</em> Considera la posibilidad de trabajar con un terapeuta floral o un profesional de la salud mental para obtener orientación personalizada sobre la integración de Beech en tu vida diaria.</li><br /><br /></ol><br /><br /><strong>Conclusión</strong><br /><br /><br /><br />La esencia floral de Bach "Beech" ofrece una valiosa oportunidad para la transformación personal al abordar actitudes críticas y fomentar la empatía. Integrar Beech en la rutina diaria puede abrir puertas hacia una mayor comprensión, tolerancia y aceptación, contribuyendo así a un desarrollo personal más equilibrado y satisfactorio.<br /><br /><br /><br />&nbsp;24:T9e6,# Black Cohosh – Esencia Floral de California  
+23:T1257,# Beech Milagra – Esencia Floral Inspirada en las Flores de Bach para la Tolerancia y la Comprensión
+
+La **Beech Milagra** es una esencia floral inspirada en la flor **Beech** del sistema de las **Flores de Bach**, desarrollado por el Dr. Edward Bach en la década de 1930. Tradicionalmente, Beech se asocia con la intolerancia, la crítica excesiva y la dificultad para aceptar las diferencias de los demás.
+
+Si alguna vez te has sentido fácilmente irritado por los errores ajenos o con tendencia a juzgar con dureza, Beech es la flor que el Dr. Bach describió para este estado emocional. En este artículo descubrirás qué es Beech Milagra, para qué sirve, cómo tomarla y cómo se relaciona con las Flores de Bach originales.
+
+---
+
+## ¿Qué es Beech en las Flores de Bach?
+
+Dentro del sistema original de las **Flores de Bach**, Beech (Fagus sylvatica) está indicada para personas que:
+
+- Son críticas o exigentes con los demás  
+- Se irritan fácilmente por pequeños errores  
+- Tienen dificultad para aceptar opiniones distintas  
+- Muestran impaciencia ante comportamientos ajenos  
+
+El Dr. Edward Bach clasificó Beech dentro del grupo de remedios para la soledad, ya que la actitud crítica puede generar distancia en las relaciones.
+
+**Beech Milagra** se inspira en esta misma descripción emocional, ofreciendo una alternativa vibracional basada en el arquetipo original de Beech.
+
+---
+
+## ¿Para Qué Sirve Beech Milagra?
+
+Beech Milagra se utiliza como apoyo natural en procesos de desarrollo personal y crecimiento emocional.
+
+### 🌿 1. Fomentar la tolerancia  
+Ayuda a aceptar diferencias sin juicio excesivo.
+
+### 🌿 2. Reducir la crítica interna y externa  
+Promueve una actitud más comprensiva hacia uno mismo y hacia los demás.
+
+### 🌿 3. Mejorar las relaciones personales  
+Favorece la empatía y la armonía en entornos familiares y laborales.
+
+### 🌿 4. Desarrollar paciencia  
+Apoya una respuesta más equilibrada ante errores o desacuerdos.
+
+---
+
+## Diferencias Entre Beech Milagra y las Flores de Bach Originales
+
+- Las **Flores de Bach originales** siguen estrictamente el método tradicional del Dr. Edward Bach.
+- **Beech Milagra** está inspirada en la misma descripción emocional, pero pertenece a una línea independiente de esencias florales.
+
+Ambas comparten el objetivo de apoyar el equilibrio emocional desde una perspectiva vibracional.
+
+---
+
+## Beneficios Emocionales Potenciales
+
+Muchas personas integran Beech Milagra en su rutina de bienestar. Entre los beneficios que se le atribuyen se encuentran:
+
+- Mayor comprensión hacia los demás  
+- Reducción de la irritabilidad  
+- Mejora en la convivencia  
+- Desarrollo de empatía  
+- Mayor apertura mental  
+
+*Las esencias florales no sustituyen tratamientos médicos ni psicológicos.*
+
+---
+
+## ¿Cómo Tomar Beech Milagra?
+
+El modo de uso habitual es:
+
+- 4 gotas, 4 veces al día bajo la lengua  
+- Diluidas en agua  
+- Añadidas a una botella para consumir a lo largo del día  
+
+Se recomienda seguir las indicaciones del fabricante o consultar con un terapeuta floral especializado.
+
+---
+
+## ¿Para Quién Está Indicada?
+
+Beech Milagra puede ser útil para personas que:
+
+- Se sienten frecuentemente irritadas por los demás  
+- Tienen tendencia a juzgar con dureza  
+- Experimentan conflictos recurrentes por diferencias de opinión  
+- Desean mejorar su tolerancia y comprensión  
+
+---
+
+## Beech Dentro del Sistema de Flores de Bach
+
+En el sistema de las Flores de Bach, Beech pertenece al grupo asociado con actitudes de rigidez mental y distancia emocional. El objetivo del remedio es transformar la crítica en comprensión y la rigidez en aceptación.
+
+Beech Milagra retoma este arquetipo emocional y lo adapta dentro de su propia línea vibracional.
+
+---
+
+## Conclusión
+
+La **Beech Milagra**, inspirada en la esencia Beech del sistema de las Flores de Bach, está orientada a acompañar a quienes desean desarrollar mayor tolerancia, empatía y armonía en sus relaciones.
+
+Si buscas una herramienta vibracional para suavizar la crítica y fomentar la comprensión, Beech Milagra puede formar parte de tu camino hacia el equilibrio emocional.
+
+---
+
+## Palabras Clave SEO
+
+- Beech Milagra  
+- Beech Flores de Bach  
+- Esencia floral Beech  
+- Flores de Bach para la intolerancia  
+- Remedios florales para la crítica  
+- Esencias florales para mejorar relaciones  
+- Terapia floral para la tolerancia  
+- Alternativa a Flores de Bach  
+- Remedios naturales para la irritabilidad  
+- Esencia Beech para la empatía  
+
+---
+
+*Aviso legal: Las esencias florales son complementos de bienestar y no sustituyen diagnóstico, tratamiento ni supervisión médica profesional.*
+24:T9e6,# Black Cohosh – Esencia Floral de California  
 *Actaea racemosa · Cohosh Negro*
 
 ## Descripción general
@@ -1088,7 +1207,251 @@ Puede combinarse con otras esencias florales para **potenciar la energía, la cl
 
 ## Palabras clave SEO
 cayenne flower essence, esencia floral cayenne, capsicum annuum esencia floral, fes california flower essences, esencias florales de california, coraje emocional, fuego interior, energía de acción
-31:T1110,<strong>Descubriendo la Esencia Floral de Bach "Centaury": Una Mirada Profunda a su Uso y Beneficios</strong><br /><br /><br /><br />La esencia floral de Bach "Centaury" es una de las 38 esencias desarrolladas por el Dr. Edward Bach en el siglo XX. Centaury, conocida científicamente como Centaurium umbellatum, es una flor que crece en los campos y prados de Europa. Esta delicada flor, con su tonalidad rosa pálido, posee una energía única que puede ser de gran ayuda en el ámbito del desarrollo personal y emocional.<br /><br /><br /><br /><strong>¿Qué es Centaury y Cuál es su Propósito?</strong><br /><br /><br /><br />La esencia floral de Centaury está destinada a aquellos individuos cuya naturaleza amable y servicial a menudo los lleva a descuidar sus propias necesidades y deseos. Las personas que podrían beneficiarse de Centaury suelen tener dificultades para decir "no" y establecer límites claros. A menudo, buscan la aprobación de los demás y tienden a sacrificarse en exceso por el bienestar de los demás.<br /><br /><br /><br />Centaury busca restaurar el equilibrio, permitiendo que estas personas conecten con su propia fuerza interior y aprendan a poner límites saludables. La esencia trabaja para fortalecer la capacidad de decir "no" cuando sea necesario, fomentando así la autonomía y el cuidado personal.<br /><br /><br /><br /><strong>Aplicaciones Terapéuticas de Centaury en el Desarrollo Personal</strong><br /><br /><ol><br /><br /> 	<li><strong>Establecimiento de Límites:</strong> Centaury es ideal para aquellos que se sienten constantemente sobrecargados debido a su incapacidad para decir "no". La esencia les ayuda a reconocer y respetar sus propias necesidades, estableciendo límites de manera más efectiva.</li><br /><br /> 	<li><strong>Autonomía Emocional:</strong> Personas que luchan por tomar decisiones por miedo al rechazo o la desaprobación pueden encontrar en Centaury un aliado para fortalecer su autonomía emocional y confianza en sí mismos.</li><br /><br /> 	<li><strong>Desarrollo de la Autoafirmación:</strong> Centaury promueve la autoafirmación saludable, permitiendo que los individuos expresen sus deseos y opiniones de manera auténtica sin temor a la crítica.</li><br /><br /> 	<li><strong>Redescubrimiento del Propósito Personal:</strong> Aquellos que han perdido de vista sus propios objetivos y deseos al poner constantemente las necesidades de los demás en primer lugar pueden usar Centaury para redescubrir y honrar su propio propósito personal.</li><br /><br /></ol><br /><br /><strong>Cómo Integrar Centaury en la Rutina Diaria</strong><br /><br /><ol><br /><br /> 	<li><strong>Tomar la Esencia Regularmente:</strong> Se recomienda tomar cuatro gotas de la esencia de Centaury, directamente debajo de la lengua o diluidas en agua, al menos cuatro veces al día. Esto ayuda a mantener una presencia constante de la energía curativa en la vida diaria.</li><br /><br /> 	<li><strong>Reflexión Personal:</strong> Al comenzar o finalizar el día, tomarse unos minutos para reflexionar sobre los límites establecidos y las decisiones afirmativas tomadas, reforzando así la autoafirmación y el autocuidado.</li><br /><br /> 	<li><strong>Prácticas de Mindfulness:</strong> Combinar la toma de Centaury con prácticas de mindfulness puede potenciar sus efectos, ayudando a mantenerse consciente de las propias necesidades y deseos en el momento presente.</li><br /><br /> 	<li><strong>Registro de Cambios:</strong> Llevar un diario personal para registrar los cambios en la capacidad de establecer límites y decir "no" puede ser una herramienta valiosa para rastrear el progreso y celebrar los logros.</li><br /><br /></ol><br /><br /><strong>Conclusión</strong><br /><br /><br /><br />La esencia floral de Bach "Centaury" ofrece un camino hacia el equilibrio emocional y el desarrollo personal para aquellos que tienden a sacrificarse en exceso por el bienestar de los demás. Integrar Centaury en la rutina diaria puede ser una herramienta efectiva para fortalecer la autoafirmación, establecer límites saludables y redescubrir el propósito personal. Al abrazar la energía curativa de Centaury, se puede avanzar hacia una vida más equilibrada y satisfactoria, donde el autocuidado y la autenticidad florezcan.<br /><br /><br /><br />&nbsp;32:T1179,<strong>Descubriendo la Esencia Floral de Bach "Cerato": Una Mirada Profunda a su Uso y Beneficios</strong><br /><br /><br /><br />En el vasto mundo de las terapias naturales y holísticas, las esencias florales de Bach han destacado como un enfoque único para abordar desequilibrios emocionales y promover el bienestar psicológico. Entre estas esencias, Cerato se distingue por su capacidad para fortalecer la confianza en uno mismo y la toma de decisiones. En este viaje de autodescubrimiento, exploraremos qué es Cerato, cuál es su propósito y cómo puede convertirse en una herramienta valiosa en tu desarrollo personal.<br /><br /><br /><br /><strong>¿Qué es Cerato y Cuál es su Propósito?</strong><br /><br /><br /><br />Cerato es una esencia floral derivada de la flor de Ceratostigma willmottiana, una planta que se encuentra comúnmente en China. Su propósito fundamental es abordar la falta de confianza en las propias decisiones y la tendencia a buscar constantemente la aprobación externa. Aquellos que se benefician de Cerato suelen experimentar dudas persistentes sobre sus elecciones, buscando constantemente la validación de los demás en lugar de confiar en su propio juicio interno.<br /><br /><br /><br /><strong>Aplicaciones Terapéuticas de Cerato en el Desarrollo Personal</strong><br /><br /><br /><br /><em>En la búsqueda de la verdad interior y la confianza en uno mismo, la esencia floral de Cerato puede ser un aliado valioso. Al incorporar esta esencia en tu práctica terapéutica o autocuidado, puedes experimentar beneficios significativos:</em><br /><br /><ol><br /><br /> 	<li><strong>Fortalece la Confianza en las Decisiones Propias</strong>: Cerato trabaja para aumentar la confianza en tus elecciones, permitiéndote tomar decisiones con mayor seguridad y claridad.</li><br /><br /> 	<li><strong>Fomenta la Conexión con la Intuición</strong>: Esta esencia floral ayuda a sintonizar con la voz interna, permitiéndote acceder a tu intuición y sabiduría interior.</li><br /><br /> 	<li><strong>Reduce la Dependencia de la Validación Externa</strong>: Cerato facilita la disminución de la necesidad constante de aprobación de los demás, promoviendo una autovalidación más sólida.</li><br /><br /> 	<li><strong>Promueve la Autenticidad Personal</strong>: Al liberar las dudas autoimpuestas, Cerato te permite expresar tu autenticidad sin miedo al juicio externo.</li><br /><br /> 	<li><strong>Aumenta la Autoestima y Autoaceptación</strong>: Al aprender a confiar en tus propias decisiones, experimentarás un aumento en la autoestima y una mayor aceptación de ti mismo.</li><br /><br /></ol><br /><br /><strong>Cómo Integrar Cerato en la Rutina Diaria</strong><br /><br /><br /><br /><em>La integración de Cerato en tu rutina diaria puede ser un proceso simple pero transformador. Aquí hay algunas formas prácticas de hacerlo:</em><br /><br /><ol><br /><br /> 	<li><strong>Toma la Esencia de Cerato Regularmente</strong>: Siguiendo las indicaciones, puedes incorporar unas gotas de la esencia de Cerato en tu rutina diaria.</li><br /><br /> 	<li><strong>Practica la Meditación y la Reflexión</strong>: Dedica tiempo a meditar y reflexionar sobre tus decisiones, permitiéndote conectar con tu intuición.</li><br /><br /> 	<li><strong>Crea un Diario de Decisiones y Logros</strong>: Lleva un diario donde registres tus elecciones y los logros resultantes. Esto fortalecerá tu confianza en tus decisiones.</li><br /><br /> 	<li><strong>Visualiza tu Éxito Personal</strong>: Visualiza escenarios en los que tomas decisiones con confianza y éxito, fortaleciendo tu conexión con tu capacidad de elección.</li><br /><br /> 	<li><strong>Combina Cerato con Otras Esencias Florales</strong>: Dependiendo de tus necesidades, considera combinar Cerato con otras esencias florales de Bach para un enfoque más integral.</li><br /><br /></ol><br /><br /><strong>Conclusión</strong><br /><br /><br /><br />En el viaje hacia el autoconocimiento y la confianza personal, Cerato se presenta como una herramienta valiosa. Al abrazar esta esencia floral de Bach, puedes liberarte de las dudas autoimpuestas y comenzar a confiar en tu propia sabiduría interna. La integración de Cerato en tu rutina diaria ofrece un camino hacia la autenticidad y la toma de decisiones consciente, allanando el camino hacia un desarrollo personal más pleno y satisfactorio.<br /><br /><br /><br />&nbsp;33:T8b5,# Chamomile – Esencia Floral de California  
+31:T1342,# Centaury Milagra – Esencia Floral Inspirada en las Flores de Bach para Aprender a Decir “No”
+
+La **Centaury Milagra** es una esencia floral inspirada en la flor **Centaury** del sistema de las **Flores de Bach**, desarrollado por el Dr. Edward Bach en la década de 1930. Tradicionalmente, Centaury se asocia con personas amables y serviciales que tienen dificultad para poner límites y suelen anteponer las necesidades de los demás a las propias.
+
+Si te cuesta decir “no”, sientes que te sobrecargas por ayudar demasiado o buscas mayor fortaleza personal, Centaury es la flor que el Dr. Bach describió para este estado emocional. En este artículo descubrirás qué es Centaury Milagra, para qué sirve, cómo tomarla y cómo se relaciona con las Flores de Bach originales.
+
+---
+
+## ¿Qué es Centaury en las Flores de Bach?
+
+Dentro del sistema original de las **Flores de Bach**, Centaury (Centaurium erythraea) está indicada para personas que:
+
+- Son excesivamente complacientes  
+- Tienen dificultad para establecer límites  
+- Se sienten agotadas por ayudar constantemente  
+- Temen decepcionar a los demás  
+- Se someten fácilmente a voluntades más fuertes  
+
+El Dr. Edward Bach describió este remedio como apoyo para desarrollar fuerza interior y autonomía sin perder la bondad natural.
+
+**Centaury Milagra** se inspira en este mismo arquetipo emocional, ofreciendo una alternativa vibracional alineada con la descripción original de Centaury.
+
+---
+
+## ¿Para Qué Sirve Centaury Milagra?
+
+Centaury Milagra se utiliza como apoyo natural en procesos de crecimiento personal y fortalecimiento emocional.
+
+### 🌿 1. Aprender a decir “no”  
+Favorece la capacidad de establecer límites sanos.
+
+### 🌿 2. Recuperar la energía personal  
+Ayuda a evitar el agotamiento por exceso de responsabilidad hacia otros.
+
+### 🌿 3. Desarrollar autonomía  
+Promueve decisiones propias sin sentirse culpable.
+
+### 🌿 4. Fortalecer la autoestima  
+Apoya una identidad más firme y segura.
+
+---
+
+## Diferencias Entre Centaury Milagra y las Flores de Bach Originales
+
+- Las **Flores de Bach originales** siguen el método tradicional establecido por el Dr. Edward Bach.
+- **Centaury Milagra** está inspirada en la misma descripción emocional, pero pertenece a una línea independiente de esencias florales.
+
+Ambas comparten la intención de apoyar el equilibrio emocional desde un enfoque vibracional.
+
+---
+
+## Beneficios Emocionales Potenciales
+
+Muchas personas integran Centaury Milagra en su rutina de bienestar. Entre los beneficios que se le atribuyen se encuentran:
+
+- Mayor seguridad personal  
+- Reducción del sentimiento de obligación constante  
+- Mejora en la gestión de relaciones desequilibradas  
+- Disminución del agotamiento emocional  
+- Desarrollo de liderazgo personal  
+
+*Las esencias florales no sustituyen tratamientos médicos ni psicológicos.*
+
+---
+
+## ¿Cómo Tomar Centaury Milagra?
+
+El modo de uso habitual es:
+
+- 4 gotas, 4 veces al día bajo la lengua  
+- Diluidas en agua  
+- Añadidas a una botella para consumo durante el día  
+
+Se recomienda seguir las indicaciones del fabricante o consultar con un terapeuta floral especializado.
+
+---
+
+## ¿Para Quién Está Indicada?
+
+Centaury Milagra puede ser útil para personas que:
+
+- Sienten que siempre deben ayudar  
+- Se sobrecargan con responsabilidades ajenas  
+- Tienen dificultad para priorizarse  
+- Experimentan relaciones desequilibradas  
+- Desean fortalecer su carácter sin perder su sensibilidad  
+
+---
+
+## Centaury Dentro del Sistema de Flores de Bach
+
+En el sistema de las Flores de Bach, Centaury pertenece al grupo relacionado con la sensibilidad excesiva a influencias externas. El objetivo del remedio es transformar la sumisión en fortaleza interior y la complacencia excesiva en servicio consciente y equilibrado.
+
+Centaury Milagra retoma este arquetipo emocional y lo adapta dentro de su propia línea vibracional.
+
+---
+
+## Conclusión
+
+La **Centaury Milagra**, inspirada en la esencia Centaury del sistema de las Flores de Bach, está orientada a acompañar a quienes desean desarrollar mayor autonomía, establecer límites saludables y recuperar su energía personal.
+
+Si buscas una herramienta vibracional para fortalecer tu autoestima y aprender a decir “no” sin culpa, Centaury Milagra puede formar parte de tu camino hacia el equilibrio emocional.
+
+---
+
+## Palabras Clave SEO
+
+- Centaury Milagra  
+- Centaury Flores de Bach  
+- Esencia floral Centaury  
+- Flores de Bach para decir no  
+- Remedios florales para poner límites  
+- Esencias florales para autoestima  
+- Terapia floral para fortalecer carácter  
+- Alternativa a Flores de Bach  
+- Remedios naturales para dependencia emocional  
+- Centaury para personas complacientes  
+
+---
+
+*Aviso legal: Las esencias florales son complementos de bienestar y no sustituyen diagnóstico, tratamiento ni supervisión médica profesional.*
+32:T1336,# Cerato Milagra – Esencia Floral Inspirada en las Flores de Bach para la Confianza en Uno Mismo
+
+La **Cerato Milagra** es una esencia floral inspirada en la flor **Cerato** del sistema de las **Flores de Bach**, desarrollado por el Dr. Edward Bach en la década de 1930. Tradicionalmente, Cerato se asocia con la falta de confianza en el propio criterio y la necesidad constante de pedir consejo o validación externa.
+
+Si dudas de tus decisiones, buscas confirmación antes de actuar o sientes que los demás saben más que tú sobre tu propia vida, Cerato es la flor que el Dr. Bach describió para este estado emocional. En este artículo descubrirás qué es Cerato Milagra, para qué sirve, cómo tomarla y cómo se relaciona con las Flores de Bach originales.
+
+---
+
+## ¿Qué es Cerato en las Flores de Bach?
+
+Dentro del sistema original de las **Flores de Bach**, Cerato (Ceratostigma willmottianum) está indicado para personas que:
+
+- Dudan de su propio juicio  
+- Piden consejo constantemente  
+- Cambian de opinión con facilidad  
+- Buscan validación externa antes de decidir  
+- Sienten inseguridad al tomar decisiones  
+
+El Dr. Edward Bach clasificó Cerato dentro del grupo de remedios para la incertidumbre, ya que su objetivo es fortalecer la confianza en la intuición y el criterio personal.
+
+**Cerato Milagra** se inspira en esta misma descripción emocional, ofreciendo una alternativa vibracional alineada con el arquetipo original de Cerato.
+
+---
+
+## ¿Para Qué Sirve Cerato Milagra?
+
+Cerato Milagra se utiliza como apoyo natural en procesos de crecimiento personal y desarrollo de la seguridad interior.
+
+### 🌿 1. Fortalecer la confianza en uno mismo  
+Ayuda a confiar en la propia intuición y decisiones.
+
+### 🌿 2. Reducir la dependencia de la opinión ajena  
+Favorece mayor autonomía emocional.
+
+### 🌿 3. Mejorar la toma de decisiones  
+Apoya claridad mental y determinación.
+
+### 🌿 4. Reforzar la conexión con la intuición  
+Promueve escuchar la voz interior con mayor seguridad.
+
+---
+
+## Diferencias Entre Cerato Milagra y las Flores de Bach Originales
+
+- Las **Flores de Bach originales** siguen el método tradicional establecido por el Dr. Edward Bach.
+- **Cerato Milagra** está inspirada en la misma descripción emocional, pero pertenece a una línea independiente de esencias florales.
+
+Ambas comparten el objetivo de apoyar el equilibrio emocional desde un enfoque vibracional.
+
+---
+
+## Beneficios Emocionales Potenciales
+
+Muchas personas integran Cerato Milagra en su rutina de bienestar. Entre los beneficios que se le atribuyen se encuentran:
+
+- Mayor seguridad al decidir  
+- Reducción de la indecisión constante  
+- Disminución de la ansiedad por aprobación  
+- Mayor coherencia entre intuición y acción  
+- Desarrollo de independencia emocional  
+
+*Las esencias florales no sustituyen tratamientos médicos ni psicológicos.*
+
+---
+
+## ¿Cómo Tomar Cerato Milagra?
+
+El modo de uso habitual es:
+
+- 4 gotas, 4 veces al día bajo la lengua  
+- Diluidas en agua  
+- Añadidas a una botella para consumo durante el día  
+
+Se recomienda seguir las indicaciones del fabricante o consultar con un terapeuta floral especializado.
+
+---
+
+## ¿Para Quién Está Indicada?
+
+Cerato Milagra puede ser útil para personas que:
+
+- Preguntan constantemente qué deberían hacer  
+- Cambian de opinión con facilidad  
+- Se sienten inseguras ante decisiones simples  
+- Temen equivocarse sin la aprobación de otros  
+- Desean fortalecer su criterio personal  
+
+---
+
+## Cerato Dentro del Sistema de Flores de Bach
+
+En el sistema de las Flores de Bach, Cerato pertenece al grupo de la incertidumbre, junto con otras esencias destinadas a reforzar la claridad mental y la confianza.
+
+El objetivo del remedio es transformar la duda en confianza interior y la dependencia en autonomía consciente.
+
+Cerato Milagra retoma este arquetipo emocional y lo adapta dentro de su propia línea vibracional.
+
+---
+
+## Conclusión
+
+La **Cerato Milagra**, inspirada en la esencia Cerato del sistema de las Flores de Bach, está orientada a acompañar a quienes desean fortalecer su confianza, mejorar su toma de decisiones y confiar más en su intuición.
+
+Si buscas una herramienta vibracional para reducir la duda constante y desarrollar mayor seguridad interior, Cerato Milagra puede formar parte de tu camino hacia el equilibrio emocional.
+
+---
+
+## Palabras Clave SEO
+
+- Cerato Milagra  
+- Cerato Flores de Bach  
+- Esencia floral Cerato  
+- Flores de Bach para la inseguridad  
+- Remedios florales para la duda  
+- Esencias florales para confianza en uno mismo  
+- Terapia floral para toma de decisiones  
+- Alternativa a Flores de Bach  
+- Remedios naturales para indecisión  
+- Cerato para dependencia de opinión ajena  
+
+---
+
+*Aviso legal: Las esencias florales son complementos de bienestar y no sustituyen diagnóstico, tratamiento ni supervisión médica profesional.*
+33:T8b5,# Chamomile – Esencia Floral de California  
 *Matricaria chamomilla · Manzanilla*
 
 ## Descripción general
