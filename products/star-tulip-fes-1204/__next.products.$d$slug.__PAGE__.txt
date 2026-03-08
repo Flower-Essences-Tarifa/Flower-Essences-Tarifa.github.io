@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[37929,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/05f899caf9367015.js","/_next/static/chunks/6d75313faf125ee0.js"],"ProductContextProvider"]
-7:I[88791,["/_next/static/chunks/09286d065a28618d.js","/_next/static/chunks/05f899caf9367015.js","/_next/static/chunks/6d75313faf125ee0.js"],"default"]
+2:I[37929,["/_next/static/chunks/d0cd7a597293b46d.js","/_next/static/chunks/40c59395d26fb8f7.js","/_next/static/chunks/77c557d9d8e961d9.js"],"ProductContextProvider"]
+7:I[88791,["/_next/static/chunks/d0cd7a597293b46d.js","/_next/static/chunks/40c59395d26fb8f7.js","/_next/static/chunks/77c557d9d8e961d9.js"],"default"]
 8:I[11282,["/_next/static/chunks/d5e289bff96cf0c1.js","/_next/static/chunks/0eed89cda4daeeed.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
 3:Tc49,<h1>Star Tulip – Esencia Floral de California</h1>
@@ -37,8 +37,8 @@
 </ul>
 <p>Puede combinarse con otras esencias florales para <strong>potenciar alegría, entusiasmo y claridad emocional</strong>.</p>
 <h2>Palabras clave SEO</h2>
-<p>star tulip flower essence, esencia floral star tulip, calochortus splendens esencia floral, fes california flower essences, esencias florales de california, alegría, vitalidad, apertura emocional, optimismo, bienestar</p>0:{"buildId":"NERVOEQgLaSfx8goNF_p6","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Star Tulip FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/star-tulip-fes-1204-star-tulip.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1204,"SKU":"Statul","slug":"star-tulip-fes-1204"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
+<p>star tulip flower essence, esencia floral star tulip, calochortus splendens esencia floral, fes california flower essences, esencias florales de california, alegría, vitalidad, apertura emocional, optimismo, bienestar</p>0:{"buildId":"w5c9cGuUdt18vNByJPuuE","rsc":["$","$1","c",{"children":[["$","$L2",null,{"superior":{"Tipo":"variable","Nombre":"Star Tulip FES","Publicado":1,"¿Está destacado?":0,"Visibilidad en el catálogo":"visible","Descripción corta":"","Descripción":"$3","Estado del impuesto":"taxable","¿Existencias?":1,"Inventario":100,"¿Permitir reservas de productos agotados?":0,"¿Vendido individualmente?":0,"¿Permitir valoraciones de clientes?":0,"Categorías":"FES California > FES Esencias, FES California > FES Esencias > FES Quintessentials","Imágenes":["/products/star-tulip-fes-1204-star-tulip.jpg"],"Posición":0,"Nombre del atributo 1":"Medida Esencia FES","Valor(es) del atributo 1":"30 ml, 7,5 ml","Atributo visible 1":0,"Atributo global 1":1,"Meta: _eael_post_view_count":6,"ID":1204,"SKU":"Statul","slug":"star-tulip-fes-1204"},"children":"$L4"}],["$L5"],"$L6"]}],"loading":null,"isPartial":false}
 4:["$","$L7",null,{}]
-5:["$","script","script-0",{"src":"/_next/static/chunks/6d75313faf125ee0.js","async":true}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/77c557d9d8e961d9.js","async":true}]
 6:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
